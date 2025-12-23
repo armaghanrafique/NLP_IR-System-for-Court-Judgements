@@ -1,0 +1,148 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._3606_2025.pdf
+CONVERSION DATE: 2025-12-23 19:35:35
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 5
+ESTIMATED WORD COUNT: 1,475
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME COURT OF PAKISTAN (Appellate Jurisdiction) Present: Mr. 
+
+Justice Yahya Afridi, CJ Mr. 
+
+Justice Muhammad Shafi Siddiqui Mr. 
+
+Justice Miangul Hassan Aurangzeb Civil Petition No. 3606 of 202 5 [Against judgment dated 17.06.2025 of the Islamabad High Court, Islamabad passed in Writ Petition No.2651 /2023 ] Farzana Yasmeen and others. … Petitioner s Versus Sohail Ahmed and another. … Respondent s For the Petitioner s: Ms. 
+
+Asma Mushtaq, ASC. 
+
+Syed Rifaqat Hussain Shah, AOR. 
+
+Respondent No.1: In-person. 
+
+Date of Hearing: 29.10.2025. 
+
+JUDGMENT Muhammad Shafi Siddiqui, J. 
+
+This petition for leave to appeal assails judgment dated 17.06.2025 passed by the Islamabad High Court, Islamabad, whereby writ petition filed by the petitioners was dismissed. 2. 
+
+Facts necessary for the disposal of the lis are that petitioners filed a suit for recovery of maintenance, dowry article s and gold ornaments against respondent No.1, whereas, respondent No.1 filed a suit for restitution of conjugal rights against petitioner No.1. 
+
+Both the suits were consolidated and consolidated issues were framed and after recording evidence vide judgment and decree dated 26.11.2022 passed by the Family Court, Islamabad the suit of the petitioners was partially decreed, whereas, the sui t of the respondent No.1 was decreed.
+
+============================================================
+PAGE 2
+============================================================
+
+2 Civil Petition No. 3606 of 2025 3. 
+
+Feeling aggrieved by the said judgment and decree, respondent No.1 filed an appeal before the Additional District and Sessions Judge, Islamabad, (“Appellate Court ”), who vide order dated 14.07.2023 accepted the appeal and set aside the judgment and decree dated 26.11.2022, which had partially decreed the suit of the petitioners. 
+
+Being dissatisfied with the said order, petitioners filed a writ petition before the Islamabad High Court, Islamabad and the same was dismissed vide impugned judgment dated 17.06.2025 (as stated above), hence the instant petition for leave to appeal. 4. 
+
+We have heard the learned counsel for the petitioners and respondent No.1, who is present in -person, and perused the material available on record. 5. 
+
+Two suits were filed before the Trial Court; the first being suit for recovery of maintenance, dowry articles and gold ornaments, which is filed by the petitioners, within the local limits of Police Station Lohibher, District Islamabad where she was living at the time of filing suit, whereas, the other suit was for restitution of conjugal rights filed by the respondent No.1 before the same court. 
+
+The two suits were then consolidated and were disposed of by a common judgment by the Trial Court. 
+
+The judgment was passed after framing of issues and recording of evidence by the parties. 
+
+On the basis of the pleadings of the parties, the following consolidated issue s were framed and there was no exception to such framing of issues: 1. 
+
+Whether the plaintiffs are entitled for recovery of maintenance allowance as prayed for? If yes then at what rate and for which period? OPP 2. 
+
+Whether the plaintiff No. 01 is entitled for recovery of dowry articles or its alternate value as prayed for? OPP 3. 
+
+Whether the plaintiff No. 1 is entitled for recovery of gold ornaments weighing 15 ½ tolas and its alternate value as prayed for? OPP 4. 
+
+Whether the plaintiff No. 01 is entitled for recovery of personal documents as prayed for? OPP 5. 
+
+Whether the defendant is entitled for decree of restitution of conjugal rights as prayed for? OPD 6. 
+
+Whether the suit of plaintiff is false and is liable to be dismissed? OPD
+
+============================================================
+PAGE 3
+============================================================
+
+3 Civil Petition No. 3606 of 2025 7. 
+
+Relief. 6. 
+
+There was no issue framed as to the territorial jurisdiction of the Trial Court in respect of claim of petitioners in the shape of Suit No. 
+
+D-1777/2022. 
+
+The respondent No.1 was aggrieved by the consolidated judgment and decree, which judgment ha d partly decreed the suit of the petitioners. 
+
+The respondent No.1 then preferred an appeal as Family Appeal No.1/2023. 
+
+The memo of appeal at page 23 of the paper -book does not disclose any ground in respect of territorial jurisdiction of the Trial Court in respect of claim of the petitioners with regard to maintenance, dowry articles and gold ornaments. 
+
+While hearing the appeal, in terms of paragraph 6, the Appellate Court noted a point of territorial jurisdiction which was neither pleaded nor taken in the memo of appeal, yet the Appellate Court found it worth consideri ng. 
+
+The Appellate Court then, in view of the territorial jurisdiction, set aside the judgment of the Trial Court in respect of the suit of the petitioners and ordered to return the plaint. 7. 
+
+Aggrieved of the judgment of the Appellate Court, the petitioners preferred writ petition before the Islamabad High Court, which did not disturb the findings of the Appellate Court, hence this petition for leave to appeal. 8. 
+
+The primary question as raised in the instant petition is whether the Appellate Court could reverse the findings of the Trial Court on account of territorial jurisdiction having not been taken by the trial court and having not been considered worth of framing issues either by court and/or parties. 
+
+Nothing agitat ed at the time of recording of evidence. 
+
+The question of territorial jurisdiction was not even raised in the memo of appeal. 
+
+Notwithstanding the fact that rule 6 of the West Pakistan Family Courts
+
+============================================================
+PAGE 4
+============================================================
+
+4 Civil Petition No. 3606 of 2025 Rules, 1965 does not identify the nature of suit to be filed by the petitioners before the court where she was currently residing, yet it was never challenged in the form of preliminary objection which has resulted in the non-framing of issue and conclusion of trial. 
+
+Although the family Court has decided the suit on its own procedure but so far as the territorial jurisdiction is concerned, that is, primary and subs tantially covered by section 21 of the Code of Civil Procedure, 1908 which provides that a par ty would not be allowed to object as to the place of suing at the appellate or revisional court unless such objection was taken in the court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement and unless there has been a consequent failure of justice.1 9. 
+
+Objections to territorial and pecuniary jurisdiction must be raised at the earliest stage before or at the time of settlement of issues. 
+
+Raising it at a later stage was considered highly prejudicial and contrary to justice. 
+
+So, once the case has proceeded and judgment is given, a defect in territorial or pecuniary jurisdiction is then treated as only a technical error. 
+
+It is significant to note that section 21 of C.P.C. provides that [“an” objection ] as, to the place of suing shall not be allowed by any app ellate or revisional Court unless there was “a consequent failure of justice ”.2 The suit was contested by respondent and after trial judgment was announced on merit; it caused no prejudice insofar as territorial jurisdiction is concerned. 
+
+It ought to have been resisted and agitated at the earliest. 
+
+The principle is that if an issue, to the extent of jurisdiction of a Court or Tribunal is not framed in the court of first instance it cannot be raised as point for consideration.3 Indeed the suit 1 Khan Muhammad Tareen v. 
+
+Nasir and Brother Coal Company ( 2018 SCMR 2121 ) 2 Faqir Muhammad v. 
+
+Pakistan (2000 SCMR 1312) 3 Chief Engineer, Hydel (North) and Project Director, WAPDA v. 
+
+Zafarullah Shah ( 2003 SCMR 686)
+
+============================================================
+PAGE 5
+============================================================
+
+5 Civil Petition No. 3606 of 2025 of petitioners is neither for dissolution of marriage nor for dower, infact, it was for maintenance, dowry articles and gold ornaments, which class of claim does not fall in the proviso to rule 6 of Rules of 1965 and would have been filed where cause of ac tion wholly or in part arisen and/or where parties last resided together. 
+
+However, the trial was allowed to be concluded without an issue of territorial jurisdiction being pressed by respondent. 10. 
+
+In the light of the above discussion, it would be unfair to non -suit the petitioners after complete trial, i.e., filing of plaint, written statement, framing of issues, recording of evidence and then allowing the parties to assist the court; more particularly when the issue of territorial jurisdiction was not pressed before the Trial Court nor raised in the memo of appeal, hence petitioner s cannot be non -suited, at the appellate stage. 11. 
+
+On the aforesaid questions of law, this petition is converted into an appeal and the same is allowed by setting aside the impugned judgment. 
+
+The matter is remanded back to the Appellate Court for decision afresh on merits in terms of the evidence recorded before the Trial Court. 
+
+Chief Justice Judge Judge Islamabad: 29.10.2025 Approved for Reporting [**]

@@ -1,0 +1,44 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_742015_Juma_Khan_versus_NiamatUllah___others.pdf
+CONVERSION DATE: 2025-12-23 19:33:18
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 89
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 74/2015. 
+
+Juma Khan & others Petitioners. 
+
+Versus Niamatullah through legal heirs Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Johar Ali Khan Advocate for the petitioners. 
+
+ORDER DATED: - 04.11.2016. 
+
+The learned counsel for the petitioners submits that since the case is pending adjudication in the learned Trial Court at Astore, therefore, he does not want to press this petition in circumstances. 
+
+In view of the above, thi s petition is dismissed as not pressed. 
+
+Chief Judge. 
+
+Judge.

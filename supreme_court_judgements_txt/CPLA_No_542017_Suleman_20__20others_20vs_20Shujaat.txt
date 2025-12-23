@@ -1,0 +1,66 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_542017_Suleman_20__20others_20vs_20Shujaat.pdf
+CONVERSION DATE: 2025-12-23 19:33:16
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 121
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+CPLA No. 54/2017 Suleman & others Petitioners. 
+
+Versus Shujaat Ali Respondent. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Sharif Ahmed Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioners. 2. 
+
+Mr. 
+
+Munir Ahmed Advocate alongwith Mr. 
+
+Rehmat Ali Advocate -on-Record for respondent. 
+
+DATE OF HEARING: - 22.05.2018. 
+
+ORDER. 
+
+Mr. 
+
+Sharif Ahmed learned counsel for the petitioners states that the matter has become infructuous and the same be allowed to withdraw. 
+
+Mr. 
+
+Munir Ahmed learned counsel for the respondent is present in court raised no objection. 
+
+The petition is dismissed a s withdrawn. 
+
+Chief Judge. 
+
+Judge.

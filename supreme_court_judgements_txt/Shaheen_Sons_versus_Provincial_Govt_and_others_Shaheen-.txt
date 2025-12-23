@@ -1,0 +1,46 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Shaheen_Sons_versus_Provincial_Govt_and_others_Shaheen-.pdf
+CONVERSION DATE: 2025-12-23 19:36:45
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 99
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN AT GILGIT. 
+
+C.Misc. 
+
+No. 25/2014 in C.P.L.A NO. 51/2014 Shaheen & Sons Petitioners. 
+
+VERSUS Provincial Government & others Respondents. 
+
+Present: - 1. 
+
+Mr. 
+
+Amjad Hussain, Advocate on behalf of the petitioners. 
+
+Order Dated: - 11-11-2015. 
+
+At the very outset of the proceedings, the learned counsel for the petitioners submits that this petition has become infructuous. 
+
+Consequently, he does not want to press this petition any more and wants to withdra w the same. 
+
+The case is accordingly dispose d off as having been withdrawn. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

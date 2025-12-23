@@ -1,0 +1,54 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: The_State_Versus_Mashroof_Cr._MISC_No._06-2010_The_State_Vs_Mashroof.PDF
+CONVERSION DATE: 2025-12-23 19:36:56
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 295
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN Cr. 
+
+Misc No. 06/2010 Before: Mr. 
+
+Justice Muhammad Nawaz Abbasi, Chief Judge. 
+
+Mr. 
+
+Justice Syed Jaffar Shah, Judge. 
+
+Mr. 
+
+Justice Muhammad Yaqoob, Judge. 
+
+The State Petitioner Versus Mashroof s/o Amir Hayat r/o Gorikote tehsil & District Astore Respondent PETITION UNDER SECTION 497(5) Cr.PC FOR CANCELLATION OF BAIL AND SETTING ASIDE THE ORDER DATED 22 -04-2010 PASSED BY THE HON’BLE CHIEF COURT GILGIT BALTISTAN. 
+
+Advocate General for Gilgit Baltistan Date of hearing 14-06-2010 Order Muhammad Nawaz Abbasi, CJ: This petition has been filed by the state for cancellation of Bail granted to the respondent by the Chief Court in a case registered against him under section 337 A(iii) and 337 -A (1) read with Se ction 147/148 PPC at Police Station Astore District Astore. 
+
+The respondent allegedly caused grievous injuries on the person of injured with iron rods. 
+
+The bail has been granted to him for the consideration whether in view of nature of injuries the case would fall within the ambit of Section 337 (i) PPC or Section 337 -A(iii) PPC. 
+
+Learned Advocate General has contended that in the light of medical report apparently the case may fall within the ambit of Section 337 (iii) PPC and the tentative assessment of evidence would not permit the grant of bail to respondent at evidence stage of the trial. 
+
+Be that as it may, we without commenting on merits dispose of this petition with observation that in case of misuse of cancellation of bail by the respondent in any manner, the state or the complainant as the case may be, may invoke the
+
+============================================================
+PAGE 2
+============================================================
+
+provision of Section 497(5) Cr.PC for cancellation of bail before the trial court. 
+
+Disposed of. 
+
+Chief Judge Judge Judge

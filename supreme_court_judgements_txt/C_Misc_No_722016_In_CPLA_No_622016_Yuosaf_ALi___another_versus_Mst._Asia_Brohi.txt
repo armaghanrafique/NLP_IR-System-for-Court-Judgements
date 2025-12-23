@@ -1,0 +1,64 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: C_Misc_No_722016_In_CPLA_No_622016_Yuosaf_ALi___another_versus_Mst._Asia_Brohi.pdf
+CONVERSION DATE: 2025-12-23 19:33:31
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 126
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+C. 
+
+Misc. 
+
+No. 72/2016 In CPLA. 
+
+No. 62/2016. 
+
+Yousuf Ali & another Petitioners. 
+
+Versus Mst. 
+
+Asia Brohi Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Johar Ali Khan Advocate for the petitioners. 
+
+DATE OF HEARING: - 06.10.2016. 
+
+The learned counsel for the petitioners submits that the case between both the parties is subjudice d before the learned Guardian Judge District Astore. 
+
+In the circumstance the learned counsel for the petitioners did not press the present petition and requests for its withdrawal. 
+
+The request made by the learned counsel for the petitioners is allowed. 
+
+The petition is dismissed as withdrawn. 
+
+Chief Judge. 
+
+Judge.

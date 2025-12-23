@@ -1,0 +1,54 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Contempt_Petition_No_022016_In_CPLA_No_192009_Rehmat_Ghani___other_versus_Sanaullah.pdf
+CONVERSION DATE: 2025-12-23 19:34:10
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 144
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Contempt Petition No. 02/2016 In CPLA. 
+
+No. 19/2009. 
+
+Rehmat Ghani & others Petitioners. 
+
+Versus Sanaullah & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Amjad Hussain Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioners. 
+
+ORDER DATED: - 07.11.2016. 
+
+The learned counsel for the petitioners after arguing his case at length does not want to press this petition. 
+
+He submits that the petitioners being senior, have been discriminated while not promoting/adjusting them against the posts of teachers. 
+
+The petitioners want to approach the competent court of law for redressal of their grievances. 
+
+In view of the above we dispose off this petition as not pressed. 
+
+Th e petitioners may seek remedy, if available to them, in the competent court of law. 
+
+The petition is disposed off as not pressed. 
+
+Chief Judge. 
+
+Judge.

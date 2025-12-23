@@ -1,0 +1,42 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Muhammad_Riaz_DSP_Police_Department_Gilgit-Baltist_muhammad_Riaz_DSP.pdf
+CONVERSION DATE: 2025-12-23 19:35:25
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 124
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN Cr. 
+
+Misc. 
+
+No.05/2010 Muhammad Riaz DSP Police Department Gilgit-Baltistan. 
+
+Petitioner Versus Chief Secretary Gilgit-Baltistan and others. 
+
+Respondent Advocate General Gilgit-Baltistan. 
+
+Malik Shafqat Wali Sr. 
+
+Advocate for the petitioner ORDER DATED 14-10-2010. 
+
+The learned Advocate General with Mr. 
+
+Ehsan Ali Deputy Secretary Services producing the copy of notification dated 13.10.2010 stated that in consequence to the decision of Departmental Promotion Committee Mr. 
+
+Muhammad Riaz Inspector now DSP has been given promotion as DSP (BPS- 17) with effect from 20.4.2006, and that in consequences to the promotion, the petitioner will be entitled to all financial and other service benefits accordingly. 
+
+The petitioner does not further press this petition which is disposed of accordingly. 
+
+CHIEF JUDGE JUDGE

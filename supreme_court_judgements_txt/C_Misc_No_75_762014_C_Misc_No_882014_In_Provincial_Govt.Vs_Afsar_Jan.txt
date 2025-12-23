@@ -1,0 +1,54 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: C_Misc_No_75_762014_C_Misc_No_882014_In_Provincial_Govt.Vs_Afsar_Jan.pdf
+CONVERSION DATE: 2025-12-23 19:33:31
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 106
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+C. 
+
+Misc. 
+
+No. 75 & 76/2014 C. 
+
+Misc. 
+
+No. 88/2014 In Under objection No. 75/2014. 
+
+Provincial Government & others Petitioners Versus Afsar Jan Respondents PRESENT: - 1. 
+
+The Advocate General alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioners. 2. 
+
+Mr. 
+
+Amjad Hussain Advocate on behalf of the respondent. 
+
+ORDER DATED: - 20.09.2016. 
+
+The learned Advocate General submits that he wants to withdraw this petition as the matter has settled out of court. 
+
+Mr. 
+
+Amjad Hussain learned counsel for the respondent raised no objection. 
+
+The petition is dismissed as withdrawn. 
+
+Chief Judge. 
+
+Judge.

@@ -1,0 +1,44 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No082010_death_of_under_trial_prisoner.PDF
+CONVERSION DATE: 2025-12-23 19:36:13
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 331
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN (Original Jurisdiction) S.M.C. 
+
+No.08/2010 (Death of under trial prisoner) Secretary Home Gilgit -Baltistan. 
+
+Deputy Secretary Home Gilgit -Baltistan Order Dated 06-10-2010. 
+
+The Home Secretary Government of G ilgit-Baltistan in response to the notice has appeared and explained that in an unfortunate incident taken place inside the gate of Chief Court, a under Trial prisoner in handcuff has been attacked and murdered. 
+
+The Home Secretary stated that Courts are lo cated in populated area of Konodas and that security arrangement of the Judges, Lawyers and Public litigant, are not satisfactory. 
+
+He conceded that the location of Special Court (ATA Court) adjacent to the Supreme Appellate Court and near the Chief Court i s security risk and even otherwise, the present location of the Special Court is not proper and undertakes to shift the Special Court to any other suitable place in Jutial Area, either in Government Building or private rented premises as the case may be, w ithin a period of one month. 
+
+This is to be noticed that in view of similar incident firing outside the premises of Chief court and Supreme Appellate Court, the Chief Secretary was asked for shifting of ATA Court to some other place and concerned police wa s also required to improve security system but nothing has been done. 
+
+The present incident is an alarming situation; therefore, no exception can be taken in the matter of Security of the Courts. 
+
+The matter is extremely serious which must be taken up as a special case on priority for the safety of Courts. 
+
+The Home Secretary will ensure proper security of Court premises and will also shift ATA Court to any other place, without wasting any time. 
+
+The compliance report relating to the Security arrangement and shifting of Special Court (ATA Court) will be submitted by him to the Registrar of this Court within one month for our perusal in Chamber. 
+
+Disposed of. 
+
+Chief Judge Judge Judge

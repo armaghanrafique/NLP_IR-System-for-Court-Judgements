@@ -1,0 +1,306 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.a._751_2016.pdf
+CONVERSION DATE: 2025-12-23 19:35:33
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 13
+ESTIMATED WORD COUNT: 3,978
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME COURT OF PAKISTAN (APPELLATE JURISDICTION) PRESENT: JUSTICE MUNIB AKHTAR JUSTICE MUHAMMAD SHAFI SIDDIQUI JUSTICE MIANGUL HASSAN AURANGZEB CIVIL APPEAL NO.751 OF 20 16 (Against the order dated 13. 05.2013 of the Islamabad High Court passed in I.C.A. 
+
+No.685-W of 201 3) Federation of Pakistan through Ministry of Water & Power and another …Appellants Versus Spencer Powergen Company of Pakistan Limited …Respondent For the Appellants: Mr. 
+
+Salman Akram Raja, ASC For the Respondent: Mr. 
+
+Muhammad Akram Sheikh, Sr. 
+
+ASC and Ms. 
+
+Natalya Kamal, ASC along with Syed Rifaqat Hussain Shah, AOR. 
+
+Date of Hearing: 02.10.2025. 
+
+ORDER MIANGUL HASSAN AURANGZEB, J. - Through the instant appeal, the appellants assail order dated 13.05.2013 passed by the Division Bench of the Islamabad High Court, dismissing intra court appeal No.685-W/2013 filed by the appellants against the judgment dated 04.04.2013 passed by the Single Bench of the said court, whereby writ petition No.1866/1997, filed by the respondent, was allowed with the direction to the appellants to refund the amount received by them on the encashment of the performance guarantee (“PG”) furnished by the respondent along with profit at the prevailing bank rate from the date of its encashment (i.e., 28.11.1996) till refund. 2. 
+
+The record shows that in March, 1994 the Government of Pakistan had issued ‘Policy Framework and Package of Incentives for Private Sector Power Generation Projects in Pakistan ’ (“Power
+
+============================================================
+PAGE 2
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 2:- Policy” ). 
+
+This policy was to be administered by respondent No.2 / Private Power and Infrastructure Board (“ PPIB ”). 
+
+In reliance on the representations in the said policy, and induced thereby, respondent No.1 with the av owed object of setting up a 330 M ega Watt (“MW”) single cycle thermal power generation plant based on residual furnace oil at Sindh Industrial Trading Estate, North Karachi, applied to the PPIB for the issuance of a Letter of Interest (“LOI”). 
+
+On 25.09.1994, PPIB issued a n LOI to the respondent for setting up a 330 MW power project. 
+
+As per the terms of the LOI, the project was to be implemented on fast -track basis and commissioned by August 1995. 
+
+The financial close for the project was required to be achieved within six months from the date of the issuance of a Letter of Support (“ LOS”). 
+
+The respondent was required to furnish a PG for an amount of Rs.100,000/ - per MW to be issued by a scheduled bank licensed to operate in Pakistan. 
+
+The PG was required to be valid for a period of four weeks beyond the validity of the LOS, which was to be issued on the furnishing of an acceptable PG to the PPIB. 3. 
+
+On 03.11.1994, the respondent furnished a PG in the form of a bank guarantee for an amount of Rs.33,000,000/ - issued by Habib Bank AG Zurich. 
+
+Since the PG furnished by the respondent was acceptable to PPIB, the latter, on 06.12.1994, issued an LOS to the respondent superseding the terms of the LOI dated 25.09.1994. 
+
+The LOS was, in essence, the President of Pakistan ’s permission to the respondent to design, finance, ensure, build, o wn, operate, and maintain a 330 MW power plan t. 
+
+The project was required to be commissioned by August 1995. 
+
+Clause (J) of the LOS provided that it would automatically terminate six months from the date of its issuance, unless extended in writing by the Government of Pakistan through PPIB.
+
+============================================================
+PAGE 3
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 3:- 4. 
+
+Within six months of the issuance of the LOS, the respondent was required to achieve financial clos e. 
+
+In the context of setting up power generation projects, ‘financial close’ is a key milestone that marks the stage when all the project’s financing arrangements are finalized and funds are available for full -scale construction and implementation of the project. 
+
+The terms of the LOS explicitly provided that in the event financial close is not achieved within six months, the PG was to be encashed. 5. 
+
+In fulfilment of its obligations under clause B(1) of the LOS, the respondent executed an Implementation Agreement dated 17.01.1995 with the President of Pakistan. 
+
+The documents on the record show that the validity of the LOS was extended to 30.10.1996. 6. 
+
+In 1996, several sponsors of private power projects held Letters of Support for a cumulative generation capacity exceeding the projected national demand for electricity. 
+
+It was feared that if all these projects reached financial close within the validity p eriods of their respective Letters of Support, the country would face a surplus of electricity. 
+
+This matter was taken up by the Economic Coordination Committee of the Cabinet (“ECC”) in its meeting held on 03.03.1996. 7. 
+
+On 03.03.1996 the ECC, while considering the “Progress Report on Private Power Projects” submitted by the Ministry of Water and Power, decided inter alia that “[t]he private pow er projects totaling 3 (three) thousand megawatts only should be constructed and a cut -off date for achieving financial close should be proposed by the [PPIB] for consideration of the ECC.” Furthermore, it was decided that only those private power projects which succeed, ahead of others, in achieving financial close before the cumulative limit of 3 (three) thousand megawatts should be allowed to implement their projects. 
+
+What is of significance for the purposes of the instant case is that it
+
+============================================================
+PAGE 4
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 4:- was also decided that the projects that do not achieve financial close before the cumulative limit of 3 (three) thousand megawatts is reached, “should not be allowed to implement their projects and their bank guarantees should be encashed.” 8. 
+
+The Ministry of Water and Power had submitted a summary dated 13.06.1996 to the ECC on the subject of “Encashment of Performance Guarantees.” This summary was considered by the ECC i n its meeting dated 17.06.1996. 
+
+The minutes of th e said meeting show that the ECC was informed that PPIB had encashed the PG furnished by sponsors of various private power projects as they could not achieve financial close within the stipulated deadline s. 
+
+These sponsors had expressed their disquiet over the encashment of thei r PGs as they had apparently spent huge amounts on preparatory work for their projects. 
+
+It was apprehended that some of these projects might embroil the Government in litigation / arbitration which would cause expenditure to the Government and tarnish its image abroad. 
+
+It was proposed that their guarantees be returned subject to an agreement that they would not pursue any legal claims against the Government. 
+
+In the said meeting, the ECC decided that the matter should be reviewed in consultation with the Finance Division and the Law and Justice Division as well as the Legal Advisor of PPIB and thereafter, a revised summary be submitted to the ECC. 9. 
+
+Of crucial significance to this case is the letter dated 03.07.1996 from the Cabinet Division making reference to the ECC’s decision dated 17.06.1996 on the subject of “Enforcement of Performance Guarantees.” This letter shows that the decision taken by the ECC on 17.06.1996 was substituted with the following: - “The Economic Coordination Committee of the Cabinet considered the summary dated 13th June, 1996 on “Encashment of Performance Guarantees” submitted by the Ministry of Water and Power and
+
+============================================================
+PAGE 5
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 5:- decided that for projects which held valid LOS. 
+
+On 15 -4-1996 the entire performance guarantee be returned on failure to reach financial close on due date. 
+
+This should be in lieu of an agreement (legally binding on both parties) prepared in consultation with PPIB’s lawyers for release of all parties under the IA, PPA, FSA as well as commitment, for non -pursuance of any legal claims, material or otherwise. 
+
+Fo r the remaining cases, the matter should be reviewed in consultation with the Finance Division, Law an d Justice Division and the legal Advisor (PPIB) and a fresh summary should be submitted to the ECC.” (Emphasis added) 10. 
+
+Vide letter dated 01.09.1996, PPIB informed the respondent that financial clos e of private power projects with cumulative capacity in excess of 3,000 MW ha d taken place and therefore its LOS “stands invalid at this time.” Furthermore, the respondent was informed that its case for the grant of an extension was under consideration. 
+
+PPIB did not approve the term sheet s (i.e. non - binding summary of the key commercial and financial terms that parties agree on before drafting the final, legally binding contracts) submitted by the respondent on the ground that its LOS was no longer valid. 
+
+PPIB took the position that it would consider approving the term sheet s after an extension in the LOS. 
+
+The LOS was never extended beyond 30.10.1996. 11. 
+
+On 28.11.199 6, PPIB made a demand for the encashment of the PG for Rs.33,000,000/ - furnished by the respondent. 
+
+Vide letter dated 01.12.1996, Habib Bank AG Zurich informed respondent No.1 that the PG had been encashed and the respondent No.1’s account had been debited. 
+
+This prompted respondent No.1 to file writ petition No.1866/1997 before the Islamabad High Court praying for inter alia a declaration to the effect that the encashment of its PG was without lawful authority. 
+
+Furthermore, it was prayed that PPIB be directed to return the amount received by it pursuant to such encashment along with interest. 12. 
+
+The content s of the respondent’s writ petition show that the respondent was keen on proceeding further to set up the 330 MW
+
+============================================================
+PAGE 6
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 6:- power p lant. 
+
+It had therefore sought a declaration that the respondent was legally entitled to set up the power plant, and a direction to PPIB to permit the respondent to start commercial operations. 
+
+Vide judgment dated 04.04.2013 the single bench of the high court did not grant the prayers sought by the respondent save the one regarding the direction for the return of Rs.33,000,000/ - received by PPIB by encashing the PG furnished by the respondent. 
+
+PPIB was directed to return the said amount along with int erest at the prevailing bank rate with effect from 28.11.1996. 13. 
+
+The intra court appeal preferred by PPIB etc. against the said judgment was dismissed by the division bench of the high court vide order dated 13.05.2013. 
+
+The said concurrent orders/ judgments have been assailed by PPIB etc. in the instant appeal. 14. 
+
+Learned counsel for the appellant, in reiteration of the pleadings in the appeal, submitted that a policy decision had been taken by the ECC only to allow those private power projects to proceed which had achieved financial close for a cumulative quantity of 3,000 MW; that on 21.08.1996 PPIB had informed respondent No.1 that the former had accepted financial close for projects with a cumulative capacity in excess of 3, 000 MW; that the respondent ’s request for an extension in the deadline for achieving financial close was acceded to by PPIB on 24.03.1996 by extending the validity period of LOS as well as the deadline for achieving financial close to 30.10.1996; that the petitioner ’s project was not included in the list of projects that had achieve d financial close before the said cumulative capacity was reached; that the terms of the LOS had a contractual force and the high court, by directing PPIB to return Rs.33,000,000/ - along with interest to the respondent, amounted to rewriting the terms of the LOS; and that since the respondent had not achieved financial close either before
+
+============================================================
+PAGE 7
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 7:- the said cumulative capacity was reached or within the validity period of the LOS, PPIB was well within its rights to have encashed the PG. 
+
+Learned counsel for the appellants prayed for the appeal to be allowed and for the impugned ju dgment of the high court to be set aside. 15. 
+
+On the other hand, lear ned counsel for the respondent drew the attention of the court to a report on the respondent’s project, signed by the Minister for Water and Power on 15.02.1997, and submitted that in the said report it is clearly mentioned that “as per the ECC decision of July 3, 1996, M/s. 
+
+Spencer Power may be entitled to receive refund of their PG subject to the signing of Deed of Release. ” He further submitted that the said document was produced before the high court by PPIB and its authenticity has not been questioned either in the grounds taken in the intra court appeal or the instant appeal; that the said document is t o be read with the Cabinet Division’s letter dated 03.07.1996 which contains the corrigendum to the ECC’s decision dated 17.06.1996; that according to the said corrigendum, the PGs furnished by projects which held a valid LOS on 15.04.1996 be returned; that such return was to be in lieu of an agreement for the release of parties from all obligations under the implementation agreement, power purchase agreem ent and fuel supply agreement as well as a commitment not to pursue “any legal claims, material or otherwise;” that by allowing the respondent’s writ petition, the High Court had not interfered with the contractual obligations arising under the LOS but had given effect to the decisions of the ECC. 
+
+Learned couns el for the respondent prayed for the appeal to be dismissed. 16. 
+
+We have heard the contentions of the learned counsel for the contesting parties and have perused the record with their able assistance. 
+
+The facts leading to the filing of the instant appeal have
+
+============================================================
+PAGE 8
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 8:- been set out in sufficient detail hereinabove and need not be recapitulated. 17. 
+
+Article 199 of the Constitution empowers High Courts to issue writs for the enforcement of fundamental rights and public duties. 
+
+It has consistently been held that actions of the State, its instrumentality, any public authority or person whose actions bear insignia of public law element or public character are amenable to judicial review and the validity of such an action would be t ested on the anvil of the provisions of the Constitution and, in particular, the fundamental rights enshrined therein. 
+
+However, when a dispute arises purely out of a contract, the courts have generally held that writ jurisdiction is not meant to settle private contractual rights, especially when an alternate civil remedy exists. 
+
+While exercising the power under Article 199 of the Constitution, the high court would be circumspect to adjudicate the disputes arising out of a contract depending on the facts and circumstances in a given case. 
+
+After the State or its agents enter into t he field of the ordinary contract, the relations are governed by the provisions of the contract which determines the rights and obligations of the parties inter se. 18. 
+
+In the present case the respondent, through its writ petition, sought an order compelling PPIB to perform its contractual obligations arising from and related to the LOS. 
+
+However, the High Court did not direct PPIB to allow the respondent to proceed with further steps toward achieving financial close for the establishment of the 330 MW power plant. 
+
+Had the High Court done so, it would have amounted to interference in a contractual dispute. 
+
+The High Court only allowed the respondent’s prayer for a direct ion requiring PPIB to reimburse the amount realised upon encashment of the PG. 
+
+What needs to be determined is whether such direction would amount to interference in a contractual dispute.
+
+============================================================
+PAGE 9
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 9:- 19. 
+
+The ECC’s decision in its meeting dated 03.03.1996 to allow only those projects that achieved financial close up to a cumulative capacity of 3,000 MW to move forward was taken to avert the generation of surplus electricity in the country. 
+
+Such surplus would have arisen if all projects that had been issued letters of support were allowed to achieve financial close and establish power plants exceeding that capacity. 20. 
+
+It is also not disputed that vide letter dated 24.03.1996, PPIB had extended the validity of the LOS issued to the respondent to 30.10.1996 by which date the respondent was also required to achieve financial close. 
+
+In the said letter it was explicitly mentioned that in the event the respondent does not achieve financial close by 30.10.1996 and other private power projects that have executed implementation agreement s and having a cumulative capacity of 3,000 MW achieve financial close before the respondent, the PG furnished by the respondent would be encashed and the LOS issued to the respondent would be cancelled without notice. 21. 
+
+Vide letter dated 21.08.1996, PPIB informed the respondent that the former had accepted financial close for projects with a cumulative capacity in excess of 3,000 MW. 
+
+The list of projects that had achieved financial close did not include that of the respon dent. 22. 
+
+Term sheets for the foreign currency loans for the project were required to be approved by PPIB prior to financial close. 
+
+Vide letter dated 01.09.1996, PPIB informed the respondent that the term sheets submitted through respondent’s letter dated 08.08.1996 (which was delivered to PPIB on 29.08.1996) could not be approved as the respondent’s LOS was not valid. 
+
+We are of the view that PPIB’s stance in its letter dated 01.09.1996, that the LOS was not valid, cannot be reconciled with that in its letter dated 24.03.1996 whereby the validity of the LOS and the deadline for achieving
+
+============================================================
+PAGE 10
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 10:- financial close were extended to 30.10.1996. 
+
+However, in the said letter dated 01.09.1996, PPIB also informed the respondent that financial close of private power projects with a cumulative capacity in excess of 3,000 MW had been acknowledged and that it was on this basis that the respondent’s LOS was no longer valid. 
+
+The list of such power projects (which is annexed at page 156 of the instant appeal) does not contain the respondent’s name. 
+
+What can be deduced from this is that the PPIB’s position regarding invalidity of the respondent’s LOS is based on financial close for a cumulative capacity in excess of 3,000 MW having been achieved by other private power projects before the respondent and not the respondent’s failure to achieve financial close by 30.10.1996. 23. 
+
+As mentioned in paragraph 8 above, during the ECC’s meeting dated 17.06.1996, as proposal had been made by the Ministry of Water and Power that the performance guarantees be returned to the sponsors without interest subject to an agreement that they would not pursue any claim against the Government. 
+
+In this meeting, it was decided that the matter be reviewed in consultation with the Finance Division and the Law and Justice Division as well as the Legal Advisor PPIB and thereafter a revised summary be submitted to the ECC. 24. 
+
+It is the said decision dated 17.06.1996 that was modified and substituted through a corrigendum issued by the Cabinet Division on 03.07.1996. 
+
+The corrigendum has already been reproduced in paragraph 9 hereinabove. 
+
+What can be dis cerned from the said corrigendum was that the ECC had decided that the PGs of the projects which held a valid LOS on 15.04.1996 be returned upon failing to achieve financial close on the due date. 
+
+This return was to be in lieu of an agreement to release all parties from their obligations under the Implementation Agreement, Power Purchase Agreement
+
+============================================================
+PAGE 11
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 11:- and F uel Supply Agreement and a commitment not to pursue any legal claims, material or otherwise. 25. 
+
+The document, on the basis of which the respondent’s writ petition was allowed by the high court, is a report on the respondent’s project, which was a part of the travaux préparatoires produced by PPIB before the high court. 
+
+Learned counsel for the respondent is correct in his submission that the authenticity of this report, signed by the Minister for Water and Power on 15.02.1997, has not been disputed by PPIB in the g rounds of appeal taken in the intra court appeal as well as in the instant appeal. 
+
+This document shows that the ceiling of 3,000 MW had been reached by private power projects before 21.08.1996. 
+
+Therefore, PPIB’s refusal on 01.09.1996 to approve the term sheets sub mitte d by the respondent well before the expiry of its LOS was solely because other power projects had achieved financial close for a cumulative limit of 3,000 MW prior to the respondent. 
+
+PPIB’s decision set out in its letter dated 01.09.1996 not to approve the term sheets for the respondent’s foreign currency loans well before the deadline of 30.10.1996 for achieving financial close may have caused the Minister to recognize the respondent’s entitlement “to receive refund of their performance guarantee subject to signing of the release deed.” Since the approval of the respondent’s term sheets by PPIB was mandatory before financial close could be declared, and since PPIB, in its letter dated 01.09.1996, had taken the position that the respondent’s LOS was not valid, not because it had expired, but because other private power projects had achieved financial close for a cumulative capacity of 3,000 MW, it cannot be held with certainty that the respondent would not have achieve d financial close within the deadline of 30.10.1996 set in PPIB’s letter dated 24.03.1996. 
+
+By informing the respondent through letter dated 01.09.1996 that its
+
+============================================================
+PAGE 12
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 12:- LOS was not valid, the respondent could not have been expected to take steps for achieving close thereafter. 
+
+In such circumstances, we are of the view that the encashment of the respondent’s PG was most irrational and unreasonable in the Wednersbury1 sense. 26. 
+
+Under normal circumstances, as per the terms of the LOS, PPIB was entitled to the encashment of the PG on the respondent’s failure to achieve financial close by the extended deadline of 30.10.1996. 
+
+It is almost a month before such deadline that PPIB through its letter dated 01.09.1996, informed the respondent that its LOS was no longer valid. 
+
+PPIB’s basis for taking this position was achievement of financial close for the cumulative capacity of 3,000 MW by other private power projects, and not because the respondent had breached any prov ision of the LOS. 
+
+PPIB’s action of encashing the PG is to be judged in light of the ECC’s decision that the PGs furnished by private power projects that hold a valid LOS on 15.04.1996 would be returned on their failure to achieve financial close by the due dates, in addition to the report dated 15.02.1997 signed by the Minister for Water and Power clearly providing that the respondent may be entitled to refund of the amount that was realized on encashment of its PG. 
+
+The ECC’s decision to allow those private power projects to proceed further that achieve fin ancial close for a cumulative capacity of 3,000 MW is dehors the Power Policy or the terms of the LOS. 
+
+The writ issued by the High Court effectively directed the appellants to honour their own commitments i.e. the decisions recorded in the ECC meetings held on 03.03.1996 and 17.06.1996, read together with the corrigendum contained in the Cabinet Division’s letter dated 03.07.1996 and the report dated 15.02.1997. 
+
+In other words, by allowing the respondent’s writ 1 Associated Provincial Picture Houses Ltd. 
+
+Vs. 
+
+Wednesbury Corporation [1948] 1 KB 223
+
+============================================================
+PAGE 13
+============================================================
+
+CIVIL APPEAL NO.751 OF 2016 -: 13:- petition, the High Court has given effect to the decisions of the ECC and has not interfered with the contractual obligations arising under the LOS. 27. 
+
+In the premises aforestated, we are of the opinion that the appeal has no merit and is consequently dismissed. 
+
+Judge Judge Judge Islamabad, the 2nd October, 2025 Approved for reporting Sanaullah *

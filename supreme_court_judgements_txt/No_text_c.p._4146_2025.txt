@@ -1,0 +1,750 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._4146_2025.pdf
+CONVERSION DATE: 2025-12-23 19:35:36
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 26
+ESTIMATED WORD COUNT: 8,401
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME COURT OF PAKISTAN (APPELLATE JURISDICTION) PRESENT: JUSTICE YAHYA AFRIDI, HCJ JUSTICE MUHAMMAD SHAFI SIDDIQUI JUSTICE MIANGUL HASSAN AURANGZEB CIVIL PETITIONS FOR LEAVE TO APPEAL NO. 4146 TO 4169 OF 2025 AND 4059 TO 4070 OF 2025 (Against consolidated judgment dated 14.07.2025 of the Khyber Pakhtunkhwa Service Tribunal, Peshawar passed in Service Appeals No.403 to 443 & 450 of 2025) 1. 
+
+Shakir Ullah CPLA No.4146/2025 2. 
+
+Hazrat Jan CPLA No.4147/2025 3. 
+
+Muhammad Farooq CPLA No.4148/2025 4. 
+
+Atta Ullah CPLA No.4149/2025 5. 
+
+Abdul Malik CPLA No.4150/2025 6. 
+
+Fazal Raziq CPLA No.4151/2025 7. 
+
+Mst. 
+
+Asma CPLA No.4152/2025 8. 
+
+Asad Rahim CPLA No.4153/2025 9. 
+
+Abdul Hai CPLA No.4154/2025 10. 
+
+Luban Ali CPLA No.4155/2025 11. 
+
+Muhammad Qasim CPLA No.4156/2025 12. 
+
+Muhammad Naeem CPLA No.4157/2025 13. 
+
+Muhammad Sohail CPLA No.4158/2025 14. 
+
+Muhammad Naeem CPLA No.4159/2025 15. 
+
+Kifayat Ullah CPLA No.4160/2025 16. 
+
+Mst. 
+
+Nizakat CPLA No.4161/2025 17. 
+
+Muhammad Iqbal CPLA No.4162/2025 18. 
+
+Bashir Ahmad CPLA No.4163/2025 19. 
+
+Muhammad Tariq CPLA No.4164/2025 20. 
+
+Mst. 
+
+Basra Begum CPLA No.4165/2025 21. 
+
+Yar Khan CPLA No.4166/2025 22. 
+
+Zafar Iqbal CPLA No.4167/2025 23. 
+
+Noor Muhammad CPLA No.4168/2025 24. 
+
+Mst. 
+
+Naheed Akhtar CPLA No.4169/2025 25. 
+
+Tahira Naz CPLA No.4059/2025 26. 
+
+Ishtiaq Ahmad CPLA No.4060/2025 27. 
+
+Nusrat CPLA No.4061/2025 28. 
+
+Ishfaq Ahmad CPLA No.4062/2025 29. 
+
+Ishrat CPLA No.4063/2025 30. 
+
+Ghazala Sana CPLA No.4064/2025 31. 
+
+Shabeena Naz CPLA No.4065/2025 32. 
+
+Ghazala Ilyas CPLA No.4066/2025 33. 
+
+Inayat ur Rehman CPLA No.4067/2025 34. 
+
+Abdul Baseer CPLA No.4068/2025 35. 
+
+Nargas CPLA No.4069/2025 36. 
+
+Seema CPLA No.4070/2025 …Petitioners Versus The Secretary E&SE Department Khyber Pakhtunkhwa Peshawar and another …Respondents (in all cases)
+
+============================================================
+PAGE 2
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 2:- For the Petitioners: Mr. 
+
+Noor Mohammad Khattak, ASC (through video link from Peshawar) in CPLA Nos.4146 to 4169 of 2025. 
+
+Mr. 
+
+Muhammad Shoaib Shaheen, ASC in CPLA Nos.4059 to 4070 of 2025. 
+
+For the Respondents: Not represented. 
+
+Mr. 
+
+Munir Azam, Chairman, Khyber Pakhtunkhwa Public Service Commission and Mr. 
+
+Muhammad Bashar Naveed, Additional AG, Khyber Pakhtunkhwa on Court notice. 
+
+Date of Hearing: 23.10.2025 JUDGMENT MIANGUL HASSAN AURANGZEB, J: - Through this judgment, we propose to decide c ivil petition s for leave to appeal No.4146 to 4169 of 2025 and 4059 to 4070 of 2025. 2. 
+
+Through these petitions, the petitioners assail consolidated judgment dated 14.07.2025 passed by the Khyber Pakhtunkhwa Service Tribunal, Peshawar (“KP-ST”) whereby service appeals No.403 to 443 and 450 of 2025, filed by the m, were dismissed. 
+
+Through the said appeals, the petitioners had assailed notifications dated 30.08.2024 issued by the Directorate of Elementary and Secondary Education, Khyber Pakhtunkhwa (“Directorate of E&SE” ) which had the effect of their service in the said Directorate being brought to an end. 3. 
+
+The record shows that vide orders issued during 2012 and 2013 by the Directorate of Education (FATA Secretariat), most of the petitioners were appointed / adjusted as Secondary School Teachers (“SSTs” ) (BPS-16) in different educational institutions in Khyber Pakhtunkhwa. 
+
+These appointments were stated to have been made
+
+============================================================
+PAGE 3
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 3:- on the recommendations of the Khyber Pakhtunkhwa Public Service Commission ( “KP-PSC” ). 
+
+Some of the petitioners had been initially appointed on contract basis and subsequently their services were regularized pursuant to the provisions of the Khyber Pakhtunkhwa Employees (Regularization of Services) Act, 2009 (“the 2009 Act” ). 4. 
+
+After having served for more than seven years, the Directorate of E&SE, through notifications dated 04.04.2019, 05.04.2019 and 11.06.2021, “disowned” the petitioners’ appointments on the ground that the orders on the basis whereof the appointments had been made were found to be fake. 
+
+These notifications were issued in purported exercise of powers under section 21 of the General Clauses Act, 1897. 
+
+Furthermore, it was ordered that the salaries and other allied benefits received by the petitioners during their service be recovered from them. 
+
+Apparently, before the said notifications were issued, an inquiry had been conducted by a committee constituted through notification dated 04.08.2016 which had concluded that the orders for the petitioners’ appointments against posts advertised by the KP -PSC had been found to be fake. 
+
+Having not received any plausible response to their departmental appeals against the said notificat ions, the petitioners preferred appeals before the KP -ST, which vide judgment dated 20.01.2021 allowed the appeals and set -aside the said notifications. 
+
+Furthermore, it was ordered that the petitioners be reinstated in service and a “proper inquiry” be conducted in the matter by the D irectorate of E&SE. 5. 
+
+After conducting an inquiry of sorts, the Directorate of E&SE issued notification s dated 11.06.2021 whereby the earlier notifications “disowning” the petitioners w ere restored. 
+
+These notification s show that after the KP -ST had allowed the petitioners’ appeals vide judgment dated 20.01.2021, the Directorate of E&SE
+
+============================================================
+PAGE 4
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 4:- had constituted an inquiry committee vide notification dated 08.02.2021 and it was on the basis of th is committee’s report dated 24.04.2021 that the earlier notifications whereby the petitioners had been “disowned” w ere restored. 
+
+More importantly, th ese notification s show that soon after the judgment dated 20.01.2021 of the KP -ST, the Directorate of E&SE had “set-aside” the notifications that had been challenged by the petitioners before the KP -ST. 
+
+This had the effect of the petitioner’s status as civil servants being restored. 6. 
+
+The said notifications dated 11.06.2021 were also assailed by the petitioners before the KP -ST. 
+
+Vide judgment dated 12.10.2023, the said notifications dated 11.06.2021 were set -aside by the KP -ST by holding as follows: - “It is held that after remand for denovo inquiry by the Tribunal no proper inquiry was conducted by the respondent wherein proper chance of self -defense by providing opportunity of cross examination upon the person who deposed against them was provided to the appellant. 
+
+So order of this Tribunal was not c omplied with in its true letter and spirit. 
+
+Appellant must be provided with opportunity of personal hearing and cross examination for fulfilling purpose of fair trial.” 7. 
+
+The KP -ST once again remanded the matter to the Director ate of E&SE with the direction to conduct a de novo inquiry and provide an opportunity of self -defense and cross -examination to the petitioners. 
+
+Furthermore, the petitioners were yet again reinstated in service for the purposes of the inquiry. 8. 
+
+After KP -ST’s said judgment dated 12.10.2023, a four- member inquiry committee was constituted vide notification dated 10.01.2024 with the mandate to conduct a de novo inquiry in the matter against the petitioners. 
+
+After the inquiry committee submitted its report on 17.05.2024, the Directorate of E&SE issued notifications dated 30.08.2024 w hereby the earlier notifications “disowning” the petitioners were restored. 
+
+The petitioners challenged
+
+============================================================
+PAGE 5
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 5:- the said notifications dated 30.08.2024 in appeals before the KP -ST, which vide impugned judgment dated 14.07.2025 dismissed the appeals. 
+
+The said judgment dated 14.07.2025 has been assailed before us. 9. 
+
+Learned counsel for the petitioners, after narrating the facts leading to the filing of the instant petitions, submitted that after the Service Tribunal remanded the matter to the Directorate of E&SE with the direction to conduct a proper inquiry, the said Directorate did not conduct an inquiry in accordance with the E&D Rules, 2011; that the petitioners were neither issued any charge sheet nor any show cause notice; that the petitioners were not given an opportunity to cross -examine the witnesses who appeared before the Inquiry Committee; that the inquiry was conducted in violation of the principles of natural justice; that since the petitioners had worked for several years after they were appointed through a competitive process, the principle of locus poenitentiae prevents the Directorate of E&SE from recalling their appointment orders. 
+
+Learned counsel for the petitioners prayed for the petitions to be allowed and for the impugned judgment dated 14.07.2025 to be set aside. 10. 
+
+On the other hand, the learned Additional Advocate -General, Khyber Pakhtunkhwa submitted that the impugned judgment does not suffer from any legal infirmity; that although the petitioners may have participated in the competitive process but the KP -PSC had never recommended the petitioners for appointment as SSTs; that the appointment letters of the petitioners are fake / bogus; that the appointment orders of the petitioners are void ab-initio and consequently the petitioners never acquired the status of civil servants; that since the Inquiry Committee had given ample
+
+============================================================
+PAGE 6
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 6:- opportunity to the petitioners to defend themselves, the principles of natural justice were complied with. 
+
+The learned Additional Advocate -General, KPK prayed for the petitions to be dismissed. 11. 
+
+We have heard the contentions of the learned counsel for the petitioners and the learned Additional Advocate -General, Khyber Pakhtunkhwa and have perused the record with their able assistance. 
+
+The facts leading to the filing of the instant petition have been set out in sufficient detail in paragraphs 2 to 8 above and need not be recapitulated. 12. 
+
+We have also gone through the inquiry report dated 17.05.2024 with keen interest. 
+
+This report explains that the post of SST is a provincial cadre post and the appointing authority to the said post is the Director, E&SE, regardless of whether the post is in the province of Khyber Pakhtunkhwa or the erstwhile F ederally Administered Tribal Areas (“FATA” ). 
+
+The appointments to the post of SST are made through the Departmental Promotion Committee (“DPC” ) or the KP -PSC. 
+
+As per the recruitment policy in vogue during the period in question, 50% post s of SST were to be filled by direct appoint ment through the KP -PSC, whereas 50% by promotion through the DPC from th e junior feeding cadres. 13. 
+
+As per the contents of the said inquiry report, in the year 2006 a large number of SSTs were recruited on contract basis and their services were subsequently regularized under the provisions of the 2009 Act. 
+
+Appointments of SSTs had also been made through the KP-PSC during the period between 2009 to 2012. 
+
+After the merger of the erstwhile F ATA with the province of Khyber Pakhtunkhwa, it was pointed out that a large number of SSTs had been appointed without any recommendation from the KP -PSC or approval of the DPC, and that such SSTs had been receiving salaries for eight to ten
+
+============================================================
+PAGE 7
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 7:- years. 
+
+Out of the 41 teachers whose appointments were under scrutiny by the inquiry committee, 36 had claimed to have been appointed on the recommendations of KP -PSC, whereas 05 had claimed that they had initially been appointed on contract basis but subsequently their services were regularized under the 2009 Act. 
+
+The inquiry report also sets out the litigation history between the petitioners and the Directorate of E&SE before the KP-ST. 14. 
+
+The inquiry committee had ascertained that the KP -PSC between 2009 and 2012 had through advertisements invited applications from eligible candidates for appointment to the posts of SST. 
+
+The KP -PSC had conducted interviews for the said posts and made recommendations for appointment of qualified candidates to the Directorate of E&SE. 
+
+The said Directorate conducted medical examinations and scrutinized the records of the candidates before issuing their appointment orders and placing them at the disposal of Director Education (FATA) for placement and adjustment in different schools. 
+
+It was not until 2019 that notifications were issued by the said Directorate “disowning” the appointment orders of 41 SSTs whose appointments were the subject of the inquiry. 15. 
+
+Before the inquiry committee two witness es, namely Rafique Khattak (former Director in the Directorate of E&SE ) and Fazl -e- Manan (former Director (FATA) E&SE ) appeared and made their statement s. 
+
+Two other representatives of the Directorate of E&SE also appeared before the inquiry committee but neither of them submitted any documents nor recorded their statements. 
+
+The inquiry committee directed the Directorate of E&SE and the Director Education (FATA) to furnish the relevant records, including the recommendations of the KP -PSC, the petitioners’ appointment orders, their inter se seniority list, and other pertinent documents.
+
+============================================================
+PAGE 8
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 8:- The committee observed that none of these documents had been provided. 
+
+The KP -PSC also failed to respond to the committee’s request for copies of the recommendation letters relating to the petitioners’ appointments. 
+
+Owing to this lack of cooperation, the committee attempted to retrieve the relevant information from the KP-PSC’s official website but was unable to locate the said recommendation letters. 
+
+The petitioners, too, could not produce copies of these letters, stating that they had been addressed by th e KP-PSC directly to the Directorate of E&SE. 
+
+The inquiry committee noted that it was the responsibility of the Directorate of E&SE to produce these letters, but it had failed to do so. 16. 
+
+The inquiry committee did not conclude that the petitioners’ appointments were made in violation of the law or in disregard of codal formalities. 
+
+On the contrary, it expressed strong disapproval of the conduct of the Directorate of E&SE. 
+
+For the sake of cl arity, the final four paragraphs of the inquiry report are reproduced hereinbelow: - “xvii. 
+
+All the applicants have regularly been paid their salaries and they have also served in different schools before the disowning orders. xviii. 
+
+The applicants have submitted their testimonials/education degrees which show that all are qualified for the posts of SETs / SSTs. 
+
+The Directorate of ESE has violated fundamental rights and basic requirements of justice while issuing the disowning orders of the applicants. 
+
+The Constitution of Pakistan protects the fundamental rights of all the citizens including the 41 applicants and provides equal opportunity and equal treatment with all the citizens of Pakistan. 
+
+The Directorate of ESE has violated the basic requirements of justice and principles of natural justice. xix. 
+
+So far, disciplinary proceedings against the officers and officials involved in the presumed fake orders have neither been identified nor started. 
+
+The Directorate of ESE has simply disowned the appointment orders of the applicants. 
+
+If prescribed procedure was not followed by the concerned authorities the civil servant/ appellant could not be blamed for what was to be performed and done by the concerned competent authorities. xx. 
+
+The charge of Public Service Commission recommendations being fake, unspecific and did not show any lapse on part of the appellants or Commission of any fraud by appellants but they are suffering only. 
+
+They by the time if removed from
+
+============================================================
+PAGE 9
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 9:- service permanently they may not be able to get job/service again because they are over age by that time.” 17. 
+
+It is difficult to comprehend how, on the basis of the said inquiry report, the Directorate of E&SE could revive its earlier notification dated 11.06.2021 through which the petitioners’ appointments had been “disowned.” The Directorate’s subsequent notific ation dated 30.08.2024 relies on “Finding No. xi” of the inquiry report, which is reproduced below: - “The Inquiry committee also requested the Public Service Commission to provide their recommendations and inter -se seniority issued by it (Annex -E). 
+
+The Public Service Commission did not respond but the inquiry committee obtained it from the official websit e of PSC. 
+
+None of downloaded documents from website provide any proof of their recommendations through Public Service Commission.” 18. 
+
+The failure of the KP -PSC to respond cannot serve as a valid basis for depriving the petitioners of their livelihood. 
+
+Likewise, the inquiry committee’s act of browsing the KP -PSC’s website and failing to locate the desired documents cannot, by any canon of law, justice, or jurisprudence, justify the termination of the petitioners’ services. 
+
+The only mention about the inquiry report made by the KP-ST in the impugned judgment was as follows: - “A fresh inquiry was then conducted but the appellants failed to produce any documentary evidence proving that their recommendations had been issued by the KP -PSC.” 19. 
+
+The KP -ST then posed a question whether the petitioners had ever acquired lawful appointment as civil servants. 
+
+It referred to a judgment of this court supposedly reported as Muhammad Zaman Vs. 
+
+Government of Khyber Pakhtunkhwa (2022 SCMR 985) in which, according to the KP -ST, it was held that appointments obtained through fake credentials or misrepresentation of facts are nullities in the eyes of law and no length of service can sanctify a fundamentally void appointment. 
+
+The KP -ST also relied on a judgm ent supposedly reported as Chief Secretary, Punjab Vs. 
+
+Abdul
+
+============================================================
+PAGE 10
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 10:- Raoof (PLD 2021 SC 362) in which, according to the KP -ST, it was held that a person who enters service through fraudulent means does not acquire any vested right, and confirmation or passage of time does not cure the original illegality. 
+
+After making reference to these citations, the KP -ST held that “it stands conclusively established from the official record and the findings of the departmental inquiries that the alleged recommendations of KP -PSC were forged.” This was projected by the KP -ST as a rationale for holding that the petitioners ’ appointment orders being based o n forged recommendations were void ab-initio, and that they could not have been considered to have validly entered civil service or having ever acquired the status of civil servants. 
+
+The KP -ST also referred to Government of Punjab Vs. 
+
+Dr. 
+
+Riffat Saeed (2020 SCMR 1683) in which, according to the KP -ST, this Court did not afford protection to a government servant who had served for more than 14 years on the ground that his appointment wa s fraudulent. 
+
+This caused the KP-ST to hold that the petitioners’ objection as to the absence of a show cause notice or an opportunity of a hearing was misconceived. 
+
+Furthermore, the KP -ST held that procedural safeguards under the efficiency and discipline rules do not apply in cases where the appointments are void ab initio. 
+
+The KP -ST then referred to Muhammad Ali Vs. 
+
+Federation of Pakistan (PLD 2016 SC 377) in which, as per the KP -ST, it was held that where an appointment is fraudulent or non -existent in law, the employer is not obliged to follow the procedures meant for removal of a lawfully appointed civil servant. 
+
+The KP -ST also referred to (PLD 2019 SC 456), without mentioning the title of the case, in which, according to the KP -ST, it was held that where the documentary evidence is incontrovertible,
+
+============================================================
+PAGE 11
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 11:- substantial compliance with the principles of natural justice is deemed sufficient. 20. 
+
+Upon verification and repeated cross -checking, we note with dismay that the citations referred to in paragraph 19 above, on which the KP -ST relied to non -suit the petitioners, do not in fact exist. 
+
+Our search was conducted both by citation and by case title. 
+
+We trust that the KP -ST did not rely upon the assistance of artificial intelligence, which may have “hallucinated” in generating the said citations. 
+
+This presents an appropriate occasion to rei terate the caution earlier expressed by this Court regar ding the use of artificial intelligence, as observed in its judgment dated 03.03.2025, passed in C.P.L.A. 
+
+No.1010 -L/2022 titled “Ishfaq Ahmed v. 
+
+Mushtaq Ahmed.” 21. 
+
+The KP -ST returned a finding of fraud against the petitioners without recording any evidence and without appreciating the true import of the inquiry report dated 17.05.2024 which, in fact, contains no finding of fraud against them. 
+
+In the absence of any determination in the inquiry report regarding the petitioners’ involvement in the alleged fraud that purportedly led to the issuance of their appointment letters, their services could not lawfully have been brought to an end. 
+
+Without a definite and substanti ated finding of fraud on the part of the petitioners, the KP -ST was not justified in holding that they had not acquired the status of civil servants or that their appointments were void ab initio. 
+
+The KP -ST also disregarded the testimony of Muhammad Rafique Khattak —one of the two witnesses who appeared before the inquiry committee — who stated that the petitioners’ appointment orders were issued with the approval of the Director, E&SE, under the sig nature of the Deputy Director (Establishment), and were based on the
+
+============================================================
+PAGE 12
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 12:- recommendations of the KP -PSC received through the Secretary, E&SE. 
+
+The other witness, Fazl -e-Manan, likewise did not depose as to the absence of such recommendations. 
+
+His statement, as reproduced in the inquiry report, is vague and inconclusive. 
+
+What stands out in the inquiry report is the complete absence of any proof of fraud attributable to the petitioners. 22. 
+
+The lack of response from the KP -PSC to the request made by the inquiry committee for the provision of the letters of recommendation did not cause the inquiry committee to conclude that no such letters of recommendations existed. 
+
+For the KP -ST to hold that it had been “conclusively established from the official record and the findings of the inquiry committee ” that the l etters of recommendations from KP -PSC were forged, is clearly contrary to the record and a ground enough to allow these appeals. 23. 
+
+When the KP -ST, through its earlier judgment dated 20.01.2021, set-aside the notifications whereby the Directorate of E&SE had “disowned” the petitioners, it did not just remand the matter with the direction “to conduct a proper inquiry” but also reinstated the petitioners in service. 
+
+With such reinstatement, the petitioners continued to have the status of civil servants. 
+
+In the second round, the KP -ST vide judgment dated 12.10.2023 again set - aside the notifications against the petitioners; reinstated t hem in service; and directions were issued for a fresh inquiry to be conducted against the petitioners. 
+
+The phrase “proper inquiry” implies an inquiry in accordance with the law i.e., Khyber Pakhtunkhwa Government Servants (Efficiency and Discipline) Rules, 2011 ( “KP-E&D Rules, 2011” ), which have been framed in exercise of the powers conferred by section 26 of the Khyber Pakhtunkhwa Civil Servants Act, 1973.
+
+============================================================
+PAGE 13
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 13:- 24. 
+
+Courts in Pakistan have consistently stressed the mandatory observance of due process before imposing any penalty on a civil servant. 
+
+This principle arises from the right to due process and fair hearing, as well as the rule of law, ensuring that penalties are based on proven fraud or misconduct through a lawful inquiry, not administrative discretion or suspicion. 
+
+No civil servant can be penalized for fraud or misconduct without following the prescribed procedure laid down in the applicable efficiency an d discipline rules. 
+
+These rules prescribe a complete procedure for taking disciplinary action. 
+
+The observance of the procedure prescribed in these rules is mandatory, not directory, and courts have repeatedly held that any penalty imposed without strictly following the prescribed procedure is void, without lawful authority, and of no legal effect. 
+
+Reference in this regard may be made to the foll owing case law: - (a) In the case of Muhammad Rafi Vs. 
+
+Federation of Pakistan (1997 SCMR 1802), this court held that a civil servant cannot be punished without a proper inquiry conducted in accordance with the E&D Rules. (b) In the case of Hafiz Junaid Mahmood Vs. 
+
+Secretary Establishment Division (2019 SCMR 499), it was emphasized that even when the authority believes misconduct has occurred, it must hold a formal inquiry, issue a charge -sheet, and give the civil servant an opportunity to defend. (c) In the case of Province of Punjab Vs. 
+
+Muhammad Akhtar (2004 SCMR 49), the respondent was appointed as a PTC Teacher on the recommendations of the Tehsil Recruitment Committee, Sheikhupura. 
+
+After a lapse of about six years, disciplinary proceedings were initiated again him on the allegation that his appointment was made on the basis of a fake appointment letter.
+
+============================================================
+PAGE 14
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 14:- The proceedings culminated into his dismissal from service. 
+
+The primary ground which prevailed with the Service Tribunal and this Court in setting aside the penalty imposed on the respondent was that the proceedings against him had not been conducted by following the procedure prescribed in the Punjab Employees Service (Efficiency and Discipline) Rules, 1975. 
+
+It was held inter alia that an inquiry which is not conducted in accordance with such Rules has “no legal significance at all.” 25. 
+
+Rule 2(l)(vi) of the KP -E&D Rules, 2011 defines “misconduct” to include “making appointment and having been appointed or promoted on extraneous grounds in violation of any law or rules.” An appointment of a civil servant made without a recommendation of the KP -PSC or the DPC, as the case may be, would be an appointment or promotion in violation of the law. 26. 
+
+The E&D Rules, 2011 are designed to ensure that no government servant in Khyber Pakhtunkhwa is penalized without a fair, transparent and procedurally correct inquiry. 
+
+The se Rules translate the constitutional guarantee of due process envisaged by Articles 4 and 10A of the Constitution into a structured disciplinary framework. 
+
+Rule 3 sets out the grounds on which a government servant is liable to be proceeded against. 
+
+In particular, Rule 3(b) of the said rules provides that a government servant shall be l iable to be proceeded against under these Rules if he is guilty of misconduct. 
+
+Rule 5 prescribes the procedure for the initiation of disciplinary proceedings against a government servant. 
+
+Where the competent authority is of the opinion (on the basis of its own knowledge or information placed before it) that there are sufficient grounds for initiating disciplinary proceedings against a civil servant, he is required to decide whether or not to dispense with a regular inquiry.
+
+============================================================
+PAGE 15
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 15:- The proviso to Rule 5 also sets out the circumstances in which a regular inquiry can be dispensed with. 
+
+Where the competent authority decides to dispense with the regular inquiry, he is required to proceed against the accused officer in accordance with the procedure provided in Rule 7. 
+
+A regular inquiry against an accused officer is initiated when the competent authority frames specific charges (Rule 10(1)(b)) and serves a charge sheet and statement of allegations on him (Rule 5(2)). 
+
+This prevents arbitrary action and ensures the accused knows exactly what misconduct is alleged against him. 
+
+The competent authority will also appoint an inquiry officer or an inquiry committee for conducting an inquiry into the charge or charges against the accused officer (Rule 5(1)(b)). 
+
+The accused officer is given a reasonable period to submit a written defense to the inquiry officer or the inquiry committee so that he can exercise his right to deny, explain, or clarify the allegations against him (Rule 10(1)(d) ). 
+
+After the w ritten defense is submitted by the accused officer, the inquiry officer or the inquiry committee is to inquire into the charges against him. 
+
+T he accused officer will also have the right to produce evidence and cross -examine the witnesses produced against him (Rule 11(1) and (4)). 
+
+This stage gives meaningful opportunity to defend oneself before any punitive step is contemplated. 
+
+The inquiry officer or inquiry committee must record evidence, allow cross -examination, maintain a proper record of proceedings, an d base their findings solely on evidence. 
+
+This is the core due -process safeguard. 
+
+After completing the inquiry within the prescribed period, the inquiry officer or the inquiry committee is to submit an inquiry report to the competent authority. 
+
+The inquiry report is to contain clear findings as to whether the charge or charges have been prove n or not, and specific recommendations
+
+============================================================
+PAGE 16
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 16:- regarding exoneration or imposition of a minor or major penalty upon the accused officer (Rule 11(7)). 
+
+A penalty cannot rest on suspicion, complaints, or preliminary fact -finding. 27. 
+
+The E&D Rules, 2011 maintain a clear separation between the competent a uthority, the inquiry officer /committee, and the accused government servant. 
+
+This separation reduces the risk of biased or predetermined outcomes. 
+
+After considering the inquiry report and defense, the competent authority is required to issue a reasoned or der, stating what charges are proved, how they are proved, and why a particular penalty is justified. 
+
+Reasoned decisions are cornerstones of due process and facilitate judicial revi ew. 
+
+The E&D Rules 2011 implicitly recognize proportionality in that penalties must correspond to the gravity of misconduct. 
+
+The said Rules also make it clear, by implication, that penalties cannot be imposed on the basis of fact -finding or discrete inquiry alone; the accused must be given full procedural rights under the Rules. 
+
+Tribunals intervene routinely and quash penalties imposed without a proper and neutral inquiry, notice of charges, opportunity to defend, or a reasoned order. 
+
+If the competent a uthor ity agrees that the charges are proved, it issues a show -cause notice stating the proposed penalty; enclosing a copy of the inquiry report; and allowing the officer time to respond (Rule 1 4(4)(b) ). 
+
+This ensures that the accused can contest both the findings and the punishment. 
+
+After considering the inquiry report, the written defen se of the accused officer, and affording him an opportunity of a personal hearing, the competent a uthority may impose a penalty on him through a reasoned order which states why th e penalty is justified (Rule 14(5) ). 
+
+If the charges are not proven, the government servant must be exonerated.
+
+============================================================
+PAGE 17
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 17:- 28. 
+
+It is an admitted position that the inquiry conducted by the four-member committee after the judgment dated 20.01.2021 passed by the KP -ST was admittedly not an inquiry under the E&D Rules, 2011. 
+
+At best it was a fact-finding inquiry which is not a substitute for a departmental inquiry under the said Rules. 
+
+The purpose of a fact -finding inquiry is to collect preliminary facts or assess if formal action is needed. 
+
+The procedure in such an inquiry is informal; no charge -sheet is required to be issued and it is not obligatory to provide an opportunity of defen ce. 
+
+The outcome of such an inquiry is advisory in nature and cannot lead directly to a penalty. 
+
+In other words, a penalty cannot be imposed solely on the basis of a fact -finding inquiry. 
+
+A fact-finding inquiry may justify initiating disciplinary proceeding s under the relevant efficiency and disciplinary rules, but cannot by itself result in punishment. 
+
+In contrast, the purpose of a departmental inquiry under the efficiency and disciplinary rules is to determine guilt or innocence of a civil servant. 
+
+The procedure is formal; charge sheet and statement of allegation are required to be issued; a written reply is to be filed; evidence is to be recorded, and an opportunity is to be given to the civil s ervant to cross -examine the witnesses against him. 
+
+In other words, the civil servant is to be given a full right of defense. 
+
+The outcome of such an inquiry is binding and forms the basis for a penalty. 
+
+The distinction between a discreet or fact -finding inquiry and a formal inquiry under the applicable efficiency and discipline rules has been explained by this Court in the following judgments: - (a) In the case of Muhammad Shahid Vs. 
+
+Inspector General of Police (2023 SCMR 1135), this court held as follows: - “A distinction also needs to be drawn between a regular inquiry and preliminary/fact finding inquiry. 
+
+A regular inquiry is triggered after issuing show cause notice with statement of allegations and if the
+
+============================================================
+PAGE 18
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 18:- reply is not found suitable then inquiry officer is appointed and regular inquiry is commenced (unless dispensed with for some reasons in writing) in which it is obligatory for the inquiry officer to allow an even -handed and fair opportunity to the accused to place his defence and if any witness is examined against him, then a fair opportunity should also be afforded to cross -examine the witnesses.” (b) In the case of Fazal Ali Vs. 
+
+District Police Officer (2025 SCMR 92), this court held as follows: - “8. … Let us also discuss the genre of inquiries to distinguish its primary purposefulness. 
+
+The primary objective of conducting a discreet inquiry is to gather information without alerting the alleged delinquent, allowing for an understanding of whether the alle gations lodged in a complaint or report of misconduct establish a prima facie case for proceeding with disciplinary action. 
+
+Obviously, while forming such opinion on the basis of information and data collected during the course of the discreet inquiry, the accused does not need to be involved in his defence. 
+
+Likewise, a fact -finding enquiry is more or less the same. 
+
+The purpose of it is also to investigate, establish facts, and compile a report for the management so that disciplinary proceedings may be initi ated if the competent authority chooses to do so in accordance with law. 
+
+The purpose of the fact -finding inquiry is not to declare the delinquent innocent or guilty, which is the function of the inquiry officer/inquiry committee, as the case may be. 
+
+Wherea s, a regular inquiry is triggered after issuing a show cause notice with a statement of allegations, and if the reply is not found suitable, then the inquiry officer is appointed and a regular inquiry is commenced (unless dispensed with for some reasons, i n writing) in which it is obligatory for the inquiry officer to allow an evenhanded and fair opportunity to the accused to place his defense, and if any witness is examined against him then a fair opportunity should also be given to him to cross -examine th e witnesses.” 29. 
+
+In the notifications challenged by the petitioners before the KP-ST, the Directorate of E&SE employed an expression hitherto unknown to service jurisprudence. 
+
+Through the said notifications, the petitioners’ appointments were “disowned” by the Directorate of E&SE, effectively terminating their services. 
+
+The stated ground for this action was that the petitioners had not been recommended for appointment by the KP -PSC. 
+
+It was, however, not disputed that the petitioners had been appointed as SSTs and had se rved for several years before the Directorate of E&SE purportedly discovered that their appointments had not been made pursuant to any recommendation by the KP -PSC.
+
+============================================================
+PAGE 19
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 19:- 30. 
+
+The KP -ST appears to have put the cart before the horse by upholding the notifications whereby the petitioners’ services were brought to an end, and only thereafter giving directions to the Chief Secretary, KPK to constitute an inquiry committee or a joint investigation team headed by the Chairman, KP -PSC to thoroughly investigate the matter and identify the actual perpetrators and facilitators so that the government could take appropriate legal action against them. 
+
+This exercise ought to have been carr ied out in the first instance and it is only if a definite finding of fraud in the process for the petitioners ’ appointment had been given, could action be taken not just against the petitioners under the KP-E&D Rules, 2011 but also against those officials who were instrumental in making such appointments. 
+
+By upholding the notifications that had brought the petitioners ’ services to an end, the KP -ST also appears to have lost sight of the law laid down by this court in the following judgments: - (i) In the case of District Coordination Officer, District Dir Lower Vs. 
+
+Rozi Khan (2009 SCMR 663 ), it was held that if it occurs to the department that it had committed irregularities in making appointments, the appointees could not be harmed, damaged or condemned subsequently. (ii) In the case of Federation of Pakistan Vs. 
+
+Gohar Riaz (2007 PLC (C.S.) 727 ), it has been held that the appointing authority cannot be allowed to take the benefit of its own lapses, irregularities and violation of the prescribed procedure in making appointments. 
+
+Furthermore, it was held that an employee could not be punished or t erminated for any act or an omission of the employer in making an appointment.
+
+============================================================
+PAGE 20
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 20:- (iii) In the case of Province of Punjab Vs. 
+
+Zulfiqar Ali (2006 SCMR 678), it has been held that where an appointment of an employee is sought to be cancelled by the employer on the ground that he had been illegally appointed, it would be more appropriate if action was taken against the appointing authority which had committed misconduct by making an appointment illegally. 
+
+In the said judgment, it was observed by the Hon'ble Supreme Court that the Chief Secretary of the Government of Punjab had a legal burden to take action against the officer/appointing authority for making the illegal appointment and for engaging the Provincial Government in litigation at the cost of the public exchequer. (iv) In the case of Collector of Customs and Central Excise, Peshawar Vs. 
+
+Abdul Waheed (2004 SCMR 303 ), it has been held that where the prescribed procedure was not followed by the competent authority in making appointments, the appointees could not be blamed for what was to be performed or done by such authority before issuing the appointment orders. (v) In the case of Abdul Hafeez Abbasi Vs. 
+
+Managing Director, Pakistan International Airline Corporation (2002 SCMR 1034 ), it was held that where appointments had been made contrary to the law as well as the prevalent rules and regulations, besides proceeding against the beneficiaries of the illegal appointments, the officers who were responsible for making the illegal appo intments or for implementing illegal directives should also be held responsible and severe actions should be taken against them so that in the future it may serve as a deterrent for other like -minded persons.
+
+============================================================
+PAGE 21
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 21:- (vi) In the case of Secretary to the Government of N. -W.F.P, Zakat/Social Welfare Department, Peshawar Vs. 
+
+Saadullah Khan (1996 SCMR 413 ), it was held as follows: - “6. 
+
+It is disturbing to note that in this case petitioner No.2 had himself been guilty of making irregular appointment on what has been described 'purely temporary basis.’ The petitioners have now turned around and terminated his services due to irregularity and violation of rule 10(2) ibid. 
+
+The premise, the least, is utterly untenable. 
+
+The case of the petitioner was that the respondent lacked requisite qualification. 
+
+The petitioners themselves appointed him on temporary basis in violation of the rules for reasons best known to them. 
+
+Now they cannot be allowed to take benefit of their lapses in order to terminate services of the respondent merely because they have themselves committed irregularity in violating the procedure governing the appointment. 
+
+In the peculiar circumstances of the case, the learned Tribunal is not shown to have committed any illegality or irregularity in reinstating the respondent.” 31. 
+
+As mentioned above, vide Directorate of E&SE ’s notification s dated 04.04.2019 and 05.04.2019, the appointment of the petitioners was “disowned” in purported exercise of the power under section 21 of the General Clauses Act, 1897. 
+
+It was the said notification which was first restored through notification dated 11.06.2021 and subsequently through n otification dated 30.08.2024, which was upheld by the KP -ST vide the impugned judgment. 
+
+Section 21 of the General Clauses Act, 1897 reads thus: - “Where, by any Central Act or Regulation, a power to issue notifications, orders, rules or bye -laws is conferred, then that power includes a power, exercisable in the like manner and subject to the like sanction and conditions (if any), to add to, amend, var y or rescind any notifications, orders, rules or bye - laws so issued.” 32. 
+
+This section ensures that when an authority is empowered to issue a rule, order, notification, or bye -law, it also possesses the implied power to modify, amend, or withdraw the same unless the parent statute provides otherwise. 
+
+However, once a decisive ste p has been taken, other legal considerations may arise. 
+
+If such a step has not yet been taken, there is no justification for restricting the authority’s power to alter or rescind its order, as held in Shahbaz
+
+============================================================
+PAGE 22
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 22:- Vs. 
+
+The Crown (PLD 1956 FC 46). 
+
+The exercise of power under Section 21 is subject to the principle of locus poenitentiae, which in law denotes the right to withdraw or re scind an order until a conclusive step has been taken. 
+
+This principle was most aptly explained by this Court in Pakistan v. 
+
+Muhammad Himayatullah Farukhi (PLD 1969 SC 407) in the following terms: – “There can hardly be any dispute with the rule as laid down in these cases that apart from the provisions of section 21 of the General Clauses Act, locus poenitentiae, i.e., the power of receding till a decisive step is taken, is available to the Governmen t or the relevant authorities. 
+
+In fact, the existence of such a power is necessary in the case of all authorities empowered to pass orders to retrace the wrong steps taken by them. 
+
+The authority that has the power to make an order has also the power to und o it. 
+
+But this is subject to the exception that where the order has taken legal effect, and in pursuance thereof certain rights have been created in favour of any individual, such an order cannot be withdrawn or rescinded to the detriment of those rights.” 33. 
+
+In the realm of service law, the principle of locus poenitentiae has often been invoked to quash orders for the recall of appointment letters which were said to have been issued by government departments as a result of procedural irregularities. 
+
+Recently, in the case of Pakistan Railways Vs. 
+
+Muhammad Aslam (2024 SCMR 97), the respondent was absorbed as Guard Grade -I on 06.08.2012 but his absorption was denied vide letter dated 02.08.2018. 
+
+The Service Tribunal as well as this court held that certain valuable rights had already been accrued in the respondent’s favour whic h could not be denied keeping in mind the principle of locus poenitentiae. 
+
+Furthermore, it was held that it was “a well settled exposition of law that the power of rescission remains with the relevant authorities to undo the action till a decisive step is taken or as long as certain rights are not created or the action was found to be patently illegal.” In the case of Inspector General of Police Vs. 
+
+Fida Muhammad etc. (2022 SCMR 1583), the respondents, after participating in the compet itive
+
+============================================================
+PAGE 23
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 23:- process for appointment to posts in the Balochistan Police, were issued appointment letters. 
+
+After one month their appointment letters were withdrawn through an omnibus order. 
+
+Before the withdrawal of the appointment letters, neither was any inquiry conducted nor were the respondents issued any show cause notice. 
+
+This court held that since their appointments had been made after fulfilling the codal formalities and since this has resulted in the creation of vested rights in the respondents’ favour, the withd rawal of their appointments was hit by the principle of locus poenitentiae. 34. 
+
+Although t his court has consistently held that locus poenitentiae is the power of receding till a decisive step is taken, but it is not a principle of law that an order once passed becomes irrevocable and is a past and closed transaction. 
+
+If an order is illegal, then a perpetual right cannot be created on the basis of such illegal order as held in the case of Province of Punjab Vs. 
+
+Atta Muhammad Zafar (2021 SCMR 1195). 
+
+Indeed, the principle of locus poenitentiae does not extend to orders which are paten tly illegal or orders obtained as a result of fraud. 
+
+In the case of Government of the Punjab Vs. 
+
+Muhammad Imran (2019 SCMR 643), this court, after referring to several judgments on the principle of locus poenitentiae, deduced the following principles: - “I) The Authority which can pass order is entitled to vary, amend, add or to rescind the same under section 21 of the General Clauses Act, 1897. 
+
+II) The jurisdiction to recall an earlier o [r]der is based on the principle of locus poenitentiae. 
+
+III) There is an exception to the principle of locus poenitentiae vesting power in an authority to recall its earlier order: if in pursuance of the order passed by the authority, an aggrieved person takes decisive steps, and changes his position. 
+
+IV) None can retain the benefits of a withdrawn order, claiming the protection of having taken a decisive step, when the very order passed by the authority is illegal, void or without lawful authority. 
+
+In such circumstances, it would not matter, even if decisi ve steps have been taken by the person in pursuance of the illegal order passed by the authority. 
+
+However, the pecuniary benefit accrued and already received by a person
+
+============================================================
+PAGE 24
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 24:- in pursuance of an illegal order passed by the competent authority cannot be recovered from him unless the benefiting order was obtained by the person through fraud, misrepresentation or concealment of material facts.” (Emphasis added) 35. 
+
+In the present case, it is safe to conclude that a decisive step had been taken upon the appointment of the petitioners as SSTs, as they not only assumed charge of their duties but also served for more than seven years. 
+
+That being so, if it is subsequently established —through a process prescribed by law and conducted in accordance with the principles of natural justice —that the petitioners’ appointments were founded on fictitious or fabricated documents, the principle of locus poenitentiae would not come to their aid. 36. 
+
+According to the Directorate of E&SE’s notification dated 04.04.2019, an inquiry committee had been constituted through Notification No. 8154 -63 dated 04.08.2016 which, after examining the available record, concluded that the petitioners’ appointment order s for the posts advertised by the KP -PSC were fake and bogus. 
+
+The report of this inquiry committee, however, is not part of the record. 
+
+It is also not denied by the respondents that the petitioners were not associated with that inquiry. 
+
+When an employee’s appointment is terminated on the ground that it was obtained fraudulently or that he or she was never validly recommended for appointment, the essence of the charge is misconduct —a serious allegation that impugns the employee’s integrity. 
+
+Such a charge cannot be acted upon summarily or on the basis of mere administrative suspicion; it must be established through proper proceedings in which the accused is afforded a fair opportunity to defend himself or herself. 
+
+Articles 4 and 10A of the Constitution
+
+============================================================
+PAGE 25
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 25:- guarantee that no person shall be deprived of his rights except in accordance with law, and that every person has the right to a fair trial and due process. 
+
+Fraud is a question of fact, and unless it is proved through evidence and in accordance with due pr ocess, any termination on that ground will be illegal, arbitrary and unconstitutional. 
+
+Termination based on an unproven allegation of fraud carries a stigma with grave civil consequences, including loss of employment, reputation and future prospects. 
+
+There fore, before imposing such a stigma, the competent authority must hold a lawful and fair inquiry to establish the alleged fraud. 
+
+A finding of fraud reached in an inquiry conducted without associating the persons affected does not satisfy the requirements of due process under Articles 4 and 10A of the Constitution and further violates the fundamental principle of audi alteram partem. 37. 
+
+Vide order dated 21.10.2025, this Court directed the Chairman, KP -PSC to appear in person and clarify whether any recommendations had been made by the Commission for the petitioners’ appointments. 
+
+In response, the KP -PSC submitted reports stating that the petitioners were not among the candidates recommended by the KP -PSC for appointment. 
+
+While this clarification was noted, we are of the considered view that in a formal inquiry under the E&D Rules, 2011 the veracity of this claim can be determined. 
+
+Such an inquiry ought to have active participation of the KP -PSC, with a thorough examination of its record to establish conclusively whether the petitioners’ appointments were based on genuine recommendations or otherwise. 
+
+The personal statement of the Chairman, KP -PSC, valuable though it may be, cannot be treated as a substitute for a legally mandated inquiry conducted in accordance with the procedure prescribed under the said Rules.
+
+============================================================
+PAGE 26
+============================================================
+
+CPLA Nos.4146 to 4169 of 2025 & 4059 to 4070 of 2025 -: 26:- Only through such a process can a fair, transparent, and lawful determination be made regarding the authenticity of the petitioners’ appointments. 38. 
+
+In view of the above, the instant petitions are converted into appeals and allowed by setting aside the impugned judgments dated 14.07.2025 passed by the KP -ST. 
+
+It is directed that the petitioners be forthwith reinstated in service. 
+
+The Directorate of E&SE is at liberty to conduct an inquiry against the petitioners strictly in accordance with the KP -E&D Rules, 2011. 
+
+Chief Justice Judge Judge Islamabad, the 23rd October, 2025 Approved for reporting Sanaullah *

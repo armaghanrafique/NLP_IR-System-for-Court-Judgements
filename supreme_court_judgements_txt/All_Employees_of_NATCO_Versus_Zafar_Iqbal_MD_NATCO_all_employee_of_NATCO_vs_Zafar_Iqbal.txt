@@ -1,0 +1,36 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: All_Employees_of_NATCO_Versus_Zafar_Iqbal_MD_NATCO_all_employee_of_NATCO_vs_Zafar_Iqbal.PDF
+CONVERSION DATE: 2025-12-23 19:32:44
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 100
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COU RT GILGIT -BALTISTAN Civil Misc No.15/2010 All Employee of NATCO Petitioners VERSUS Zafar Iqbal MD NATCO Respondent Mr.Ehsan Ali Advocate for the petitioners Mr. 
+
+Javed Iqbal Advocate for the Respondent Order Dated 8 -07-2010 Mr. 
+
+Javed Iqbal learned counsel for MD NATCO has produced a copy of office order dated 7th July 2010. 
+
+Whereby the petitioner has been restored to his original position. 
+
+In view thereof there is no need to proceed further in this applica tion and same is accordingly dispose of. 
+
+Chief Judge Judge Judge
+
+============================================================
+PAGE 2
+============================================================
+
+

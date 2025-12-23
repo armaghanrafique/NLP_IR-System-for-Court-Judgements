@@ -1,0 +1,124 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._197_2025.pdf
+CONVERSION DATE: 2025-12-23 19:35:35
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 4
+ESTIMATED WORD COUNT: 1,234
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+SUPREME COURT OF PAKISTAN (Appellate Jurisdiction) Present: Justice Shakeel Ahmad Justice Aamer Farooq CPLA No. 197 of 2025 and CMA No. 237 of 2025. (Against judgment dated 20.12.2024, passed by the Islamabad High Court, Islamabad in FAO No. 20 of 2024) M/s Zhongzing Telecom Pakistan (Pvt) Limited Petitioner (s)/ applicant(s) Versus The Imperial Electric Company (Pvt), Limited …Respondent(s) For the Petitioner (s)/ applicant(s): Mr. 
+
+Qaiser Imam, ASC, along with Mr. 
+
+Tariq Aziz, AOR For the respondent(s): Mr. 
+
+Muhammad Ali Raza, ASC (via VL from Lahore) Date of hearing: 23.09.2025 ORDER SHAKEEL AHMAD, J. - Through t his petition for leave to appeal under Article 185(3) of the Constitution of the Islamic Republic of Pakistan, 1973, challenge is laid to the judgment dated 20.12.2024 (“impugned judgment”) passed by the Islamabad High Court, Islamabad (“the High Court”) whereby FAO No. 20 of 2024, filed by the respondent against the order dated 28.11.2023 of the Addl. 
+
+District Judge, Islamabad, was allowed, and the matter was remanded back to the Court below with direction to proceed further by deciding the pending applications on merits. 2. 
+
+The facts necessary for adjudication of the present matter are that on 07.05.2005, the petitioner and the respondent entered into a contract for the supply and installation of DG Sets at PTCL sites under its CDMA project. 
+
+Clause 19.2 of the contract provided that any dispute between the parties would be referred to the Chief Executive Officer of PTCL (“the Arbitrator” ) for arbitration. 
+
+Pursuant
+
+============================================================
+PAGE 2
+============================================================
+
+CPLA NO. 197 of 2025 2 to the said clause, the Arbitrator issued notices on 22.12.2020 and informed the parties that the Award would be delivered on 29.12.2020. 
+
+The Award was accordingly pronounced in presence of both parties. 
+
+Under the Award, the respondent was held entitled to recover an amount of Rs. 33,520,758 with interest at the rate of 14% per annum. 
+
+On the respondent’s request, the Award was filed before the Senior Civil Judge, Islamabad, on 13.01.2021. 
+
+The petitioner thereafter moved an application under Section 31 of the Arbitration Act 1940 (“the Act of 1940 ”), asserting that the Court lacked pecuniary jurisdiction. 
+
+This application was allowed on 24.02.2022, and the Award was returned for filing before the competent Court. 
+
+The respondent challenged the said order through Writ Petition No. 1784 of 2022, which was disposed of on 22.09.2022. 
+
+During the pendency of the writ petition, the Arbitrator, again on the respondent’s request, filed the Award before the District Judge on 01.09.2022. 
+
+On 30.09.2022, the petitioner filed an application before the District Judge, contending that the Award was barred by limitation under Article 178 of the Limitation Act 1908 (“the Act of 1908 ”). 
+
+The respondent contested this plea, but the application was allowed on 28.11.2023. 
+
+The said order was challenged by the respondent before the High Court through FAO No. 20 of 2024, which was allowed vide the impugned judgment. 
+
+Hence, the present petition. 3. 
+
+Heard both sides and the record perused. 4. 
+
+In view of the foregoing factual background, the present petition gives rise to the following questions of law for determination by this Court: i. 
+
+Whether on the facts and circumstances of the case, the High Court correctly concluded that Article 178 of t he Act of 1908 is attracted only when a party to the arbitration applies to the Court for filing of the Award, and does not govern a request made by a party to the Arbitrator for filing the Award before the Court. ii. 
+
+Whether under the scheme of the Act of 1908, any period of limitation is prescribed
+
+============================================================
+PAGE 3
+============================================================
+
+CPLA NO. 197 of 2025 3 for an Arbitrator or umpire when filing an Award before the Court. 5. 
+
+Before adverting to the legal questions formulated hereinabove, it is considered appropriate to first reproduce Article 178 of the Act of 1908 as follows: Description of application Period of limitation Time from which period begins to run 1 2 3 [178. - Under the Arbitration Act, 1940, for the filing in Court of an award Ninety days The date of service of the notice of the making of the award.] Article 178 of the Act of 1908 is the primary provision that regulates the period within which proceedings may be instituted for making an Award Rule of the Court. 
+
+It prescribes a period of ninety days, running from the date on which notice of the making o f the Award is served. 
+
+Where a party does not first request the Arbitrator or umpire to file the Award in Court, it may directly approach the Court and seek an order directing the Arbitrator or umpire to file the Award or a signed copy thereof. 
+
+An application of this nature falls within the ambit of Article 178 of the Act of 1908, provided that notice of the Award has been served in terms of Section 14(1) of the Act of 1940. 
+
+A different legal regime applies where no notice of the Award has been served and the party merely requests the Arbitrator, under Section 14(2) of the Act of 1940, to file the Award in Court. 
+
+In such a situation, the residuary Article 181 of the Act of 1908 becomes operative. 
+
+Article 181 prescribes a period of three years commencing from the date when the right to apply accrues. 
+
+In matters of arbitration, that right accrues when the Award is made and the party obtains knowledge of it. 
+
+Article 178 of the Act of 1908 has no application where the Award is filed by the Arbitrator himself because he seeks no relief for his own benefit. 
+
+Service of notice upon the party is, therefore, a sine qua non for the applicability of Article 178 of
+
+============================================================
+PAGE 4
+============================================================
+
+CPLA NO. 197 of 2025 4 the Act of 1908, and in the absence of such notice, the provision cannot be invoked. 
+
+In the present case, the record clearly demonstrates that the respondent did not, at any material stage, file an application under Section 14(2) of the Act of 1940 seeking a direction from the Court requiring the Arbitrator to file the Award. 
+
+Instead, it was the A rbitrator who, on 01.09.2022, filed the Award before the District Judge, Islamabad, without any judicial direction compelling him to do so. 
+
+In these circumstances, the essential preconditions for the applicability of Article 178 of the Act of 1908 were not met, and the provision was erroneously invoked. 6. 
+
+In view of the discussion hereinabove, we conclude that on the facts and circumstances of the case, the High Court rightly held that Article 178 of the Act of 1908 applies only where a party to the arbitration proceedings applies to the Court for filing of the Award. 
+
+It does not apply to an application made by the party to the Arbitrator for filing the Award, which would instead be governed by Article 181 of the Act of 1908. 7. 
+
+In view of the foregoing, we hold that the impugned judgment of the High Court is based on a correct analysis of facts and law. 
+
+We find no legal infirmity the rein, warranting interference. 
+
+Accordingly, the present petition, along with the CMA, is dismissed, and leave declined. 
+
+No order as to costs. 
+
+Vide short order of even date, we dismissed this petition, and above are the reasons for the same. 
+
+Judge Judge Islamabad 13.11.2025 Zia/* APPROVED FOR REPORTING

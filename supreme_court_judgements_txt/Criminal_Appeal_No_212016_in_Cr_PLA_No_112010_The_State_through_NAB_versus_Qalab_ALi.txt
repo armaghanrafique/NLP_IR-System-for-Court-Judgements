@@ -1,0 +1,362 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Criminal_Appeal_No_212016_in_Cr_PLA_No_112010_The_State_through_NAB_versus_Qalab_ALi.pdf
+CONVERSION DATE: 2025-12-23 19:34:45
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 17
+ESTIMATED WORD COUNT: 4,631
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Criminal Appeal No. 21/2016 in Cr. 
+
+PLA. 
+
+No. 11/2010. 1. 
+
+The State through National Accountability Bureau Petitioner. 
+
+Versus 1. 
+
+Qalab Ali & 02 others Respondent s. 
+
+PRESENT: - 1. 
+
+The Additional Prosecutor General National Accountability Bureau alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioner. 2. 
+
+Mr. 
+
+Muhammad Issa senior Advocate for respondent No. 01. 3. 
+
+Mr. 
+
+Malik Shafqat Wali senior Advocate for respondent No. 02. 4. 
+
+Mr. 
+
+Amjad Hussain Advocate alongwith Mr. 
+
+Muhammad Iqbal Advocate for respondent No. 03. 
+
+DATE OF HEARING: - 24.11.2016. 
+
+DATE OF ANNOUNCEMENT OF JUDGMENT: - 01.12.2016. 
+
+JUDGMENT. 
+
+Dr. 
+
+Rana Muhammad Shamim, CJ..... 
+
+This Criminal Petition has arisen out of the common impugned judgment dated 09.08.2010 in Writ Petition No. 47/2010, Cr. 
+
+Rev. 
+
+Petition No. 11/2010 and Cr. 
+
+Misc. 
+
+No. 62/2010 passed by the learned Gilgit - Baltistan Chief Court whereby the same filed by the respondents were allowed, directing the petitioner to release the respondents/ accused forthwith, hence, this petition for leave to appeal. 
+
+This court vide order dated 07.04. 2011 issued notices to the
+
+============================================================
+PAGE 2
+============================================================
+
+2 respondents, the operation of the impugned judgment, however, was suspended on 06.10.2015 and the case was finally heard on 24.11.2016 and the judgment was reserved. 2. 
+
+Briefly facts of the case are that the National Accountability Bureau initiated an investigation against the respondents on the written complain t made by the Head Office Industrial Development Bank of Pakistan at Karachi vide letter No. 
+
+IDBP/GF -167/3014 dated 04.01.2003 addressed to the Director Federal Investigation Agency (FIA) Economic Crime Wing, at Islamabad. 
+
+The gist of the letter was that Mr. 
+
+Qalab Ali, respondent No. 01 obtained loan fraudulently up to Rs. 5.702 million from the Gilgit Branch of the petitioner Bank without providing proper securi ties. 
+
+The Branch Manager respondent No. 02 sanctioned the said loan without obtaining sanction from the competent authority as such the respondent No. 01 has committed fraud, causing loss and damages to the Bank in connivance with petitioner No. 02. 
+
+The respondents were liable to be taken criminal action by the Federal Investigation Agency (FIA) and prayed for registration of the case against the respondents. 
+
+The Federal Investigation Agency (FIA) later on transferred the case to the National Accountability Bureau to probe into the matter as per law. 
+
+The respondents were arrested by the National Accountability Bureau authorities with the assistance of the local police on 21.07.2010. 
+
+Whereafter transit remand was obtained from the Accountability Court Gilgit to take the respondents to Rawalpindi. 
+
+The respondents being aggrieved
+
+============================================================
+PAGE 3
+============================================================
+
+3 challenged the said transit remand before the learned Gilgit - Baltistan Chief Court. 
+
+Upon hearing the learned Gilgit -Baltistan Chief Court suspended the said transit remand. 
+
+Consequently, the respondents were kept in Gilgit jail under interim judicial remand granted by the learned Accountability Court Gilgit. 
+
+The respondents feeling aggrieved filed Writ Petition No. 47/2010, Criminal Petition No. 11/2010 and Criminal Miscellaneous No. 62/ 2010 before the learned Gilgit -Baltistan Chief Court which upon hearing were allowed vide common impugned judgment dated 09.08.2010. 3. 
+
+The learned Additional Prosecutor General National Accountability Bureau (NAB) submits that the Head Office, Industrial Development Bank of Pakistan at Karachi vide letter No. 
+
+IDBP/GF -167/3014 dated 04.01.2003 addressed to the Director Federal Investigation Agency Economic Crime Wing Islamabad for registration of case against accused Qalb -e-Ali, the then Chairma n, District Council, Gilgit and Mera Jan, the then Manager, Branch Office Industrial Development Bank of Pakistan (IDBP ), Gilgit on the allegations of causing loss and damages to Industrial Development Bank of Pakistan (IDBP ) by way of obtaining /disbursin g loan fraudulently & committing offence of corruption and corrupt practices. 4. 
+
+He also submits that on transfer of case from Federal Investigation Agency (FIA) to National Accountability Bureau, the case record revealed that alleged accuse d Qalb-e-Ali, while he was Chairman of District Council Gilgit, by misusing of his authority
+
+============================================================
+PAGE 4
+============================================================
+
+4 and fraudulently submitted funds of District Council Gilgit as security against his personal loan and accused Mera Jan, the then Branch Manager, Industrial Developm ent Bank of Pakistan ( IDBP ), Gilgit sanctioned the loan beyond his financial powers. 
+
+He submits that the accused Mera Jan also received Rs. 300,000/ - vide cheque No. 721028 dated 22.12.2001, out of said loan account as an illegal gratification. 
+
+He submits that the accused were found involved in connivance with each other in committing the crime of scheduled offence of misuse of authority, corruption and corrupt practices. 
+
+He submits that the inquiry was initiated against the accused by the National Accounta bility Bureau at Rawalpindi vide authorization letter No. 06/2003/FIA/T -8/A-II/IW/NAB/Rwp/2007 dated 24.08.2007. 
+
+No reference from Governor State Bank of Pakistan was required in the offence of corruption and corrupt practices as defined in scheduled offences under Section 9(a) of The National Accountability Bureau Ordina nce, 1999. 5. 
+
+As per the learned Additional Prosecutor General National Accountability Bureau (NAB) that later on Investigation Officer (I.O) of the case was changed and case was transferred to National Accountability Bureau, sub -office at Gilgit. 
+
+Due to shortage of Investigating Officer s in the sub -office at Gilgit, consequently, the case was remitted for investigation t o National Accountability Bureau at Rawalpindi. 
+
+He submits that during the inquiry, accused Qalb-e-Ali appeared at National Accountability Bureau Rawalpindi on 26.06.2009 whereby Qalb -e-Ali
+
+============================================================
+PAGE 5
+============================================================
+
+5 respondent/ accused made request for Voluntary Return of Rs. 5,702,325/ - by accepting his guilt that loan was taken by him in his personal capacity. 
+
+Subsequently o n 01.07.2008, accused Qalb - e-Ali submitted an affidavit for Voluntary Return of the alleged liability in installments. 
+
+He further submits that the accused Qalb - e-Ali submitted request on 27.07.2009 for prov ision of time to arrange security/guarantee and payment of liability. 
+
+He submits that after his Voluntary Return application he was repeatedly summoned but he did not turn up. 
+
+He, however, sent applications dated 28.08.2009 & 14.10.2009 praying therein for extension in payment of the said amount. 6. 
+
+He contends that the case against the respondents was that the loan sanctioned fraudulently in favour of the respondent No. 01 by the respondent No. 02 falls within the provisions of corruption and corrupt practices. 
+
+The inquiry/investigation initiated against the respondents by the National Accountability Bureau was absolutely fa lls within the scope of Section 9 of the National Accountability Bureau Ordinance 1999 and scheduled offences thereto. 
+
+He also con tends that the learned Gilgit -Baltistan Chief Court fell in error and mis -conceiv ably observed and held that the loan taken by the respondent No. 01 was “imprudent loan” and inquiry/investigation initiated by the National Accountability Bureau was illegal and without jurisdiction. 
+
+He further contends that the inquiry was not initiated on the basis that the loan was defaulted or imprudent. 
+
+On the contrary the loan obtained by the
+
+============================================================
+PAGE 6
+============================================================
+
+6 respondent No. 01 and sanctioned by the respondent No. 02 was taken fraudulentl y in collusion with each other, which amounts to the misuse of authority and corrupt practices, hence, the inquiry/investigation conducted by the National Accountability Bureau was legal and in accordance with law. 
+
+He contends that the respondent No. 01 na mely Qalb -e-Ali submitted a fake minutes of the meeting of the District Council Gilgit (DCG) and other documents in the name of District Council Gilgit whereas the respondent No. 02 namely Mera Jan sanctioned the unauthorized loan by receiving bribe. 
+
+The r espondent No. 03 namely Mumtaz Khan the then Chief Officer/Drawing & Disbursing Officer District Council Gilgit by misusing of his authority and corrupt practices in connivance with each others sustained loss to the Industrial Development Bank of Pakistan. 
+
+He also contends that the respondents also misappropriated the funds of District Council Gilgit by opening another bank account malafidely in connivance with each other. 
+
+He submits that the sufficient materials available on record which connect the respon dents with the commission of fraudulently obtaining loan, misusing of their authorities and committing an offence of corruption & corrupt practices, hence, the impugned common judgment dated 09.08.2010 passed by the learned Gilgit -Baltistan Chief Court is not sustainable. 
+
+While saying so he relied upon the case law of this court announced on 30.05.2016 titled Muhammad Arif & 05 others versus National Bank of Pakistan & 06 others.
+
+============================================================
+PAGE 7
+============================================================
+
+7 7. 
+
+On the other hand, the learned couns els for the respondents contend that respondent No. 01 was the then Chairman District Council Gilgit (DCG), respondent No. 02 was the then Manager Industrial Development Bank of Pakistan at Gilgit whereas the respondent No. 03 was the then Drawing & Disbursing Officer, District Council Gilgit. 
+
+They also contend that the respondent No. 01 applied for loan from the respondent No. 02 who accordingly sanctioned the said loan in favour of the respondent No. 01 as per Banking rule and procedure. 
+
+They also submit that it was not a case of illegal and “Imprudent Loan” rather the same was a legal and “Prudent Loan”. 
+
+They contend that recover y suit was later on filed by the petitioner’s Bank which was decreed by the competent court of law declaring the same as rightly sanctioned and “Prudent Loan”. 
+
+They further contend that the petitioner had no authority to investigate and arrest the respondents as the alleged offence does not fall under their jurisdiction. 
+
+They further contend that the mandatory procedural pre -condition under Section 31(d) of (the National Accountability ) Ordinance 1999, has not been adopted and according to which reference by Governor State Bank of Pakistan is mandatory to obtain approval for prosecution from Governor State Bank of Pakistan which has yet not been obtained by the petitioner who unauthorizedly and illegally made request to the National Accountability Bureau Authorities to take the respondents for inquiry which is unlawful
+
+============================================================
+PAGE 8
+============================================================
+
+8 and illegal as per provision of the National Accountability Bureau Ordin ance, 1999. 8. 
+
+The learned counsel s for the respondents also contend that a Civil Suit filed by the Industrial Development Bank of Pakistan on the same subject was decreed which preclude the National Accountability Bureau to entertain the complaint of Industrial Development Bank of Pakistan and to investigate or conduct inquiry against the respondents. 
+
+They also contend that it is a case of double jeopardy as no one can be vexed twice for the same offence. 
+
+The respondent No. 02 has already been prosecuted by the departmental authorities under E&D Rules. 
+
+Consequently he was terminated from his services as Manager Industrial Development Bank of Pakistan whereas the respondent No. 01 has submitted Voluntary Return to pay the said loan which he availed from the said Bank. 
+
+They also contend that the impugned judgment dated 09.08.2010 in Writ Petition No. 47/2010, Criminal Rev. 
+
+No. 11/2010 and Criminal Misc. 
+
+No. 62/2010 passed by the learned Gilgit -Baltistan Chief Court may pleased be maintained being well reasoned by restraining the petitioner to conduct inquiries/investigations against the respondents as sanction /approval has not been obtained from the Governor, State Bank of Pakistan. 
+
+While saying so they support their contentions by relying upon the case laws reported as (PLD 2001 Karachi 311) and (PLD 2013, Sindh 357).
+
+============================================================
+PAGE 9
+============================================================
+
+9 9. 
+
+We have heard the learned counsels for the respective parties at length, perused the record of the case file and gone through the impugned common judgment dated 09.08.2010 passed in Writ Petition No. 47/2010 in Criminal Rev. 
+
+Petition No. 11/2010 and Criminal Misc. 
+
+No. 62/2010 by the learned Gilgit -Baltistan Chief Court. 
+
+We have also gone through the grounds taken by the respondents in their Writ Pet ition No. 47/2010, Criminal Revi sion No. 11/2010 and Criminal Misc. 
+
+No. 62/2010. 
+
+No where the plea has been taken by the respondents regarding the prudent, imprudent or defaulted loan. 
+
+They have challenged only the jurisdiction of National Accountability Bureau authorities in the region of Gilgit -Baltistan. 
+
+As per said averments, the National Accountability Bureau arrested the respondents illegally, without lawful authority and against the provisions of The Gilgit -Baltistan (Empowerment & Self Governance) Order, 2009. 
+
+Further the Industrial Development Bank of Pakistan has also filed a suit for recovery of Rs. 78, 96,500/ - against the respondents and the District Council Gilgit in the learned Banking Court. 
+
+The learned Chief Court mis-conceivably held that the case in hand admittedly relates to the bank loan either imprudent or willful default. 
+
+It is further held that to initiate inquiry / investigation in such cases, the permission of the Governor, State Bank of Pakistan is mandatory. 
+
+On the contrary the cas e of the respondents was/is for obtaining fraudulent loan by misusing of authority and committing the offence of corruption and corrupt practices by the respondents. 
+
+The
+
+============================================================
+PAGE 10
+============================================================
+
+10 case law relied upon by the learned Additional Prosecutor General National Accountabil ity Bureau is applicable whereas the case laws cited by the learned counsels for the respondents are distinguishable. 10. 
+
+We, in order to ascertai n accusation of the respondents & jurisdiction of National Accountability Bureau authorities in this region, have gone through the provisions of Sections 9, 18, 19 and 25 of The National Accountability Bureau Ordinance, 1999 which are reproduced as under: - “SECTION 9. 
+
+CORRUPTION AND CORRUPT PRACTICES. 
+
+A holder of a public office, or any other person, is said to commit or to have committed the offence of corruption and corrupt practices. (i) If he accepts or obtains from any person or offers any gratification directly or indirectly other than legal remu neration, as a motive or reward such as is defined in section 161 of the Pakistan Penal Code (Act XLV of 1860) for doing or for bearing to do any official act, or for showing or for bearing to show, in the exercise of his official functions, favour or disf avor to any person, or for rendering or attempting to render any service or disservice to any person; or (ii) If he accepts or obtains or offers any valuable thing without consideration, or for consideration which he knows to be inadequate, from any person who m he knows to have been, or likely to be, concerned in any proceedings or business transacted or about to be transacted by him, or having any connection with his official functions or from any person whom he knows to be interested in or related to the pers on so concerned; or (iii) If he dishonestly or fraudulently misappropriates or otherwise converts for his own use, or for the use of any other person, any property entrusted to him, or under his control, or willfully allows any other person so to do; or
+
+============================================================
+PAGE 11
+============================================================
+
+11 (iv) If he by corrupt, dishonest, or illegal means, obtains or seeks to obtain for himself, or for his spouse or dependents or any other persons, any property, valuable thing, or pecuniary advantages; or (v) If he or any office dependents or benamindars owns, possesses, or has acquired right or title in any assets or holds irrevocable power of attorney in respect of any assets or pecuniary resources disproportionate to his known sources of income, which he cannot reasonably account for or maintains a standard of living b eyond that which is commensurate with his sources of income; or (vi) If he misuses his authority so as to gain any benefit or favour for himself or any other person, or render or attempts to render or willfully fails to exercise his authority to prevent the grant, or rendition of any undue benefit or favour which he could have prevented by exercising his authority (vii) If he has issued any directive, policy, or any SRO (Statutory Regulatory Order) or any other order which grants or attempts to grant any undue concess ions or benefit in any taxation matter or law or otherwise so as to benefit himself or any relative or associate or a benamidar or any other person, or (viii) If he commits the offence of cheating as defined in Section 415 of the Pakistan Penal Code, 1860 (Act X LV of 1860), and thereby dishonestly induces members of the public at large to deliver nay property including money or valuable security to any person;or (ix) If he commits the offence of criminal breach of trust as defined in Section 405 of the Pakistan Penal Code, 1860(Act XLV of 1860 ) with regard to any property including money or valuable security entrusted to him by the members of the Public at large; (x) If he, in his capacity as a banker, merchant, Factor, Broker, Attorney or Agent, comments criminal breach of trust as provide in Section 409 of the Pakistan Penal Code, 1860(Act XLV of 1860 ) in respect of property entrusted him or over which he has dominion;and (xi) If he aids, assists, abets attempts or acts in conspiracy with a person or holder of public office accused of an offence as provided in Clauses (i) to (xi);and \
+
+============================================================
+PAGE 12
+============================================================
+
+12 (b) all offences under this Ordinance shall be non -bailable and, notwithstanding anything contained in Sections [426,491], 497,498 and 561 -A or any other provisions of the Code, or any other law for the time being in force no Court shall have jurisdiction to grant bail to any person accused of any offence under this Ordinance. (c ) if after completing the investigation of an offence against a holder of public office or any other person, the Chairman NAB is satisfied that no prima facie case is made out against him and the case may be closed, the Chairman NAB shall refer the matter to a court for approval and for the release of t he accused, if in custody. [(d)……] “SECTION 18:- COGNIZANCE OF OFFENCES:- (a)……. (b) A reference under this Ordinance shall be initiated by the National Accountability Bureau on…. (i). a reference received from the appropriate government; or (ii). 
+
+Receipt of a complaint; or (iii). its own record. (c)………… (d) The responsibility for inquiry into an investigation of an offence alleged to have been committed under this Ordinance shall rest on the NAB to the exclusion of any other agency or authority, unless any such agency or authority is required to do so by the Chairman (NAB) or by an officer of the NAB duly authorized by him. (e) the Chairman NAB and such members, officers the learned Advocate -on-Record servants of the NAB shall have and exercise, for the purpose of an inquiry or investigation the power to arrest any person, and all the powers of an officer in - charge of Police Station under the Code, and for that purpose may cause the attendance of any person, and when and if the assistance of any agency, Police officer or any other official or agency shall render such assistance provided that no person shall be arrested without the permission of the Chairman (NAB) or any officer (of NAB) duly authorized by the Chairman NAB. (f). any inquiry or investigation under this Ordinance shall be completed expeditiously [ ---] him as may be practical and feasible.
+
+============================================================
+PAGE 13
+============================================================
+
+13 (g). [ ---] Chairman NAB, {or by an officer of the NAB duly author ized […]him, shall appraise the materials and the evidence placed before him during the inquiry and the investigation, and he decides that it would be proper and just to proceed further [ and there is sufficient material to justify filing of a reference], he shall refer the matter to [ a] Court. (h). if a complaint is inquired into an investigated by the NAB and it is concluded that the complaint received was prima facie frivolous or has been filled with intent to malign or defame any person, The chairm an NAB or Deputy Chairman NAB or an officer of the NAB duly authorized by the Chairman NAB, may refer the matter to the Court, and if the complainant is found guilty he shall be punishable with imprisonment for a terms which may extend one year, or with fine or with both. 
+
+SECTION 19:- Power to call for information: Power to call information… the Chairman NAB (an officer of the NAB duly authorized by him) may, during the course of inquiry or investigation of an offence under this ordinance or any rule or order made thereunder: - (a). 
+
+Call for information from any person for the purpose of satisfying himself whether there has been any contravention of the provisions of this ordinance or any rule or order made thereunder; (b) Require any person to produce or deliver any document for thing useful or relevant to the inquiry or investigation; (c ) examine any person acquainted with the facts and circumstances of the case. (d) require any bank or any financial institution, notwithstanding any thing contain in any other law for the time being in force, to provide any information relating to any person whosoever, including copies of entries made in a banks or financial institution’s books such as ledgers, day books, cash books and all other books including record of information and transactions saved in electronic or digital form, and
+
+============================================================
+PAGE 14
+============================================================
+
+14 the keepers of such books or records shall be obliged to certify the copies in accordance with law [; and ] (e) where there is responsible suspicion that any person is involved in or is privy to an offence under this Ordinance, the Chairman NAB may, with the prior approval in writing of the High Court concerned, direct that surveillance of that person may be carried out through such means as may be necessary in the facts and circumstances of the case and the Chairman NAB, may in this regard seek the aid and assistance of any Government agency and the information so collected may be used as evid ence in the Trial under this Ordinance. “SECTION 25:- VOLUNTARY RETURN AND PLEA BARGAIN. (a) Notwithstanding anything contained in section 15 or any other law for the time being in force, where a holder of public office or any other person, prior to the authorization of investigation against him, voluntarily comes forward and offers to return the assets or gains acquired or made by him in the course, or as the consequence, of any offence under this Ordinance, the Chairma n NAB may accept such offer and after determination of the amount due from such person and its deposit with the NAB discharge such person from all his liability in respect of the matter or transaction in issue. 
+
+Provided that the matter is not sub judic e in any court of law. (b) Where at any time after the authorization of investigation, before or after the commencement of the trial or during the pendency of an appeal, the accused offers to return to the NAB the assets gains acquired or made by him in the course, as a consequence, of any offence under this Ordinance, the Chairman, NAB, may, in this connection, after taken into consideration the facts and circumstances of the case, accept the offer on such terms and conditions as he may consider necessary, and if the accused agrees so return to the NAB the amount determined by the Chairman, NAB, Shall refer the case for the approval of the court, or as the case may be, the Appellate Court and for the release of the accused.
+
+============================================================
+PAGE 15
+============================================================
+
+15 (c) the amount deposited by the accused with the NAB shall be transferred to the Federal Government or, as the case may be, a Provincial Government or the concerned bank or financial institution, company, body corporate, co -operative society, statutory body, or authority concerned within one month from the date of such deposit. ” 11. 
+
+The plain reading of the aforementioned provisions of law and in presence of the admission of the respondent No. 0 1, on receipt of Cheque amounting to Rs. 300,000/ - by the respondent No.02 as an illegal gratification & the termination of the services of the respondent No.03, the inquiry/investigation initiated by the National Accountability Bureau authorities was within their jurisdiction and they have legally taken the cognizance of it. 
+
+The National Accountability Bureau authorities cannot be precluded or restrained to conduct an inquiry/investigation under The National Accountability Bureau Ordinance 1999. 
+
+The mere filing of the Civil Suit by the Indu strial Development Bank of Pakistan for recovery of loan against the respondents does not preclude or restrain the National Accountability Bureau for initiation of inquir y /investigati on against the respondents who allegedly obtained loan fraudulently, mis -used of their authorities and committed offences of Corruption & Corrupt practices. 
+
+In our considered view, the provisions of Article 13 of the Constitution of Islamic Republic of Pakistan or Section 26 of The General Clauses Act and /or Section 403 of Th e Criminal Procedure Code do not attract.
+
+============================================================
+PAGE 16
+============================================================
+
+16 12. 
+
+Further the plain reading of Sub Section (e) of Section 18 of the Ordinance insists that for purpose of an inquiry or investigation, the officer so inquiring /investigating shall have all the powers as are available with officer –in-charge of a police station under the code, which are so provided under Chapter XIV of the Criminal Procedure Code. 
+
+Needless to add here that Chapter XIV of the Cr. 
+
+PC also includes the Section 160 to 1 64 Cr.PC which deal with po wer to require attendance, recording of statement. 
+
+Since from the bare reading of Section 18(b) of the Ordinance it becomes clear that an inquiry /investigation could be initiated only by the Chairman or an officer of the NAB, duly authorized by him, thus the officer, so authorized for conducting such an inquiry /investigation, shall enjoy all powers as are available to an officer -in-Charge of a police Station within meaning of the Chapter XIV of the Criminal Procedure Code. 
+
+Whereas the bare reading of the provisions of Section 19 of The National Accountability Bureau, Ordinance 1999 reveals that if an inquiry or investigation is ordered in respect of offence punishable under the Ordinance by Chairman NAB then during the course of the said inquiry or investi gation of such offence any officer duly authorized by Chairman is competent to call for information from any person for the purpose of Satisfying himself whether there has been any contravention of the provisions of the Ordinance or any rule or order made thereunder. 
+
+Thus it is manifest that it empowers the authorized officer to examine any person acquainted with the facts and circumstance of the case.
+
+============================================================
+PAGE 17
+============================================================
+
+17 “Any Person” includes witnesses or an accused even. 
+
+We are in complete agreement and acknowledge the legal position that one cannot be compelled to answer a question which can expose him to criminal charges and that one cannot be forced to be a witness which is so evident from the section 161 of the Code and Article 13 (2) of the Constitution. 13. 
+
+In view o f the above discussions, we hold that the National Accountability Bureau authorities were/are lawfully authorized to conduct inquiry / investigation and interfere nce into its authorities would seriously prejudice to the prosecution towards its right in prob ing into an investigation /inquiry of an offence. 
+
+Consequent thereto, we convert this petition into an appeal and the same is allowed. 
+
+The impugned common judgment dated 09.08.2010 passed in Writ Petition No. 47/2010, Criminal Rev. 
+
+Petition No. 11/2010 and Criminal Misc. 
+
+No. 62/2010 by the learned Gilgit -Baltistan Chief Court is set aside. 14. 
+
+The appeal is allowed in above terms. 
+
+Chief Judge. 
+
+Judge. 
+
+Whether the case is Fit to be reported or Not?

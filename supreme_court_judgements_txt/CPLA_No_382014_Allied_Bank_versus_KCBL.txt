@@ -1,0 +1,40 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_382014_Allied_Bank_versus_KCBL.pdf
+CONVERSION DATE: 2025-12-23 19:33:14
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 61
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 38/2014. 
+
+Allied Bank Petitioner. 
+
+Versus Karakoram Co -Operative Bank Respondent. 
+
+PRESENT: - Nemo for the petitioner. 
+
+ORDER DATED: - 07.06.2016. 
+
+Neither the petitioner nor their counsel is in attendance today despite the notice was served to them. 
+
+The case is dismissed for non -prosecution. 
+
+Chief Judge. 
+
+Judge.

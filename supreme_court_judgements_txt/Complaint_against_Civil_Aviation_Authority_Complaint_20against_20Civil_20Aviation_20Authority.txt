@@ -1,0 +1,62 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Complaint_against_Civil_Aviation_Authority_Complaint_20against_20Civil_20Aviation_20Authority.pdf
+CONVERSION DATE: 2025-12-23 19:34:06
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 204
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+C.Misc. 
+
+No. 127/2015 In SMC.NO.03/2015. (COMPLAINT AGAINST CIVIL AVIATION AUTHORITY) PRESENT: - 1. 
+
+Mian Shafaqat Jan Advocate alongwith Mr. 
+
+Johar Ali Khan Advocate -on-Record. 2. 
+
+Malik Khalid Masood, Deputy Terminal Manager, CAA (respondent No. 01) in person. 3. 
+
+Mr. 
+
+Sajjad Hussain, Commercial Assistant, CAA (respondent No.02) in person. 
+
+ORDER DATED: - 26.11.2015. 
+
+Malik Khalid Maso od, Deputy Terminal Manager, (respondent No. 01) and Mr. 
+
+Sajjad Hussain, Commercial Assistant, (respondent No.02) Civil Aviation Authority are present in person s alongwith Mian Shafaqat Jan Advocate. 
+
+They have tendered unconditional apology and placed themselves at the mercy of this court. 
+
+They have also made written submissio ns and requested to allow them to withdraw the Para -wise comments filed by them earlier. 
+
+The unconditional apology tendered by the respondent No.01 & 02 is accepted. 
+
+They are warned to be careful in future to pay respect to the judiciary. 
+
+The Para -wise c omments already filed by them be returned to them and the copy of written submission regarding tendering unconditional apology be placed on record.
+
+============================================================
+PAGE 2
+============================================================
+
+In view of the above, the SMC.No. 03/2015 is disposed off accordingly. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

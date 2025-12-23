@@ -1,0 +1,66 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Hamayoon_Khan_and_sons_versus_Chairman_Pakistan_Te_Hamayoon_Khan.PDF
+CONVERSION DATE: 2025-12-23 19:34:58
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 249
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN C.P.LA.NO.30/2009 Before: - Mr. 
+
+Justice Muhammad Nawaz Abbasi, Chief Judge. 
+
+Mr. 
+
+Justice Muhammad Yaqoob, Judge. 
+
+Hamayoon Khan and sons Government Contractor and General order Suppliers r/o Kashrote Teh sil & District Gilgit. 
+
+Petitioner/Appellant VERSUS 1. 
+
+Chairman Pakistan Telecommunication Islamabad. 2. 
+
+General Manager Pakistan Telecommunication Islamabad. 3. 
+
+Director Satellite Communication O.T.R. 
+
+Islamabad. 4. 
+
+Divisional Engineer (Dom Sat) Satellite Earth Stati on Danyore. 
+
+Respondents/Defendants PETITION FOR LEAVE TO APPEAL AGAINST THE IMPUGNED JUDGMENT/DECREE DATED 19 -08-2009 PASSED BY THE HON’BLE CHIEF COURT WHEREBY THE CHIEF COURT HAS MAINTANIED THE JUDGMENT/DECREE DATED 15 -09-2006 PASSED BY THE CIVIL JUDG E GILGIT. 
+
+Present: - Mr. 
+
+Sharif Ahmad, Advocate for petitioner. 
+
+Mr. 
+
+Muhammad Abbas, Advocate on record. 
+
+Malik Shafqat Wali, Advocate for respondents. 
+
+Date of Hearing: - 04-05-2010. 
+
+JUDGEMENT Mr. 
+
+Justice Muham mad Yaqoob, J…… This petition for leave to appeal has been preferred against the impugned order dated 19-08-2009, passed by learned Division Bench Chief Court Gilgit -Baltistan, whereby the appeal was dismissed hence this petition for leave to appeal. 
+
+Brief facts narrated in the amended plaint filed by the plaintiff i n the lower court are that tenders for construction of boundary wall and
+
+============================================================
+PAGE 2
+============================================================
+
+affixing of two steel gates at DOMSATS Earth Station at Gilgit was called and the plaintiff w as awarded the construction work and issued start/work order in favour of plaintiff on 12 -08-1990, during the construction it was verbally promised with the plaintiff

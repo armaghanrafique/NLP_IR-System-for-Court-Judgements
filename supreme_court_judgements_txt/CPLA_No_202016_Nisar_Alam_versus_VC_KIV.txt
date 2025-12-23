@@ -1,0 +1,58 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_202016_Nisar_Alam_versus_VC_KIV.pdf
+CONVERSION DATE: 2025-12-23 19:33:12
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 134
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA No. 20/2016. 
+
+Nisar Alam (Lecturer in Economics, KIU, Gilgit -Baltistan Petitioner. 
+
+Versus 1. 
+
+The Vice Chancellor, KIU Gilgit -Baltistan 2. 
+
+The Registrar, KIU, Gilgit -Baltistan 3. 
+
+Mr. 
+
+Ghazi Johar, Deputy Registrar, KIU Gilgit -Baltistan 4. 
+
+Mr. 
+
+Shahid Shigri, Deputy Registrar, KIU Gilgit -Baltistan Respondents. 
+
+PRESENT: - 1. 
+
+Mir Ikhlaq Hussain Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record on behalf of the respondents. 
+
+ORDER DATED: - 06.09.2016. 
+
+Neither the petitioner nor his counsel is in attendance today inspite of the fact that notice was issued to him for his appearance. 
+
+It seems that the petitioner is not interested in the prosecution of this case. 
+
+In view of the above, the petition is dismissed for non - prosecution. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

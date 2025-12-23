@@ -1,0 +1,56 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Master_Bukha_Khan_Versus_The_State_Master_20Bukha_20Khan_20versus_20The_20State.pdf
+CONVERSION DATE: 2025-12-23 19:35:12
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 142
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN, GILGIT. 
+
+Cr. 
+
+PLA. 
+
+No. 10/2017. 
+
+Master Bukha Khan Petitioner. 
+
+Versus The State Respondent. 
+
+PRESENT:- 1. 
+
+Mr. 
+
+Munir Ahmed Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate- on-Record for the petitioner. 
+
+ORDER DATED: - 03.04.2017. 
+
+The learned counsel for the petitioner after arguing the case at length does not want to press this petition. 
+
+He requests that the time period of protection be enhanced upto 15th April, 2017 enabling the petitioner to approach the learned Trial Court for bail. 
+
+The request is allowed. 
+
+In view of the above, the petitioner may not be arrested up to 15.04.2017 enabling him to approach the learned Trial Court in compliance with the order dated 08.03.2017 passed in Criminal Misc. 
+
+No. 27/2017 by the learned Chief Court. 
+
+The petition is disposed off in above terms. 
+
+Chief Judge. 
+
+Judge.

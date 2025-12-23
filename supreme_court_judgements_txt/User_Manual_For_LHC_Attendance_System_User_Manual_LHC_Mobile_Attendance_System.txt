@@ -1,0 +1,70 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: User_Manual_For_LHC_Attendance_System_User_Manual_LHC_Mobile_Attendance_System.pdf
+CONVERSION DATE: 2025-12-23 19:37:10
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 6
+ESTIMATED WORD COUNT: 373
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+User Manual FOR LHC ATTENDANCE SYSTEM Lahore High Court, Lahore
+
+============================================================
+PAGE 2
+============================================================
+
+User Manual LHC Attendance System Step 1: Install APP Lahore High Court ( ESS) from Play Store (for Android users). 
+
+Step 2: Log in using your credentials, with your CNIC as the email (e.g., 3520212345678@lhc.gov.pk) and the password sent via SMS to your registered mobile number after obtaining approval from the Hon’ble Authority. 
+
+Step 3: After logging in, the user can update or change the password by opening the 'Change Password' screen, entering the old password, and s etting a new password. 
+
+Step 4: After successfully logging in, your Dashboard screen will be displayed, featuring the option to 'Swipe to Check -In' for marking your attendance.
+
+============================================================
+PAGE 3
+============================================================
+
+User Manual LHC Attendance System Step 5: After marking attendance, a pop -up message will appear stating “Attendance marked successfully ”. 
+
+Step 6: To view your attendance time, navigate to the Attendance option or icon displayed on the dashboard. 
+
+Step 7: The Attendance option displays a screen showing the monthly attendance, including date-wise attendanc e times.
+
+============================================================
+PAGE 4
+============================================================
+
+User Manual LHC Attendance System Step 8: To mark your check -out time, simply 'Swipe to Check -Out' using the option displayed on the dashboard screen. 
+
+Step 9: After checking out, attendance check -out time will be displayed on the Attendance screen. 
+
+Step 1 0: To view your team's attendance check - in/check -out times, please go to the 'My Team' screen.
+
+============================================================
+PAGE 5
+============================================================
+
+User Manual LHC Attendance System Step 1 1: After accessing the 'My Team' screen, you will see a list of all team members. 
+
+Select any team member to view their attendance time. 
+
+Step 1 2: The attendance check -in and check -out times for the selected team member for the month will be displayed in a date -wise format.
+
+============================================================
+PAGE 6
+============================================================
+
+User Manual LHC Attendance System User Manual For Web Portal Step 1: Login using your credentials, with your CNIC as the email (e.g., 3520212345678@lhc.gov.pk), the default password sent via SMS to your registered mobile number and enter Captcha code. 
+
+Step 2: Admin user s will have rights to print out reports after applying different available filters.

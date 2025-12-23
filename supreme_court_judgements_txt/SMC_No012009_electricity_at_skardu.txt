@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No012009_electricity_at_skardu.pdf
+CONVERSION DATE: 2025-12-23 19:36:13
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 234
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN, Gilgit (Original Jurisdiction) SMC. 
+
+No.01/2009 (Electricity at Skardu) Before:- Mr. 
+
+Justice Muhammad Nawaz Abbasi, Chief Judge Mr. 
+
+Justice Muhammad Yaqoob, Judge. 
+
+Advocate General for Gilgit-Baltistan Mr. 
+
+Shoukat Ali Sr. 
+
+Advocate S.E, PWD Division Skardu XEN Water & Power Division Skardu Deputy Secretary Water & Power Gilgit-Baltistan Order dated 12-11-2010 The Deputy Secretary Water & Power assisted by EXN Skardu states that total consumption of electricity in Skardu City is 13 Mega Watt, whereas 11 MW electricity is already in production and shortage of 2 MW is not material to create electricity problem in City. 
+
+He further states that a power project with the aid of Asian Development Bank will be constructed (Kachura) of the capacity of 26 MW and project will be started on release of fund by ADB. 
+
+Mr. 
+
+Shoukat Ali Sr. 
+
+Advocate has stated that presently there is no shortage of electricity in s78kardu city. 
+
+In view of the position explained by the Deputy Secretary water and Power assisted by XEN B&R Division Skardu and Mr. 
+
+Shoukat Ali Senior Advocate, the Deputy Secretary has stated that in case of shortage of electricity the alternate arrangement of diesel Generators already available with the department in Skardu, subject to availability of fund can be operated. 
+
+In view thereof, further proceeding into the matter are closed and case is disposed of accordingly. 
+
+Chief Judge Judge

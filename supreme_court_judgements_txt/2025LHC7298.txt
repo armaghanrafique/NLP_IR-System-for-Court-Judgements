@@ -1,0 +1,130 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7298.pdf
+CONVERSION DATE: 2025-12-23 19:32:25
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 6
+ESTIMATED WORD COUNT: 2,166
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Stereo. 
+
+H C J D A 38. 
+
+Judgment Sheet IN THE LAHORE HIGH COURT AT LAHORE. 
+
+JUDICIAL DEPARTMENT PTR No. 203 of 2008 Commissioner of Income Tax Zone-C, Lahore Versus M/s. 
+
+Lahore Grammer School (Pvt.) Ltd. 
+
+Gulberg, Lahore JUDGEMENT Date of Hearing 06.10.2025 Applicant by: Mian Yousaf Umar, Advocate Respondent by: M/s. 
+
+Shahbaz Butt, Ibrahim Hassan and Mazhar Hussain Tahir, Advocates KHALID ISHAQ, J. 
+
+This Tax Reference Application was earlier decided vide order dated 07.12.2022 passed by this Court, however, on a challenge laid before the Supreme Court of Pakistan by way of CPLA No.613-L of 2023 titled “Commissioner Inland Revenue, Lahore v. 
+
+Lahore Grammar School (Pvt.) Ltd. ”, the Supreme Court of Pakistan has remanded the matter vide order dated 21.03.2025 in the following terms: “2. 
+
+The petitioner relied on letter dated 11.05.2004 from the office of the Additional Commissioner of Income Tax, Lahore, whereby statutory approval to make addition of Rs.42,760,140/- under Section 13(1)(d) of the 1979 Ordinance in the case of M/s. 
+
+Lahore Grammar School (Pvt.) Ltd. for the tax year 2001-2002 was granted. 
+
+Reference to this approval had been made in the penultimate page of the assessment made by the Taxation Officer, which is annexed at page-67 of the instant petition. 
+
+No reference to the said approval has been made in the impugned order. 
+
+We are of the view that the question whether or not the said approval dated 11.05.2004 was sufficient to vest power in the Taxation officer to make addition of the above-mentioned amount under Section 13(1)(d) of the 1979 Ordinance would be for the High Court to determine. 3. 
+
+For this purpose, we deem it appropriate to remand the matter to the High court. 
+
+The impugned order is, therefore, set aside and the matter is remanded to the High Court in the above terms. 
+
+The instant petition is converted into an appeal and is allowed accordingly.”
+
+============================================================
+PAGE 2
+============================================================
+
+PTR No. 203 of 2008 Page 2 2. 
+
+In a nub, the issue which had formed basis for initiating the proceedings against the respondent taxpayer, leading up to the filing of this Reference Application, was by way of invocation of Section 13 of the Income Tax Ordinance, 1979 ( Ordinance, 1979 ) by the Revenue. 
+
+Since the claim of the Revenue as well as the defence sought to be raised by the respondent taxpayer particularly relates to 2nd proviso of clause (e) of sub- section (1) of Section 13 of the Ordinance, 1979, therefore, Section 13(1) of the Ordinance, 1979 is reproduced herein below: 13. 
+
+Un-explained investments, etc., deemed to be income.- (1) Where [ ], (a) any sum is found to be credited in the books of an assessee maintained for any income year; or [(aa) the assessee is found to have made any investment or is found to be the owner of any money or valuable article, in any year; or] (b) the assessee is found to have made any investment in any income year which is not recorded in the books of account maintained for that income year [or is not] shown in the wealth statement [or return of wealth] furnished under section 58 in respect of that year; or (c) the assessee is found in respect of any income year to be the owner of any money or valuable article which is not recorded in the books of account, if any, maintained by him or is not shown by him in any wealth statement [or return of wealth] furnished under section 58 in respect of that year; or (d) the assessee has made investment in any income year or is found in respect of any such year to be the owner of any valuable article and the [Deputy Commissioner] finds that the amount expended on making such investment or in acquiring such valuable article exceeds the amount recorded in this behalf in the books of account maintained by him or shown in the wealth statement [or return of wealth] furnished under section 58 in respect of that year; or (e) an assessee has, during any income year, incurred any expenditure, and the assessee offers no explanation about the nature and source of such sum, investment, acquisition of the money or valuable article, excess amount or the money from which the expenditure was met, as the case may be, or the explanation offered by him is not, in the opinion of the [Deputy Commissioner], satisfactory, the sum so credited, the value of the investment, the money or the value of the article, the excess amount or the amount of the expenditure, as the case may be, shall be deemed to be the income of the assessee of such income year chargeable to tax under this Ordinance: [Provided that, where any act referred to in clauses (a) to (e) is discovered after the assessment of income of the income year to which the said act relates has been made, the income chargeable to tax under this section shall be included in the total income of the income year relevant to the assessment year in which the said discovery is made:
+
+============================================================
+PAGE 3
+============================================================
+
+PTR No. 203 of 2008 Page 3 Provided further that in cases referred to in clauses (aa) to (e) such income shall not be chargeable to tax unless approval of the Inspecting Additional Commissioner has been obtained. [Emphasis Supplied ] 3. 
+
+Learned counsel for the applicant-department submits that the permission in terms of Section 13(1)(d) of the Ordinance, 1979 was duly obtained and the document exhibiting the said approval was produced before the Supreme Court of Pakistan by way of letter dated 11.05.2004, which letter has also been produced before us. 
+
+The perusal of letter dated 11.05.2004 reflects that the same was issued by ‘ Inspecting Additional Commissioner ’ (“IAC”). 
+
+It is also of note that the Assessment Order was also passed on the same day i.e. 11.05.2004. 
+
+While referring to Section 239(1) of the Income Tax Ordinance, 2001 (“ Ordinance, 2001 ”), learned counsel for the applicant department has placed reliance upon Commissioner of Income Tax Peshawar v. 
+
+M/s. 
+
+Islamic Investment Bank Ltd. (2016 SCMR 816) to contend that it has been settled by the Supreme Court of Pakistan that the whole purpose of incorporating Section 239 of the Ordinance, 2001 was to preserve certain powers and procedure laid down in the repealed Ordinance, 1979, so that it can be subsequently enforced in the post repeal era only in the matters which relate to the period covered under the repealed Ordinance, 1979. 
+
+Learned counsel submits that by the dint of Section 239 of the Ordinance, 2001, the entire set of procedures prescribed under the repealed law are saved for the purpose of reaching at the correct calculation of total income, therefore, the approval granted to the Taxation Officer, Circle-OG, Companies Zone-II, Lahore suffices for the purpose of 2nd proviso to Section 13(1)(d) of the Ordinance, 1979, when read with Section 239(1) of the Ordinance, 2001. 4. 
+
+Conversely, learned counsel for the respondent taxpayer argues that a sea-change was brought about by virtue of the promulgation of the Ordinance, 2001, particularly viz the entire hierarchy of the Taxation Officers; further submits that at the relevant time, the term Commissioner was defined under Section 2(13) of the Ordinance, 2001 to mean a person appointed as Commissioner under Section 208 and includes a Taxation Officer vested with all or any powers or functions of the Commissioner;
+
+============================================================
+PAGE 4
+============================================================
+
+PTR No. 203 of 2008 Page 4 adds that Taxation Officer, at the relevant time, is defined under Section 2(65) of the Ordinance, 2001 and meant to include any Additional Commissioner of Income Tax, Deputy Commissioner of Income Tax, Income Tax Officer, Special Officer or any other officer, howsoever, designated by the Board for the purpose of the Ordinance, 2001; further adds that the Income Tax Authorities have been provided under Section 207(1) of the Ordinance, 2001 and includes: (a) Board, (b) Regional Commissioner of Income Tax, (c) Commissioner of Income Tax, (d) Commissioner of Income Tax (Appeals) and (e) Taxation Officers; adds further that though the above definitions were subjected to subsequent changes, however, the referred definitions remained in field from 01.07.2002 to 27.10.2009, which are relevant for the purpose of case in hand; contends that the authority competent to grant approval was Commissioner Inland Revenue under the new dispensation; further contends that Commissioner Inland Revenue was further authorized to delegate his powers to subordinate authorities under Section 210 of the Ordinance, 2001, however, no such delegation was either made or has been claimed by the Revenue in this case. 5. 
+
+Arguments heard. 
+
+Record perused. 6. 
+
+The tax year in question is 2000-2001, which is relevant and falls in assessment year 2001-2002. 
+
+It is also an admitted position that on the touchstone of Section 239 of the Ordinance, 2001, the applicable law for the purpose of the proceedings initiated by the Revenue in this case was Ordinance, 1979 as Section 239 (1) of the Ordinance, 2001 clearly stipulates that ‘subject to sub-section (2) in making any assessment in respect of any income year ending on or before the 30th day of June, 2002, the provisions of the repealed Ordinance in so far as these relate to computation of total income and tax payable thereon shall apply as if this Ordinance had not come into force ’, however, it is also fall to be noted that although the applicable law was the Ordinance, 1979 but similarly, sub-section (2) of Section 239 of the Ordinance, 2001 requires that the assessment referred to in sub-section (1) shall be made by an income tax authority, which is competent under this Ordinance to make an assessment in respect of a tax year ending on any date after the 30th day of June, 2002. 
+
+The only inference,
+
+============================================================
+PAGE 5
+============================================================
+
+PTR No. 203 of 2008 Page 5 which may arise from a joint reading of both the sub-sections of Section 239 of the Ordinance, 2001 leads to an ineluctable conclusion that the law applicable viz the assessment in respect of any income year ending on or before the 30th day of June, 2002, shall be the Ordinance, 1979 but the competent authority for making such assessments shall be the authorities competent to proceed under the Ordinance, 2001. 
+
+This has a simple logical basis i.e. since the authority and the officers under the Ordinance, 1979 had come to pass by virtue of the promulgation of the Ordinance, 2001, therefore, the said authority was not existent for the purpose of giving effect to the provisions of the tax laws, be it the Ordinance, 1979 or the Ordinance, 2001. 
+
+The authority and competence, which has come to vest with the officers performing their power and authority in terms of Ordinance, 2001, is evident from Section 209 of the Ordinance, 2001, as it existed at the relevant time i.e. 17.06.2003 to 30.06.2009. 
+
+An analysis of different provisions of Ordinance, 2001 would reveal that under the new dispensation, all the functions and powers, to administer the purpose of the Ordinance, 2001, vest with the Commissioner(s) appointed under Section 208 or Taxation Officer(s) appointed and assigned functions or powers under Section 209(2) of the Ordinance, 2001. 
+
+Thus, in terms of sub section (2) of Section 239 of the Ordinance, 2001, the afore-referred officers were the competent authority under the Ordinance, 2001, which may/can carry/execute the purposes of Ordinance, 1979, as and when the provisions thereof are attracted. 
+
+In view of the foregoing, the authority competent to make assessment and determine tax liability for the purpose of case in hand, was the Commissioner of Income Tax or a Taxation Officer appointed or empowered to do so under Section 209(2) of the Ordinance, 2001. 
+
+Needless to observe that no subordinate authority may have exercised the power of the Commissioner, unless specifically delegated such power/authority in terms of Section 2(10) of the Ordinance, 2001 and as a natural corollary, the statutory approval as couched under the 2nd Proviso to Section 13 (1) of the of the Ordinance, 1979, could only have been granted by the Commissioner in writing, therefore, the reliance placed upon the authority having been conferred by virtue of letter dated 11.05.2004 is non-est of and no lawful
+
+============================================================
+PAGE 6
+============================================================
+
+PTR No. 203 of 2008 Page 6 consequences as neither the office of IAC of Income Tax is recognized by the new dispensation under the Ordinance, 2001 nor such an officer may be deemed to have existed for the purpose of the proceedings in terms of Section 13(1), read with section 239 of the Ordinance, 2001. 7. 
+
+For what has been discussed above, the proposed questions are answered in negative and resultantly this Reference Application is dismissed. 8. 
+
+Office shall send a copy of this order under seal of the Court to the Appellate Tribunal as per section 47(5) of the Act. (Hassan Nawaz Makhdoom) Judge (Khalid Ishaq) Judge APPROVED FOR REPORTING. (Hassan Nawaz Makhdoom) Judge (Khalid Ishaq) Judge Awais!

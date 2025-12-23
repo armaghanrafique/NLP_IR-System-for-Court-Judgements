@@ -1,0 +1,322 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Cr_Appeal_No_182015_in_CrPLA_No_282015_Gul_Zaib_versus_Muhammad_Ishaq.pdf
+CONVERSION DATE: 2025-12-23 19:34:26
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 10
+ESTIMATED WORD COUNT: 2,337
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Mr. 
+
+Justice Shahbaz khan, Judge. 1. 
+
+Cr. 
+
+Appeal No. 18/2015 in Cr.PLA. 
+
+No. 28/2015. 1. 
+
+Gul Zeb son of Haji Ghulab R/o Thak Chilas District Ghizer. 
+
+Petitioner. 
+
+Versus 1. 
+
+Muhammad Ishaq son of Kalar Muhammad R/o Dawary, Thak Tehsil Chilas Diamer. 2. 
+
+Kalar Muhammad. 
+
+Sakhi Muhammad son of Khalil R/o Thak Chilas District Chilas. 3. 
+
+The State through Police Station Chilas. 
+
+Respondent s. 2. 
+
+Cr. 
+
+Appeal No. 19/2015 in Cr.PLA. 
+
+No. 12/2014. 1. 
+
+Muhammad Ishaq son of Kalar Muhammad R/o Dawary, Thak Tehsil Chilas Diamer. 
+
+Petitioner. 
+
+Versus 1. 
+
+The State Respondent. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Jahanzaib Khan Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioner No. 01 in Cr. 
+
+Appeal No. 18/2015. 2. 
+
+Mr. 
+
+Amjad Hussain Advocate alongwith Haji Peer Muhammad Advocate on behalf of the respondent No. 01 in Cr. 
+
+Appeal No. 18/2015 and for the petitioner No. 01 in Cr. 
+
+Appeal No. 19/2015. 3. 
+
+The Advocate General on behalf of the State. 
+
+DATE OF HEARING: - 24.06.2016. 
+
+DATE OF DETAIL JUDGME NT:- 18.08.2016.
+
+============================================================
+PAGE 2
+============================================================
+
+2 JUDGMENT. 
+
+Dr. 
+
+Rana Muhammad Shamim, CJ..... 
+
+This Petition has been arisen out of the impugned judgment dated 09.10.2013 in Cr. 
+
+Appeal No. 23/2011 passed by the learned Gilgit -Baltistan Chief Court, whereby the said Criminal Appeal of the respondent was partially accepted to the extent of the death sentence awarded to the respondent was converted into life imprisonment. 
+
+The other sentences awarded to the respondent vide judgment dated 23.11.2011 pas sed by the learned Sessions Judge Chilas were upheld. 
+
+The learned Sessions Judge Chilas District Diamer has awarded death sentence to the respondent No. 01under Section 302 PPC in addition to payment of Rs. 400,000/ - (Four hundred thousand Only) as compens ation to the legal heirs of the deceased under Section 544 - A Cr.P.C. 
+
+In case of none - payment of the compensation the convict shall have to undergo six months S.I while acquitting two other co -accused Kalar Muhammad and Sakhi Muhammad giving them benefit of doubt. 
+
+The petitioner being aggrieved by and dissatisfied with the impugned judgment dated 09.10.2013 passed by the learned Gilgit -Baltistan Chief Court for his acquittal filed this petition. 
+
+This court vide order dated 12.11.2015 granted leave to appea l in this case as well as in connected case i.e. 
+
+Criminal Appeal No. 19/2015 which were finally heard on 24.06.2016 and the judgment was reserved.
+
+============================================================
+PAGE 3
+============================================================
+
+3 2. 
+
+The brief facts of the case are that the FIR No. 97/2010 was registered by the complainant at Police St ation Chilas District Diamer at about 11:30 am on 23.11.2010. 
+
+The complainant was standing at Malangi Vegetables Seller in the main bazaar Chilas. 
+
+In the mean time the deceased Karim dad Hatoo came at the place of occurrence. 
+
+Meanwhile the accused Muhammad Ishaq son of Kalar Muhammad and Wali Muhammad son of Juma Khan R/o Thak Chilas District Diamer also appeared and they were armed with pistol. 
+
+The accused went near Karim Dad who was seated in the Car No. 
+
+DMR 636, opened fire upon him from right side wind ow of the car with the intension of Qatl -e-Amd. 
+
+Both the accused opened 04/05 fire shot which hit on the right side of Karim Dad Hatoo. 
+
+The accused after opening fire at the deceased ran away towards Government Colony via Madini Majsid Road. 
+
+At that time co - accused Kalar Muhammad and Sakhi Muhammad who were also present at the scene of occurrence for abetting the accused Muhammad Ishaq also fled away. 
+
+The Police chased the accused and at a some distance the accused Ishaq son Kalar Muhammad was arrested alongwith a 30 -Bore pistol, while the accused Kalar Muhammad, Sakhi Muhammad and Wali Muhammad succeeded to flee away. 
+
+According to the version of FIR, the motive behind the murder was to take revenge as the deceased had murdered one Juma Muham mad and his son. 
+
+Later on a compromise was affected through Jirga and son of deceased Juma Muhammad got blood money while accused Kalar Muhammad, Sakhi Muhammad son of
+
+============================================================
+PAGE 4
+============================================================
+
+4 Khalil and Wali Muhammad refused to compromise who murdered Karim Dad in revenge. 3. 
+
+The aforementioned accused were sent to face the trial who formally charged on 23.08.2011 which is reproduced as under: - Quote Charge Sheet. 
+
+State versus 1. 
+
+Qalar Muhammad 2. 
+
+Sakhi Muhammad s/ o Khalil. 3. 
+
+Ishaq s/o Qalar Muhammad r/o Thak Tehsil Chilas Diamer. 
+
+I, Mumtaz Ahmed Additional Sessions Judge Diamer, do hereby charge you the above named accused as under: - That on 23.11.2010 at about 11:30 hours in the area Chilas Bazaar, you accused namely Ishaq son of Qalar Muhammad and Wali Muhammad son of Juma Muhammad your absconding accused alongwith your pistol infurtherance of your common intension started firing at Karimdad while he was sitting in his car, thus you accused committed and cause murder of Karimdad decease d an offence punishable under Section 302/34 PPC which is within the cognizance of this court. 
+
+Secondly on the same date, time and place you accused Qalar Muhammad and Sakhi Muhammad also present at the place of occurrence to support as an abettor to yo ur co -accused Ishaq and absconding accused Wali Muhammad thus you committed an offence punishable under Section 114/34 PPC, which is within the cognizance of this court. 
+
+And I hereby direct that you be tried this court for the said charge. …Sd… Addl. 
+
+Sessions Judge Diamer. 
+
+Unquote Both the accused did not plead guilty and claimed for trial. 4. 
+
+The prosecution examine d 07 PWs in support of their case while 05 PWs were given up being not necessary. 
+
+After closing of Prosecution evidence both the accused were examined under
+
+============================================================
+PAGE 5
+============================================================
+
+5 Section 342 Cr.PC and stated they are innocent and they got examined 05 defence witnesses. 5. 
+
+That after completion of trial and upon proven guilty, the learned Sessions Judge Di strict Diamer vide judgment dated 23.11.2011 awarded death penalty to the respondent No. 01 Muhammad Ishaq in Criminal appeal No. 18/2015 under Section 302(B) PPC for committing Qatal -e-Amad of Karim Dad Ilyas Hatoo. 
+
+He was also awarded to pay Rs. 400,000 /- (Rupees four hundred thousand only) as compensation to the legal heirs of the deceased failing which the respondent has to go further imprisonment of 06 months S.I., while finding that the prosecution was miserably failed to prove its case against respo ndent No.02 Kalar Muhammad and respondent No.3 Sakhi Muhammad (on bail ) beyond reasonable doubt s who were acquitted extending them the benefit of doubt. 
+
+Whereas directions to issue non -Bailable Perpetual warrant was ordered against the proclaimed offender Wali Muhammad son of Juma Muhammad. 6. 
+
+The respondent No.01 being aggrieved filed Criminal appeal No. 23/2011 before the learned Gilgit -Baltistan Chief Court who upon hearing reduced the death sentence of the respondent No.01 into life imprisonment vide Judgment dated 09.10.2013. 
+
+The operative part of the said Judgment is as below: -
+
+============================================================
+PAGE 6
+============================================================
+
+6 Quote. “In the light of what has been discussed above we are of the opinion that prosecution has established guilt of the appellant and the learned Trial Court has rightly convicted the appellant for the subject occurrence. 
+
+In the peculiar circumstance of the case we have taken judicial notice of the fact that appellant and the complainant part are inimical terms in the perspective of a history of chained bloodshed. 
+
+In this connection the FIR and other pieces of prosecution evidence are sufficient establ ishing the said chained of bloodshed between the appellant and complainant party. 
+
+So we are inclined to convert death sentence of appellant into life imprisonment and while doing so we are accepting the inimical history between appellant and complainant pa rty as a mitigating circumstances. 
+
+So appeal in hand is partly accepted to the extent that we have upheld the conviction of the trial Court on one hand but have converted the death sentence awarded to the appellant through impugned Judgment/order into life imprisonment. 
+
+The other sentences awarded through impugned Judgment/order are upheld ”. 
+
+Unquote 7. 
+
+The learned counsel for the petitioner submits that it is a case of brutal murder of day light in the main bazaar of Chilas. 
+
+The local Police soon after the occurrence apprehended the respondent No.01 from some distance alongwith weapon of offence i.e. 30 -bore pistol. 
+
+The convict accused was directly charged in the promptly lodged FIR and according to the version of the FIR the accused has specific role in commission of the offence. 
+
+He further submits that the motive of the murder of the deceased has also been mentioned in the FIR which has been fully established through material evidence on record. 
+
+He also submits that the ocular evidence of the
+
+============================================================
+PAGE 7
+============================================================
+
+7 case has fully supported by Medical evidence, recoveries of article of crimes, report of crime weapons, empties, blood stained earth, cloths, autopsy report and Forensic report etc. 
+
+He further submits that FIR No. 97/2010 under Section 302/114/34 PPC, read with Section 13 Arm Ordinance was lodged on 23.11.2010 in Police Station Chilas Diamer against the convict/respondents No.01 to 03 on th e allegation of opening fire on the deceased Karim Dad Alias Hatoo and killing him in Chilas Bazaar. 
+
+He further contends that upon proving guilty, the learned Trial Court convicted and sentenced the respondents No.01 Muhammad Ishaq under Section 302(b) to death. 
+
+He was also ordered to pay Rs. 4,00,000/ - (Rupees four lac only) as compensation under Section 544 -A Cr.PC to the legal heirs of the deceased while respondents No.02 and 03 namely Kalar Muhammad and Sakhi Muhammad although fully involved were acquit ted giving them benefit of doubts by the learned Trial Court whereas, t he co -accused namely Wali Muhammad son of Juma Muhammad was declared proclaimed offender. 
+
+Since the respondents No. 01 & 02 with common intention of each other with respondent No. 01 co mmitted murder of deceased Karim Dad alia Hatoo, were liable to be convicted. 
+
+Consequently, their acquittal recorded by the learned Trial Court was upheld by the learned Gilgit -Baltistan Chief Court be set aside and liable to be convicted. 
+
+He prayed that t he death sentence awarded to respondent No.01 by the learned Trial Court be maintained and reiterated that the acquittal of respondent No.02 and 03 may also pleased be converted
+
+============================================================
+PAGE 8
+============================================================
+
+8 into death sentence to meet the ends of justice. 
+
+In support of their arguments he relied upon the case laws reported as 2011 SCMR 1148, 2003 SCMR 522, 2014 PCr. 
+
+LJ 885 and 2014 PCr. 
+
+LJ 1366. 
+
+The learned Advocate General adopts the arguments of learned counsel for the complainant/petitioner. 8. 
+
+On the other hand, the learned counsels appearing on behalf of the respondents contend that according to the prosecution it is day light offence occurred in the main Bazaar in presence of a lot of people but no independent witnesses of locality were associated. 
+
+They also submit that inspite of the fact that the prosecution has miserably failed to prove the guilt of the respondents beyond any shadow of doubt and the conviction awarded to respondent No. 01 is not sustainable. 
+
+They add that it is a settled principle of law that the benefit of doubt, if any, always goes to the accused. 
+
+They also contend that the statements of PWs are doubtful and contradictory with one others and t he alleged recoveries are also not reliable which have been affected against the mandatory provisions of law. 
+
+They finally submitted that the case against the respondents is of clean acquittal and the learned Trial Court has wrongly awarded Capital Punishment to the respondent No. 01 which has been upheld by the learned Gilgit -Baltistan Chief Court, however, the sentence of death was reduced into life imprisonment in mitigating circumstances. 
+
+While saying so they relied upon the case law repo rted as 1973 SCMR 12, 2007 P.Cr.LJ 27, 2008 SCMR 707, 2013 PCr. 
+
+LJ 931, 2002 MLD 964, 2012
+
+============================================================
+PAGE 9
+============================================================
+
+9 SCMR 74, 2008 SCMR 1082, 1985 PLJ 36 and 1993 PLD Peshawar 138. 9. 
+
+We have heard the learned counsel s for the respective parties at length, perused the case file and gone through the impugned judgment dated 09.10.2013 in Criminal Appeal No. 23/2011 passed by the learned Gilgit -Baltistan Chief Court as well as the judgment dated 23.11.2011 of the learned Trial Court District Diamer. 
+
+The case laws cited by the learned counsel for the respondents are distinguishable whereas the case law s relied by the learned counsel for the petitioner are applicable. 
+
+In our considered view the prosecution has successfully proved its case against the respondent No. 01 beyond any shadow of doubt. 
+
+Further the motive of committing murder of deceased Karim Dad alia Hatoo was proved through materi al evidences on record. 
+
+No mitigating circumstances exist to reduce the sentence of convict Muhammad Ishaq. 10. 
+
+In view of the above discussions, the Cr. 
+
+Appeal No. 18/2015 in Cr. 
+
+PLA 28/2015 filed by the complainant (namely Gul Zeb) is allowed. 
+
+The impugned judgment dated 09.10.2013 in Cr. 
+
+Appeal No. 23/2011 passed by the learned Gilgit -Baltistan Chief Court and sentence awarded to respondent No. 01 Muhammad Ishaq is modified from life imprisonment to death sentence. 
+
+Consequent thereto the judgment d ated 23.11.2011 in Session Case No. 01/2011 passed by the learned Sessions Judge District Diamer is upheld. 
+
+The Chief Court is directed to answer the murder reference in positive in order to execute Trial Court’s judgment dated 23.11.2011 in accordance with
+
+============================================================
+PAGE 10
+============================================================
+
+10 law. 
+
+The Cr. 
+
+Appeal No. 19/2015 in Cr. 
+
+PLA No. 12/2014 filed by the convict/accused Muhammad Ishaq is dismissed being not sustainable. 11. 
+
+Both t he Appeals are disposed off in above terms. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge. 
+
+Whether the case is fit to be reported or not?

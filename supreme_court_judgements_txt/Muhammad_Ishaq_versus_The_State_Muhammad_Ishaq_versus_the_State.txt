@@ -1,0 +1,52 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Muhammad_Ishaq_versus_The_State_Muhammad_Ishaq_versus_the_State.pdf
+CONVERSION DATE: 2025-12-23 19:35:24
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 78
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Cr. 
+
+Appeal No. 19/2015 in Cr.PLA. 
+
+No. 12/2014. 
+
+Muhammad Ishaq Petitioner. 
+
+Versus The State Respondent. 
+
+PRESENT: - 1. 
+
+Haji Peer Muhammad Advocate alongwith Mr. 
+
+Amjad Hussain Advocate on behalf of the petitioner. 2. 
+
+The Advocate General on behalf of the State. 
+
+ORDER DATED: - 24.06.2016. 
+
+Since the matters are connected with each other, therefore, same order as in Cr. 
+
+PLA. 
+
+No. 28/2015. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

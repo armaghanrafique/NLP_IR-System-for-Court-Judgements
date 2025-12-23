@@ -1,0 +1,30 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Hasan_Sadpara_Versus_Govt_of_Pakistan_through_Min_Hasan_sadpara_vs_Govt.pdf
+CONVERSION DATE: 2025-12-23 19:34:58
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 151
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN C.P.L.A. 
+
+NO.12/2010 Hasan Dadpara Petitioner Versus Govt. of Pakistan through Ministry of Defense Respondents Mr. 
+
+Johar Ali, Advocate for the petitioner. 
+
+Order dated 28-10-2010 The learned counsel for the petitioner when confronted that after dismissal of review petition before Chief Court, the petitioner could not invoke the writ jurisdiction before the same Court on the same subject and further notwithstanding the fact that full judgment was not written the short order would be treated judgment in the case, he realizing the legal position instead of further agitating the matter before this court has submitted that petitioner would raise all question of law and facts before the court concerned in due course of time at proper stage and would not further press this petition before this court order accordingly. 
+
+This petition stands disposed off as having been not pressed. 
+
+Chief Judge Judge

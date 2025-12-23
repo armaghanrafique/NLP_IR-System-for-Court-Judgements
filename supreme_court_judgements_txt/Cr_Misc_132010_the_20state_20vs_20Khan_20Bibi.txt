@@ -1,0 +1,62 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Cr_Misc_132010_the_20state_20vs_20Khan_20Bibi.pdf
+CONVERSION DATE: 2025-12-23 19:34:31
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 277
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN Cr. 
+
+Misc. 13/2010 Mr. 
+
+Justice Muhammad Nawaz Abbasi, Chief Judge. 
+
+Mr. 
+
+Justice Syed Jaffar Shah, Judge. 
+
+Mr. 
+
+Justice Muhammad Yaqoob, Judge. 
+
+The State …… ……. 
+
+Petitioner Versus Khan Bibi Alias Khani w/ o late Gulsher Khan r/o Oshkhandas Tehsil & District Gilgit Respondent. 
+
+OFFENCE UNDER SECTION 302/34 PPC VIDE FIR NO. 83/2010 POLICE STATION AIRPORT ROAD GILGIT. 
+
+Advocate General for the petitioner. 
+
+Date of Hearing 27 -09-2010. 
+
+ORDER Justice Muhammad N awaz Abbasi, CJ…. 
+
+The state has filed this petition for cancellation of bail of Khan Bibi alias Khani respondent herein an accused in the murder case of her husband. 
+
+The respondent has been allowed bail by the Chief Court with the observation that there is no direct evidence and circumstantial evidence is yet to be scrutinized to ascertain the question of guilty or innocence at trial, therefore, the case would squarely fall within the ambit of Section 497(2) Cr. 
+
+PC for the purpose of further inquiry. 
+
+The l earned Advocate General has submitted that real son of the respondent, a student of sixth class in his statement under section 161 Cr. 
+
+PC has clearly stated that his mother having illicit relation with her co -accused conspired the commission of offence. 
+
+This is an unseen occurrence in which no direct evidence is available, and indirect evidence cannot be substituted for direct evidence. the mere suspicious of son of respondent of her illicit relation with her co -accused iftikhar would not be sufficient to withheld the bail. 
+
+Consequently we may not interfere in the order of Chief Court. 
+
+This petition is accordingly dismissed. 
+
+Chief Judge Judge Judge

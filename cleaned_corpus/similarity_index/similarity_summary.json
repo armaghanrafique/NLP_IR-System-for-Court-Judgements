@@ -1,0 +1,98 @@
+{
+  "stats": {
+    "total_documents": 1460,
+    "vocabulary_size": 10000,
+    "total_terms": 1048901,
+    "similarity_computed": true
+  },
+  "matrix_shape": [
+    1460,
+    1460
+  ],
+  "average_similarity": 0.06754850015023929,
+  "max_similarity": 1.0000000000000022,
+  "min_similarity": 0.0,
+  "document_count": 1460,
+  "top_similar_pairs": [
+    {
+      "doc1_name": "Civil_Misc_No_722018_in_CPLA_NO_432018_FBR_20through_20its_20Chairman_20versus_20importer_20__20exporter.txt",
+      "doc2_name": "Federal_Board_of_Revenue_through_its_Chairman_ot_FBR_20through_20its_20Chairman_20versus_20importer_20__20exporter.txt",
+      "doc1_tokens": 406,
+      "doc2_tokens": 406,
+      "similarity": 1.0000000000000022,
+      "rank": 1
+    },
+    {
+      "doc1_name": "Civil_Appeal_No_602017_in_CPLA_No_582016_Manzoor_20Hussain_20versus_20Govt_20of_20GB.txt",
+      "doc2_name": "Manzoor_Hussain_Versus_Government_of_Gilgit-Baltis_Manzoor_20Hussain_20versus_20Govt_20of_20GB.txt",
+      "doc1_tokens": 309,
+      "doc2_tokens": 309,
+      "similarity": 1.0000000000000016,
+      "rank": 2
+    },
+    {
+      "doc1_name": "Abdur-ur-Rahim_versus_The_State_abdur-ur-rahim_vs_the_state.txt",
+      "doc2_name": "Abdur-ur-rahim_vs_The_state_abdur-ur-rahim_20vs_20the_20state.txt",
+      "doc1_tokens": 500,
+      "doc2_tokens": 500,
+      "similarity": 1.000000000000001,
+      "rank": 3
+    },
+    {
+      "doc1_name": "Abdur-ur-Rahim_versus_The_State_abdur-ur-rahim_vs_the_state.txt",
+      "doc2_name": "Cr_Appeal_No_082015_in_CrPLA_No_202015_abdur-ur-rahim_20vs_20the_20state.txt",
+      "doc1_tokens": 500,
+      "doc2_tokens": 500,
+      "similarity": 1.000000000000001,
+      "rank": 4
+    },
+    {
+      "doc1_name": "Abdur-ur-rahim_vs_The_state_abdur-ur-rahim_20vs_20the_20state.txt",
+      "doc2_name": "Cr_Appeal_No_082015_in_CrPLA_No_202015_abdur-ur-rahim_20vs_20the_20state.txt",
+      "doc1_tokens": 500,
+      "doc2_tokens": 500,
+      "similarity": 1.000000000000001,
+      "rank": 5
+    },
+    {
+      "doc1_name": "CPLA_NO_082013_kamal_20hussain.txt",
+      "doc2_name": "Kamal_Hussain_Versus_Shabbir_Ahmed_kamal_20hussain.txt",
+      "doc1_tokens": 338,
+      "doc2_tokens": 338,
+      "similarity": 1.000000000000001,
+      "rank": 6
+    },
+    {
+      "doc1_name": "Civil_Appeal_No_042018_in_CPLA_No_87_2016_MS_20Sultan_20Mehmood_20__20others_20vs_20Prov_20Govt_20__20others.txt",
+      "doc2_name": "MS_Sultan_Mehmood_others_Versus_Provincial_Gove_MS_20Sultan_20Mehmood_20__20others_20vs_20Prov_20Govt_20__20others.txt",
+      "doc1_tokens": 293,
+      "doc2_tokens": 293,
+      "similarity": 1.000000000000001,
+      "rank": 7
+    },
+    {
+      "doc1_name": "Civil_Supply_Officer_Astore_Versus_Muhammad_Shah_Civil_20Supply_20Officer_20Astore_20vs_20Muhammad_20shah.txt",
+      "doc2_name": "Cr_PLA_No_452017_Civil_20Supply_20Officer_20Astore_20vs_20Muhammad_20shah.txt",
+      "doc1_tokens": 267,
+      "doc2_tokens": 267,
+      "similarity": 1.000000000000001,
+      "rank": 8
+    },
+    {
+      "doc1_name": "Clean_Drinking_water_Clean_20Drinking_20water.txt",
+      "doc2_name": "SMC_No032009_Clean_20Drinking_20water.txt",
+      "doc1_tokens": 1105,
+      "doc2_tokens": 1105,
+      "similarity": 1.000000000000001,
+      "rank": 9
+    },
+    {
+      "doc1_name": "Complaint_of_contract_employees_of_BPS-17_18_fro_smc_20no._204-2013.txt",
+      "doc2_name": "SMC_No_042013_smc_20no._204-2013.txt",
+      "doc1_tokens": 536,
+      "doc2_tokens": 536,
+      "similarity": 1.000000000000001,
+      "rank": 10
+    }
+  ]
+}

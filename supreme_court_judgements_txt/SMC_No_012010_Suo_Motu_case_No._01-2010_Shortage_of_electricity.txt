@@ -1,0 +1,26 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No_012010_Suo_Motu_case_No._01-2010_Shortage_of_electricity.PDF
+CONVERSION DATE: 2025-12-23 19:36:14
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 178
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPEL LATE COURT, GILGIT B ALTISTAN SMC No. 0 1/2010 (Judicial Comp lex) Advocate General Gilgit Baltistan Chief Engineer, Water and Power Gilgit Deputy Secretary, Water and Power Gilgit Order Dated 08-06-2010 The report submitted by Chief Eng ineer water and power reveals that six new Hydro Power Projects are under construction and on their completion, electricity shortage problem will be solved. 
+
+The report further reveals that load shedding has since been eliminated in Gilgit City and in the s urroundings and that uninterrupted electricity is being supplied therefore for the time being the diesel generators need not to be operated and that amount allocated for the purpose of generator fuel will be utilized during the next winter season to minimi ze the load shedding in Gilgit and sub urbs. 
+
+The position explained in the report has been confirmed by the Chief Engineer while appearing in person in court and in view thereof further proceeding in the matter are not required which is accordingly dispose d of. 
+
+Chief Judge Judge Judge

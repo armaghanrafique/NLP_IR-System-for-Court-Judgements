@@ -1,0 +1,206 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7806.pdf
+CONVERSION DATE: 2025-12-23 19:32:38
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 8
+ESTIMATED WORD COUNT: 2,604
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Stereo HCJDA 38. 
+
+JUDGMENT SHEET LAHORE HIGH COURT, LAHORE JUDICIAL DEPARTMENT Writ Petition No.55743 of 2025 Fauzia Qayyum through Special Attorney Abdul Qayyum Vs. 
+
+Additional District Judge, Gujranwala, etc. 
+
+JUDGMENT Date of hearing: 03.11.2025 Petitioner by: M/s Malik Zeeshan Ahmed Awan and Musleh ud Din Khan, Advocate s. 
+
+Respondent No.3 by: Mr. 
+
+Asif Mehmood, Advocate. 
+
+MALIK JAVID IQBAL WAINS, J. 
+
+Through the instant constitutional petition filed under Article 199 of the Constitution o f Islamic Republic of Pakistan, 1973, the petitioner has called into question the legality and correctness of the judgment dated 13.09.2025 rendered by the learned Additional District Judge, Gujranwala by virtue of which civil revision filed by respondent No.3 was accepted and the trial Court was directed to return the plaint for its presentment before the proper forum i.e. 
+
+Rent Tribunal in view of the provision of Order VII Rule 10 of Code of Civil Procedure, 1908 (hereinafter “CPC” ). 2. 
+
+The facts neces sary for adjudication of the present petition are that respondent No.3, being tenant acquired the building/ Bungalow No.71 -A, measuring 02 -Kanals, situated at Satellite Town, Gujranwala through tenancy agreement dated 13.02.2021 for the period of five years, which term was to expire on 28.02.2026. 
+
+Although the agreed term was five years, the contract contained a condition permitting either party to terminate the tenancy earlier by serving a one -month prior notice. 
+
+It was further agreed that the party opting for premature termination would be liable to pay the entire amount of rent due for the
+
+============================================================
+PAGE 2
+============================================================
+
+W.P.No.55743 of 2025 2 full five -year period. 
+
+Respondent No.3, however, terminated the agreement prematurely while giving notice to the petitioners on 26.07.2022 and vacated the premises witho ut settling the outstanding dues, whereafter possession was taken over by the landlords on 06.11.2022. 3. 
+
+Being aggrieved, the petitioner (through Special Attoney) invoked the jurisdiction of Civil Court through instituting a suit for recovery of rent arre ars and damages of Rs.1,91,89,188/ -. 
+
+Respondent No.3 filed a written statement to the suit, wherein it was asserted that the suit of the petitioners is not maintainable. 
+
+Further, an application was filed by respondent No.3 objecting the jurisdiction of the Civil Court. 
+
+The primary contention raised by respondent No.3 in the application was that the dispute between the parties pertained to rent issue, and therefore, the Rent Tribunal had exclusive jurisdiction to adjudicate the matter. 
+
+The petitioner filed a reply to this application, contending that since respondent No.3 had already vacated the premises and there existed no subsisting tenancy agreement, the learned Civil Court was competent to hear and decide the suit. 4. 
+
+The trial Court while deciding the a pplication of respondent No.3 dismissed the same, vide order dated 28.11.2024. 
+
+Feeling aggrieved, respondent No.3 filed a civil revision against the said order before the learned Additional District Judge, Gujranwala, which was accepted through impugned ju dgment dated 13.09.2025 by setting aside the order of the trial court. 
+
+Hence, this writ petition. 5. 
+
+Learned counsel for the petitioner contends that the impugned judgment passed by the learned Additional District Judge is patently illegal, arbitrary and without lawful authority. 
+
+It is argued that the Revisional Court failed to appreciate that respondent No.3 had admittedly vacated the rented premises and handed over possession to the petitioners prior to the institution of the suit, therefore, no relation ship of landlord and tenant existed at the relevant time. 
+
+Learned counsel argues that once the tenancy agreement stood terminated and possession was restored to the landlord, the provisions
+
+============================================================
+PAGE 3
+============================================================
+
+W.P.No.55743 of 2025 3 of the Act were no longer attracted, and the jurisdiction of the R ent Tribunal stood exhausted. 6. 
+
+It is further contended that the suit filed by the petitioner was for recovery of outstanding rent and damages arising out of breach of the tenancy agreement, which is a contractual dispute and the Civil Court is competent to take cognizance over it. 
+
+Learned counsel maintains that the trial Court rightly assumed jurisdiction and dismissed the objection raised by respondent No.3, whereas the Revisional Court erred in law by directing to return the plaint under Order VII Rule 10 CPC, without properly examining the statutory scheme of the Act. 7. 
+
+Learned counsel for respondent No.3, on the other hand, supports the impugned judgment and submits that the dispute between the parties squarely falls within the ambit of the Act. 
+
+It is contended that the claim raised by the petitioners pertains to rent and liabilities arising out of a tenancy agreement; therefore, the Rent Tribunal enjoys exclusive jurisdiction to adjudicate the matter. 8. 
+
+Arguments heard. 
+
+Record perused. 9. 
+
+The p ivotal question requiring determination in the pre sent constitutional petition is whether, in the light of facts and circumstances of the case, particularly where the tenant has already vacated the premises, the Civil Court possess es jurisdiction to entert ain and adjudicate the suit for recovery of rent and damages filed by the landlord, or whether exclusive jurisdiction vest s to the Rent Tribunal, thereby justifying the impugned judgment directing the return of the plaint under Order VII Rule 10 CPC. 
+
+In o rder to resolve th is controversy, Preamble and Section 13 of the Punjab Rented Premises Act, 2009 (hereinafter “Act” ) is hereby reproduced below: Preamble “An Act to regulate the relationship of landlord and tenant in respect of rented premises. 
+
+Whereas i t is expedient to regulate the relationship of landlord and tenant, to provide a mechanism for settlement
+
+============================================================
+PAGE 4
+============================================================
+
+W.P.No.55743 of 2025 4 of their disputes in an expeditious and cost effective manner and for connected matters; It is hereby enacted as follows: - Section 13. “13. 
+
+Obligatio n of tenant (1) Subject to the tenancy agreement, a tenant shall --- (a) Keep the premises in this condition in which it was let out except for normal wear and tear; (b) use the premises for the purpose for which it was let out; (c) allow the landlord to en ter the premises for the purpose of inspection or repair; (d) hand over the vacant possession of the premises to the landlord on the determination of tenancy; (e) not cause nuisance to the neighbours of the premises; and (f) not make a structural change in the premises without the prior written consent of the landlord. (2) If a tenant fails to fulfil l an obligation under this Act or the tenancy agreement, the landlord may give notice in writing to the tenant specifying the act or omission and the remedial action to be taken by the tenant within a specified time. (3) A landlord may file an application to a Rent Tribunal for an order directing the tenant to fulfil l the obligation or may seek eviction of the tenant.” 10. 
+
+A combined reading of the Preamble an d Section 13 of the Act envisages that the jurisdiction of the Rent Tribunal is attracted only where a subsisting landlord and tenant relationship exists and where the landlord seeks enforcement of a tenant’s obligations during the subsistence of the tenan cy, including eviction or compliance with the tenancy agreement. 
+
+In these provisions, recovery of arrears of rent, outstanding utility bills, or damages is not expressly mentioned as an obligation of the tenant. 
+
+Further, Section s 13(2) & 13(3) of the Act specifically empower the landlord to issue notice and thereafter approach the Rent Tribunal only when the tenant continues to occupy the premises and has failed to fulfill an obligation imposed by the Act or the tenancy agreement during the subsistence of the tenancy. 11. 
+
+The most important aspect of the case, upon which the present controversy c an be resolved is the definition of a “tenant ” provided in Section 2 (1) of the Act, which reads as follows:-
+
+============================================================
+PAGE 5
+============================================================
+
+W.P.No.55743 of 2025 5 (1) “tenant” means a person who undertakes or is bound to pay rent as consideration for the occupation of a premises by him or by any other person on his behalf and includes; (i) a person who continues to be in occupation of the premises after the termination of his tenancy for the purpose of a proceeding un der this Act; (ii) legal heirs of a tenant in the event of death of the tenant who continue to be in occupation of the premises, and (iii) a sub -tenant who is in possession of the premises or part thereof with the written consent of the landlord; (Emphas is supplied) The above definition of a tenant when reads in conjunction with the Preamble of the Act, it manifest s that the applicability of the Act is premised upon the existence of a subsisting relationship of landlord and tenant in respect of the rente d premises. 
+
+The definition of a “tenant” under Section 2(1) of the Act, though inclusive in nature, remains confined to persons who are in occupation of the premises or who continue to occupy the premises even after termination of the tenancy for the limit ed purposes of proceedings under the Act. 
+
+The emphasis placed by the legislature on “occupation” is deliberate and decisive, as it confines the jurisdiction of the Rent Tribunal and the applicability of the Act strictly to those who are in actual possessio n of the premises, thereby excluding claims against persons who have already vacated and are no longer occupying the property. 12. 
+
+In the present case, it is an admitted position that respondent No.3, who was the tenant of the petitioner, is no longer in o ccupation of the property/bungalow and has handed over its possession to the landlord even before the filing of suit. 
+
+Consequently, for the purposes of the Act, he ceases to fall within the definition of a “tenant ”, and the relationship of landlord and tenant stands terminated. 
+
+Once the tenancy has come to an end, the jurisdiction of the Rent Tribunal under the Act cannot be invoked, as such jurisdiction is limited to disputes arising between parties wh ich continue to maintain a relationship of landlord and tenant and does not extend indefinitely after the tenant has vacated the premises.
+
+============================================================
+PAGE 6
+============================================================
+
+W.P.No.55743 of 2025 6 13. 
+
+From the foregoing discussion, it is evident that the dispute pertaining to the issue of post -tenancy disputes does not fall within the jurisdiction of the Rent Tribuna l. 
+
+Consequently, the question arises as to where the remedy lies for the aggrieved party in such circumstances. 
+
+In order to properly understand and resolve this issue, it is pertinent to refer to Section 9 of the CPC, 1908, which governs the jurisdiction o f civil courts to entertain and try suits of a civil nature. 
+
+SUITS IN GENERAL JURISDICTION OF THE COURTS AND RES JUDICATA 9. 
+
+Courts to try all civil suits unless barred. ---- The Courts shall (subject to the provisions herein cone tamed) have jurisdiction t o try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred. 
+
+Explanation. - A suit is which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such ri ght ma y depend entirely on the decision of questions as to religious rites or ceremonies. 14. 
+
+The aforementioned provision lays down the general rule that civil courts have inherent jurisdiction to entertain and try all civil suits unless a specific stat utory bar either express or implied has been enacted to oust such jurisdiction. 
+
+The phrase “civil nature” has been interpreted broadly by the courts to include all matters that involve the determination of civil rights and obligations. 
+
+Accordingly, in the absence of any express or implied statutory bar, and in view of the fact that the Rent Tribunal does not have jurisdiction over disputes arising after the termination of the tenancy, the appropriate forum for seeking redressal in such matters remains the c ivil court. 
+
+Thus, the remedy for the aggrieved party lies befor e the civil court, which is empowered under Section 9 CPC to adjudicate upon the matter. 15. 
+
+The jurisdiction of Civil Courts under Section 9 of CPC is plenary, the test for determining Civil Court jurisdiction is the nature of the right asserted and the relief claimed, and that proceedings involving the enforcement of civil rights fall within civil jurisdiction. 
+
+The existence of a special law does not, by itself, oust civil court jurisdiction, and that such exclusion must be clearly and
+
+============================================================
+PAGE 7
+============================================================
+
+W.P.No.55743 of 2025 7 unambiguously provided by the legislature; otherwise, the provisions of the CPC shall continue to apply to fill any statutory vacuum.1 16. 
+
+The Hon’ble Supreme Court of Pakistan reaffirmed the principle that under Section 9 C.P.C, Civil Courts have jurisdiction to hear all suits of a civil nature unless expressly or impliedly barred by law. 
+
+Furthermore, under Order VII, Rule 11(d) C.P.C. a plaint may be rejected if the suit appears to be barred by any law. 
+
+The Cour t emphasized that the party seeking rejection of the plaint bears the burden to identify the specific legal provision that bars the suit. 
+
+In this case, the petitioner failed to cite any such law, and thus, the plea for rejection of the plaint could not suc ceed.2 17. 
+
+The fact that a tenant has vacated or handed over possession of the rented premises does not extinguish the landlord’s accrued right to recover outstanding arrears of rent through filing of suit before the learned Civil Court. 
+
+Such a claim is n either barred by the provisions of Order II, Rule 2, CPC, nor hit by the principle of res judicata, as proceedings before the Rent Controller pertain to possession and subsistence of tenancy, whereas recovery of arrears constitutes an independent civil cau se of action, therefore, a suit filed for recovery of arrears of rent in such circumstances was maintainable before the Civil Court.3 18. 
+
+Another aspect of the matter that respondent No.3, by operation of law, ceases to retain the legal status of a tenant under the a pplicable Act, and the relationship of landlord and tenant stands terminated upon the landlord’s lawful repossession of the premises. 
+
+Once the tenancy comes to an end, the jurisdiction of the Rent Tribunal under the Act is no longer attracted, as such jurisdiction is confined to disputes arising during the continuance of the landlord and tenant ’s relationship. 
+
+Consequently, the Civil Court has the requisite jurisdiction to adjudicate the matter. 1 Habib Bank Ltd. v s. 
+
+WRSM Trading Company, LLC and others (PLD 2018 Supreme Court 795) 2 SALMAN ASHRAF vs. 
+
+ADDITIONAL DISTRICT JUDGE, LAHORE and others (2023 SCMR 1292) 3 Syed Ahmad Taim ure Bukhari v s. 
+
+Mst. 
+
+Murrawwat Burjees (1991 SCMR 1569)
+
+============================================================
+PAGE 8
+============================================================
+
+W.P.No.55743 of 2025 8 19. 
+
+Notwithstanding the above factual and legal po sition, the Revisional Court failed to consider this vital legal aspect and erroneously allowed the civil revision preferred by respondent No.3, overlooking the factual and legal position outlined above. 20. 
+
+In view of the above discussion, the findings o f the Revisional Court are declared to be illegal and unsustainable, as a result thereof, the judgment dated 13.09.2025 is hereby set aside. 
+
+Accordingly, this constitutional petition is allowed. 
+
+The matter is remanded to the trial Court, where the petition er’s suit shall be deemed to be pending. 
+
+The trial Court shall proceed to decide the suit on merits in accordance with law, preferably within a period of six months from the date of receipt of this judgment. (Malik Javid Iqbal Wains ) Judge Approved For Reporting Judge Usman *

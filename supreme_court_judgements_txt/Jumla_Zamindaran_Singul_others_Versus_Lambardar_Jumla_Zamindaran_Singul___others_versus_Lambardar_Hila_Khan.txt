@@ -1,0 +1,46 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Jumla_Zamindaran_Singul_others_Versus_Lambardar_Jumla_Zamindaran_Singul___others_versus_Lambardar_Hila_Khan.pdf
+CONVERSION DATE: 2025-12-23 19:35:06
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 100
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 94/2015. 
+
+Jumla Zamindaran Singul & others Petitioners. 
+
+Versus Lambardar Hila Khan & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Amjad Hussain Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioners. 
+
+ORDER DATED: - 04.11.2016. 
+
+The learned counsel for the petitioners states that since the Presiding Officer i.e. the learned District & Sessions Judge at Ghizer has been transferred, therefore, this transfer petition has become infructuous, he does not want to press this petition being infructuous. 
+
+This petition is dismissed as become infructuous. 
+
+Chief Judge. 
+
+Judge.

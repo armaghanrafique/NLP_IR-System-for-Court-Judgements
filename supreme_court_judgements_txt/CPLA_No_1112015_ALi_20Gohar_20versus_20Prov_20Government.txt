@@ -1,0 +1,50 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_1112015_ALi_20Gohar_20versus_20Prov_20Government.pdf
+CONVERSION DATE: 2025-12-23 19:33:09
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 103
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 111/2015. 
+
+Ali Gohar son of Muhammad Faqir r/o Yasin Tehsil Yasin District Ghizer. 
+
+Petitioner. 
+
+Versus Provincial Government & others Respondents. 
+
+PRESENT:- 1. 
+
+Mr. 
+
+Amjad Hussain Advocate alongwith Mr. 
+
+Rehmat Ali Advocate- on-Record for the petitioner. 2. 
+
+The Advocate General on behalf of the respondents. 
+
+ORDER DATED: - 13.03.2017. 
+
+The learned counsel for the petitioner after arguing at length lukewarmly wants to withdraw this petition in order to avail either remedy from the concerned department or by filing Civil Suit accordingly. 
+
+The case is disposed off as withdrawn. 
+
+Chief Judge. 
+
+Judge.

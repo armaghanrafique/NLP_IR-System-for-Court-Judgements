@@ -1,0 +1,42 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: C_MISC_NO_222014_IN_CPLA_NO172013_Ghulam_Haider_Vs_Muhammad___others.pdf
+CONVERSION DATE: 2025-12-23 19:33:28
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 95
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN AT GILGIT C. 
+
+MISC. 
+
+NO. 22/2014 IN C.P.L.A. 
+
+NO.17/2013 Ghulam Haider Petitioners. 
+
+VERSUS Muhammad & others Respondents. 
+
+Present: - Mr. 
+
+Johar Ali, Advocate for the petitioner. 
+
+Order Dated: - 18-09-2014. 
+
+The counsel for the petitioner has moved an application for restoration with the plea that he could not attend the court within time, due to the break down of his vehicle. 
+
+His word is honoured and the original case is restored. 
+
+The original case is to be re -fixed by the office. 
+
+Judge Judge

@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_022013_Muhammad_Ismail_vs_Sajjad_Ali_Shah.pdf
+CONVERSION DATE: 2025-12-23 19:33:07
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 146
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN AT REGISTRY BRANCH SKARDU. 
+
+CPLA No. 02/2013. 
+
+Muhammad Ismail & others petitioners. 
+
+VERSUS Sajjad Ali Khan & others Respondents. 
+
+CIVIL PETITION FOR LEAVE TO APPEAL UNDER ORDER XIII OF SUPREME APPELLATE COURT RULES 2008 READ WITH ARTICLE 60OFGILGIT -BALTISTAN (EMPOWERMENT & SELF GOVERNANCE ORDER 2009 AGAINST THE JUDGMENT PASSED BY THE LEARNED CHIEF COURT GILGIT -BALTISTAN ON 15.08.201 3. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Muhammad Issa, Sr. 
+
+Advocate on behalf of the petitioners. 
+
+DATE OF HEARING: - 09.09.2015. 
+
+ORDER The learned counsel for the petitioners states that the main suit of the respondents has been dismissed in the learned Trial Court vide Ord er dated 05.12.2014, consequently, the CPLA No. 02/2013 has become infructuous. 
+
+The case is accordingly disposed of having being infructuous. 
+
+Chief Judge. 
+
+Judge. 
+
+Whether the case is fit to be reported or not?

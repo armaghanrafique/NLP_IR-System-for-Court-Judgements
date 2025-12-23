@@ -1,0 +1,52 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CrPLA_No_222015_Tasawar_20Hussain_20Versus_20The_20State.pdf
+CONVERSION DATE: 2025-12-23 19:34:14
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 166
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT BALTISTAN, GILGIT. 
+
+Cr.PLA No. 22/2015 Tasawar Hussain Petitioner. 
+
+Versus The State Respondent. 
+
+Present. 1. 
+
+Mr.Jahanzeb Khan Advocate Alongwith Mr. 
+
+Ali Nazar Khan AOR on behalf of petitioner. 
+
+ORDER DATED 27 -10-2015. 
+
+The learned counsel for the petitioner after arguing his case at length wants to withdraw the petition in order to repeat bail applications in the learned trial Court separately according to the FIRs. 
+
+He requests to issue direction s to the learned trial Court to dispose off the said bails applications within a period of fifteen (15) days. 
+
+In view of the above submissions of the learned counsel for the petitioner we allow him to withdraw the above petition. 
+
+The learned trial Court is, however, directed to dispose off bail applications, if so filed, in respective FIRs separately by the petitioner/accused expeditiously within a period of fifteen (15) days.
+
+============================================================
+PAGE 2
+============================================================
+
+The petition is disposed off in above terms. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

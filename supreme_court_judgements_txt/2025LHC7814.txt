@@ -1,0 +1,174 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7814.pdf
+CONVERSION DATE: 2025-12-23 19:32:38
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 8
+ESTIMATED WORD COUNT: 2,359
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Form No: HCJD/C -121 ORDER SHEET LAHORE HIGH COURT MULTAN BENCH MULTAN JUDICIAL DEPARTMENT W. 
+
+P No. 6271 of 2025 \\ Mushtaq Ahmad & 4 Others Versus Government of the Punjab, etc. 
+
+S.No. of order/ Proceeding Date of order/ Proceeding Order with signature of Judge and that of parties or counsel, where necessary. 15.12.2025 Mr. 
+
+Khawar Siddique Sahi, Advocate for the petitioners. 
+
+Rana Ghulam Husssain, Assistant Attorney General for Pakistan. 
+
+Mr. 
+
+Bashir Ahmed Buz dar, Assistant Advocate General, Punjab. 
+
+Ch. 
+
+Saeed Akhtar Sajid, Advocate for respondents No.3 & 4. 
+
+M/s Muhammad Aslam Sipra, Deputy Secretary (Law), and Muhammad Aslam, Inspector, Excise, Taxation & Narcotics Department in person. 
+
+Primarily, p etitioners seek relief in following terms: - “The act and action of the respondents No.6 & 7 of issuance of notices/challan forms (Annex C, D. 
+
+E. 
+
+F & G) regarding property tax to the petitioners may kindly be declared as illegal, without jurisdiction, coram non judice, and void ab initio in the supreme interest of justice.” 2. 
+
+Record depicts that pursuant to Notification No. 
+
+TMA/CCI/1263 dated 16.05.2011, and by virtue of a follow -up Notification No.TMA/CCI/854 of 27.04.2012, property tax on annual rental value of buildings and lands was levied in various localities of Chichawatni, District Sahiwal in exercise of powers conferred under the provisions of Punjab Local Government Ordinance 2001 (Ordinance, 2001) – precisely under sections 116 and 117 of the Ordinan ce, 2001. 
+
+Demand notices, claiming payment
+
+============================================================
+PAGE 2
+============================================================
+
+-2- Writ Petition No.6271 of 2 025 of property tax (hereinafter referred as “levy”), were issued and hereby assailed. 3. 
+
+Petitioners objected to the levy on the premise that area, subjected to levy, was not declared as urban area by the Government through a notification, required to be issued in terms of section 3 of the Punjab Urban Immovable Property Tax Act, 1958 ( Act 1958 ). 
+
+Follow -up objection is that prerogative to declare urban area as rating area exclusively vests with Government and Administ rator, Tehsil Municipal Administration, had no jurisdiction at all to declare urban -cum-rating area and seek payment of levy. 
+
+It is argued that unless area is declared as rating area no levy could be demanded, let alone imposed. 4. 
+
+Conversely, learned law officer and counsel for department plead that exclusivity conferred in terms of section 3 of the Act 1958 transformed gradually and in light of policy of progressive devolution of the power to tax, to the local bodies, various provisions were introduced in Ordinance, 2001 and such transformation continues irrespective of changes in local government legislative instruments, promulgated with intermittent intervals. 5. 
+
+Heard. 
+
+Record, written material and cascading statutory changes perused. 6. 
+
+Broader question is determination of scope of jurisdiction to tax immovable property in the rating area and whether authority to declare / notify a rating area exclusively vests in the Government, as claimed by the petitioners, or such jurisdiction is concurrently availab le to the Government in terms of section 3 of Act 1958 and the local governments, in terms of successive local government
+
+============================================================
+PAGE 3
+============================================================
+
+-3- Writ Petition No.6271 of 2 025 laws, promulgated from Ordinance 2001 till Punjab Local Government Act 2025. 
+
+Textual reading of various provisions of variously promulgated local government laws substantiates scaling down of the authority of the Government to declare rating area for the purposes of imposition of property tax – authority to declare rating area is still available but encumbered by way of legislative de clarations, successively made through various local government laws. 
+
+Amendment in section 3 of the Act by inserting sub -section (2a) thereto, by virtue of Finance Act 2024 [section 4(2)(a) thereof became enforceable on 10.01.2025] conclusively manifests legislative intent, which demonstrated regulating / structuring the authority of the Government to declare rating area and simultaneously the recognition extended vis - à-vis rating area declared under local government laws. [Scope of amended section 3 of the Act 1958 is discussed in later part of the decision]. 7. 
+
+When confronted with above -referred amendments in section 3 of the Act, learned counsel for the petitioners submits that effect thereof cannot be questioned prospectively but with respect to the tax collected, pre - amendment, local government(s) had no authority to impose, claim or collect levy. 
+
+This submission manifests incorrect reading of various provisions of variously promulgated local government laws, details whereof along with relevant provision s, are reproduced hereunder. 
+
+Punjab Local Government Act, 2001 117. 
+
+Rating Areas and Property Tax.– (1) On commencement of this Ordinance, every tehsil and town shall be rating areas within the meaning of the Punjab Urban Immovable Property Tax Act, 1958 (V of 1958 ). (2) The Tehsil Council or Town Council, as the case may be, shall subject to the provisions of section
+
+============================================================
+PAGE 4
+============================================================
+
+-4- Writ Petition No.6271 of 2 025 116, determine the rate of property tax in an area within the tehsil or town: Provided that in the areas within a tehsil or town where rate has not been determined, the rate shall remain as zero. (3) Unless varied under sub -section (2), the existing rates in the areas within a tehsil or town shall remain in force. 
+
+Punjab Local Government Act, 2013 116. 
+
+Rating areas and property tax.– (1) On the commencement of this Act, a rating area in which tax has been imposed under the Punjab Local Government Ordinance, 2001 (XIII of 2001), shall continue to be rating area within the meaning of the Punjab Urban Immovable Property Tax Act, 1958 (V of 19 58). (2) Notwithstanding anything contained in the Punjab Urban Immovable Property Tax Act 1958 (V of 1958), a Metropolitan Corporation, Municipal Corporation, Municipal Committee or a rural Union Council with urban characteristics may determine higher ra te of property tax within its area in accordance with the provisions of section 115. (3) Where a Metropolitan Corporation, a Municipal Corporation, or a Municipal Committee or a rural union council with urban characteristic has not determined the rate of property tax within its area, the property tax shall be levied in accordance with the provisions of the Punjab Urban Immovable Property Tax Act, 1958 (V of 1958).] (4) In matters for which no provision or no adequate provision relating to the property tax has been made under this Act, the provisions of the Punjab Urban Immovable Property Tax Act, 1958 (V of 1958) shall apply. 
+
+The Punjab Local Government Act, 2019 159. 
+
+Rating areas and property tax.– (1) On the commencement of this Act, a rating area in which tax has been imposed under the Punjab Local Government Act, 2013 (Act XVIII of 2013) shall continue to be the rating area within the meaning of the Punjab Immovable Property Tax Act, 1958 (Act V of 1958 ). (2 Notwithstanding anything contained in t he Punjab Immovable Property Tax Act, 1958 (Act V of 1958) a local government to which urban immovable property tax relates to, may determine the rate of this tax in accordance with section 157 of this Act. (3) If no determination under subsection (2) is m ade, the rate of urban immovable property tax shall be determined under the Punjab Immovable Property Tax Act, 1958 (Act V of 1958).
+
+============================================================
+PAGE 5
+============================================================
+
+-5- Writ Petition No.6271 of 2 025 The Punjab Local Government Act, 2022 102. 
+
+Rating areas and property tax.– (1) On commencement of this Act, a rating area in which tax has been imposed or saved under the Punjab Local Government Act, 2019 (XIII of 2019) 2 [or any other local government law for the time being in force] shall continue to be the rating area within the meaning of the Punjab Immovable Property Ta x Act, 1958 (V of 1958) and under this Act until revised. (2) All urban areas demarcated under this Act shall be the rating areas. (3) All housing schemes in rural areas, approved under any law for the time being in force, shall also be the rating areas. (4) The urban immovable property tax shall be levied, assessed, collected and transferred to the local governments under the Punjab Urban Immovable Property Tax Act, 1958 (V of 1958).] Punjab Local Government Act, 2025 107. 
+
+Rating areas and property tax.– (1) On commencement of this Act, a rating area in which tax has been imposed or saved under the Punjab Local Government Act, 2022 (XXXIII of 2022) or any other local government law shall continue to be the rating area within the meaning of the Punja b Immovable Property Tax Act, 1958 (V of 1958) and under this Act until revised. (2) All urban area demarcated under the Act shall be rating area. (3) All housing schemes in rural areas, appr oved under any law for the time being in force, shall also be rating areas. (4) Urban immovable property tax shall be levied, assessed, collected and transferred to the local governments under the Act V of 1958. 8. 
+
+Section 117 of the Ordinance laid the groundwork for defining the authority of the local government in th e context of area, to be the rating area for the purposes of levy. 
+
+Every tehsil and town was declared as rating area within the meaning of Act 1958. [Expressions tehsil and town were defined in Ordinance, 2001 in terms of sections 2(xxxii) and 2(xxxiv) res pectively. 
+
+No scholarly interpretative skills are required to understand the scope and context of section 117 of the Ordinance, 2001, wherein every tehsil and town was
+
+============================================================
+PAGE 6
+============================================================
+
+-6- Writ Petition No.6271 of 2 025 declared as rating area, within the meaning of Act 1958. 
+
+It implies that by virtue of legislative declaration, every tehsil and town, upon commencement of Ordinance, 2001, was declared as rating area and power to determine rate of tax, subject to section 116 of the Ordinance, 2001, was conferred upon Tehsil Council or Town Council. 
+
+Section 116 of the Punjab Local Government Act 2013 extended continuity to the limits of rating area, where tax has been imposed in terms of Ordinance 2001, and it further expanded scope of rating area, by adding various local government units, notwithstandin g anything contained in Act 1958. 
+
+This pattern continued while promulgating Act of 2019, Act of 2022 and Act of 2025. 
+
+All urban area is demarcated as rating area. 
+
+This clinched the controversy. 9. 
+
+In view of the above, there is no plausible justification to seek issuance of fresh notification under section 3 of the Act 1958 for taxing rating areas, within the scope of above -referred provisions of variously promulgated local government laws. 
+
+Argument made by the petitioner undermines the scope and effect of section 117 of the Ordinance, 2001 and subsequently promulgated provisions through various local government laws. 
+
+We asked learned counsel if his client was charged twice, by the Excise and Taxation department and Municipal Administration, concurrently, w ho is unable to support the proposition. 
+
+For the same of completeness, text of section 3 of the Act 1958, as prevalent at present, is reproduced hereunder, Punjab Urban Immoveable Property Tax Act, 1958 3. 
+
+Levy of tax.– (1) Government may, by notification, specify urban areas where tax shall be levied under this Act: Provided that one urban area may be divided into two or more rating areas or several urban areas may be grouped as one rating area.
+
+============================================================
+PAGE 7
+============================================================
+
+-7- Writ Petition No.6271 of 2 025 (2) Subject to sub -sections (2a), (3) and (4), there shall be levied, charged and paid, a tax on the taxable value of a building and land in a rating area at the rate given in the Schedule. (2a) The Metropolitan Corporation, a Municipal Corporation, a Municipal Committee or a rural Union Council with urban charac teristic may determine higher rate of property tax for its area under the Punjab Local Government Act 2013 (XVIII of 2013). (3) Government may, by notification, for reasons to be recorded, remit in whole or in part, the payment of the tax by any class of persons in respect of any category of property. 10. 
+
+Section 3 has not denuded Government of the authority to continue to specify urban areas but claiming exclusivity in respect thereof offends the mandate of the Act 1958 and disturb legislative discour se, whereby various units of local government, were declared as rating areas for the purposes of taxation. 
+
+There is no reason to preempt and articulate scope of the authority of the Government, in terms of section 3 of the Act 1958 but it is sufficient for present purposes that no notification under section 3 of the Act 1958 is required to demand property tax from various localities of Chichawatni, District Sahiwal – which was declared as rating area since 2001 and continued to be so declared under successi ve legislative instruments. 11. 
+
+There is no cavil that Notification No.TMA/CCI/1263 dated 16.05.2011 and Notification No.TMA/CCI/854 of 27.04.2012 were issued in exercise of section 117 of the Ordinance, 2001 - section 116 of the Ordinance 2001 and releva nt entries in Second Schedule thereto extends power to tax immovable property in terms of section 117 of the Ordinance 201. 
+
+Hence, power to levy and collect tax from petitioners is vested with the local government and such power was correctly exercised by raising demand to pay levy. 
+
+No illegality is found in issuance of demand notices qua payment of levy in area
+
+============================================================
+PAGE 8
+============================================================
+
+-8- Writ Petition No.6271 of 2 025 under reference, which is a rating area for all intent and purposes, without the requirement of fresh notification under section 3 of the Act 1958. 
+
+We refrain from commenting on the rates claimed, objections in respect whereof can be raised in accordance with the remedies otherwise available under relevant laws. 12. 
+
+We, hereby, reject that plea of exclusivity claimed or otherwise attributed to sectio n 3 of the Act 1958, for the purposes of throwing challenge to the levy and demand thereof, validly made in context of local government laws. 13. 
+
+This writ petition is devoid of any merits and the same is hereby dismissed. (ABID HUSSAIN CHA TTHA) (ASIM HAFEEZ) JUDGE JUDGE Imran/* Approved for reporting. 
+
+JUDGE JUDGE

@@ -1,0 +1,324 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._5364_2024.pdf
+CONVERSION DATE: 2025-12-23 19:35:37
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 12
+ESTIMATED WORD COUNT: 3,767
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME COURT OF PAKISTAN (Appellate Jurisdiction) Present: Mr. 
+
+Justice Yahya Afridi, CJ Mr. 
+
+Justice Muhammad Shafi Siddiqui Mr. 
+
+Justice Miangul Hassan Aurangzeb Civil Petition No. 5364 of 202 4 [Against judgment dated 07.10.2024 of the High Court of Sindh, Karachi passed in Constitution Petition No.S -525/2024] Muhammad Hassan Sultan. … Petitioner Versus Chairman Union Council, Cantonment Board Office, Karachi and another. … Respondent s For the Petitioner: Mr. 
+
+Khalid Ranjha, ASC. 
+
+Mr. 
+
+Hamid Iftikhar, ASC. 
+
+Syed Rifaqat Hussain Shah, AOR. 
+
+For Respondent No.1: Mr. 
+
+Moiz Ahmed, ASC. 
+
+Mrs. 
+
+Abida Parveen Channar, AOR. [through video -link from Karachi] For Respondent No. 2: Mr. 
+
+Hussain Ali Almani, ASC. 
+
+Date of Hearing: 20.10.2025. 
+
+JUDGMENT Muhammad Shafi Siddiqui, J. 
+
+In the instant Civil Petition for Leave to Appeal t he petitioner has impugned judgment dated 07.10.2024 passed by the High Court of Sindh, Karachi. 2. 
+
+We have heard the learned counsel and perused the material available on record. 3. 
+
+In brief, the facts of the case are that the petitioner (Muhammad Hassan Sultan) and respondent No.2 (Morial Shah) were married on 24.11.2016 vide nikah nama dated 03.12.2016. 
+
+It is not in dispute that the
+
+============================================================
+PAGE 2
+============================================================
+
+Civil Petition No. 5364 of 202 4 2 petitioner delegated rights of divorce to respondent No.2 unconditionally. 
+
+After marriage the wedded couple settled abroad (New York) and were then blessed with a daughter on 09.08.2021. 
+
+The dispute arose between the couple in June, 2023 when respondent No.2 came back to Karachi with her daughter and on 03.07.2023 served notice of divorce on the petitioner under section 7(1) of the Muslim Family Laws Ordinance, 1961 (hereinafter referred to as ‘ the Ordinance ’). 
+
+Apparently, in consequence of such notice, the petitioner filed custody proceedings in New York on 19.07.2023 against the respondent No.2. 
+
+The New York court, in pursuance of such proceedings, passed orders to return to New York with the daughter. 
+
+O n 10.08.2023, seemingly within ninety days period, prescribed under section 7(3) of the Ordinance, respondent No.2 withdrew the divorce proceedings and return ed to New York and in consequence of such withdrawal, the Chairman, Union /Arbitration Council, respondent No.1 disposed of the divorce proceedings on 11.08.2023. 4. 
+
+On 23.08.202 3 the petitioner attempted to serve notice for divorce under section 7 (1) of the Ordinance and on 10.11.2023 respondent No.1, i.e., Chairman, Union/Arbitration Council was urged to suspend the divorce proceedings commenced via above notice. 
+
+In consequence thereof, on 03.01.2024, the Chairman, Union/Arbitration Council disposed of the proceedings commenced via notice of 23.08.202 3. 
+
+The two orders were then challenged before the High Court of Sindh through the constitution petition, which was dismissed vide impugned judgment dated 07. 10.2024, which judgment has now been challenged by the petitioner in this petition, inter alia, on the following questions: (a) whether a talaq in whatsoever form, once initiated can be withdrawn by the initiating party within ninety days
+
+============================================================
+PAGE 3
+============================================================
+
+Civil Petition No. 5364 of 202 4 3 period prescribed under section 7 of the Ordinance; and (b) whether the same principle applies to a divorce initiated by a wife, i.e., even in case of divorce proceedings have been initiated by wife through delegated powers the same principle of withdrawal would be applicable as the delegated powers being unconditional. 
+
+The two letters/orders dated 11.08.2023 and 03.01.2024 are reproduced respectively, as under: “Subject: Notice under section 7 of the Muslim Family Laws Ordinance, 1961. 
+
+Reference: Your application dated 10/08/2023 on the subject. 2. 
+
+This office acknowledges receipt of your application referred to above with regard to withdrawal of divorce proceedings initiated u/s 7(1 ) of the Muslim Family Law Ordinance, 1961. 
+
+The matter stands disposed of accordingly.” “ORDER By this Order, I intend to dispose off the instant Arbitration Proceedings. 
+
+Arguments heard and record has been perused. 
+
+Brief facts of the instant case are that Mr. 
+
+Muhammad Hassan Sultan (“Applicant ”) filed the Notice of Divorce dated 01.08.2023 (received on 23.08.2023) under Section 7 of the Muslim Family Law Ordinance, 1961 (‘Ordinance ’). 
+
+Thereafter, on 13.09.2023, Notice was issued to both the parties to appear on 22.09.2023 for reconciliation/confirmation of divorce. 
+
+However, on the said date none of the parties appeared. 
+
+Hence, the case was adjourned to 20.10.2023 for which notices w ere also issued to both the parties. 
+
+The case diary reflects that on 10.10.2023 Ms. 
+
+Hafsa Obaid, counsel for the applicant, stated that Ms. 
+
+Morial Shah (“ Respondent ”) is permanently residing in New York, USA. 
+
+Hence, notices of these proceedings were directed to be served through the Consul General. 
+
+Further, in the case diary dated 17.11.2023 it was observed that the signatures made on the Divorce Deed dated 01.08.202 3, CNIC of the Applicant, Nikahnama and Vakalatnama do not match with each other. 
+
+Therefore, the Applicant was required to appe ar in person for verification of the signatures on 13.12.2023, however, none of the parties appeared. 
+
+The Applicant has sent a Letter dated 10.11.2023 (Received on 17.11.2023) requesting the suspension of instant divorce proceedings due to ongoing proceedings in New York’s Court which has ordered the suspension of divorce proceedings in Karachi, Pakistan until further order of New York’s Court, however, no such order has been placed on record. 
+
+After perusal of the case record, it is pertinent to mention here that the Federal Government has issued the Notification/S.R.O.No.1086(K)/61 dated 09.11.1961 under Section 2(b) of the Ordinance, whereby, authorized the
+
+============================================================
+PAGE 4
+============================================================
+
+Civil Petition No. 5364 of 202 4 4 Director General (Administration), Ministry of External Affairs to appoint officers of Pakistan missions abroad to discharge the functions of Chairman under the Ordinance for Pakistani residing abroad. 
+
+Whereas, Rule 3(b) of the West Pakistan Rules under th e Muslim Family Law Ordinance, 1961 ( ‘Rules ’) states that in case of notice of Talaq under Section 7(1) of the Ordinance, such Union Council or in other words Chairman will have jurisdiction in which the wife, in relation to whom Talaq has been pronounced, was residing. 
+
+It is an admitted position as stated by the counsel for the Applicant that Respondent is residing in New York, USA. 
+
+Therefore, in light of Rule 3(b) of the Rules and above -mentioned Notification dated 09.11.1961, the concerned officer of Pakistan mission in New York, USA will be the Chairman Arbitration Council in the instant case. 
+
+Hence, the Chairman Arbitration Council at the Cantonment Board Clifton lacks jurisdiction in the instant case and it is the settled law that any proceedings without jurisdictio n are nullity in the eyes of law. 
+
+In this regard I am also fortified by the case law reported as PLD 2019 Lahore 285. 
+
+In view of the above, the instant divorce proceedings are disposed off due to lack of jurisdiction. 
+
+The Applicant may approach the Pakistan Mission (Embassy) at New York, USA which shall serve as the concerned Chairman Arbitration Council. 
+
+Given under my hand & seal of the Court, this 03rd day of January, 2024. 5. 
+
+The gist of the impugned judgment ruled that section 7 of the Ordinance provides that pronouncement of divorce in whatsoever form does not automatically terminate the marriage until expiration of ninety days period from the date of notice is served (since the jurisdiction of Arbitration Council was invoked), and that the party serving notice can withdraw the divorce and proceeding s at any time within ninety days from the date of service of notice. 
+
+Since respondent No.2 in the instant matter had withdrawn the notice of divorce within ninety days, she had acted within the law and the first order does not suffer from any legal infirmity. 
+
+The consequential divorce proceedings initiated in the New York court, for the purpose of the present controversy within the frame of Muslim Family Laws Ordinance is not relevant. 
+
+The petitioner, who then initiated divorce proceedings were discontinued and were consequently disposed of on account of jurisdict ion as at that time the respondent No. 2 was in New York and he (petitioner) had to pursue (remedy) divorce proceedings through Pakistan Mission in New York in accordance with S.R.O. 
+
+No.1086 (K)/61
+
+============================================================
+PAGE 5
+============================================================
+
+Civil Petition No. 5364 of 202 4 5 dated 09.11.1961 issued by the Federal Government of Pakistan, as adjudged. 6. 
+
+The main submissions of the learned counsel for the petitioner are that since the divorce deed accompan ied with a notice under section 7 of the Ordinance, respondent No. 2 had pronounced three consecutive talaqs (talaq -e-bidat) hence the divorce was affected immediately; and section 7 of the Ordinance is only a formality and that the proceedings under section 7 of the Ordinance were only directory and not mandatory. 
+
+The petitioner further urged that the delegation of right to divorce (by husband to wife) does not include right to revoke the divorce. 
+
+Concluding submission of the petitioner’s counsel was that since respondent No.2 filed divorce proceedings in New York court immediately (four days) after withdrawal proceeding in Kara chi (withdrawal application dated 10.08.2023) it is malafide. 7. 
+
+The aforesaid questions and arguments are only related to section 7 of the Ordinance and the delegated authority of divorce hence are being addressed together. 8. 
+
+Section 7 of the Ordinance expressly used the phrase ‘ talaq in any form whatsoever ’ and therefore, without any distinction or exception, the legislature’s wisdom is to apply it to all forms of talaq including talaq -e- bidat. 
+
+Nothing is before us which could demonstrate that any challenge to the frame and/or legality of section 7 of the Ordinance has been made. 
+
+Section 7 of the Ordinance, for the convenience and in order to understand its scope and applicability, is reproduced hereunder: “7(1) Any man who wishes to divorce his wife shall, as soon as may be after the pronouncement of talaq in any form whatsoever, give the Chairman notice in writing of his having done so, and shall supply a copy thereof to the wife
+
+============================================================
+PAGE 6
+============================================================
+
+Civil Petition No. 5364 of 202 4 6...” [underl ining is for emphasis] Section 7 specifically used the wording ‘ talaq in any form whatsoever ’ and it does not distinguish between different forms of talaq, i.e., talaq -e- ahsan, talaq -e-hassan and talaq -e-bidat. 
+
+As stated above, there is no challenge before us as to the effectiveness of section 7 of the Ordinance on any particular form of talaq or if the legislature had intended to exclude any particular fo rm of talaq. 
+
+The legislature knew the forms of talaq which existed and thus consciously used the phrase ‘any form ’. 
+
+The phrase ‘ talaq in any form whatsoever ’ has its meaning as far as the effectiveness of section 7 in respect of all forms of talaq is concerned, the statutory phrase cannot be made redundant on t he count that section 7(1) of the Ordinance should not have been applied to talaq -e-bidat as such, in consequence, the divorce was made effective from the date it was pronounced; this is not cons picuous from plain reading of section 7 ibid. 
+
+It is settled law that the wording used in the statute should be given effective meaning and should not be made redundant.1 More importantly other common forms of talaq, i.e., talaq -e- ahsan and talaq -e-hassan by their very form do not result in immediate end of a marriage and instead provide time for reconsideration and reconciliation. 
+
+Thus, the provision of section 7, when invoked, provides and has provided non -effectiveness of talaq, in whatever form, until expiry of period as suggested in law, i.e., ninety days from the date of notice is served. 
+
+In the case of Ali Nawaz2 this Court has already determined that: “38.... 
+
+The alternative contention raised by the learned counsel that Talaq Bidat is altogether outside the purview of the section is plainly untenable as 1 Collector of Sales Tax and Central Excise v. 
+
+Mega Tech (Pvt.) Ltd. ( 2005 SCMR 1166 ). 2 Ali Nawaz v. 
+
+Muhammad Yusuf ( PLD 1963 Supreme Court 51, relevant at page 75 ).
+
+============================================================
+PAGE 7
+============================================================
+
+Civil Petition No. 5364 of 202 4 7 it takes no account of the words “talaq in any form whatsoever” occurring in subsection (1) of section 7.” In the case of Aziz Ahm ad3 the deceased sent a divorce deed by pronouncing talaq three times to wife. 
+
+The deceased, however, passed away on 03.10.2018 before the expiry of ninety days from the date of notice of divorce was served, which (by implication) exclude d the wife from inheritance on the ground that talaq was effective immediately and ha d become final, which contention was repelled by this Court in the following terms: “4. 
+
+Having heard the learned Counsel for the petitioners, the pivotal question that emerges here is whether a wife, divorced through Talaq -e-Biddat is entitled to inherit her deceased husband’s estate if his death occurs during her iddat period.... 7.... 
+
+This divergence of interpretation and social consequences of a unilateral and instant divorce have given rise to legislative intervention and compassion in the form of Subsection (3) of Section 7 of the Muslim Family Law Ordinance, 1961 (the “Ordi nance”). 
+
+This provision mandates that a talaq shall not take effect unless a period of ninety -days has elapsed from the date on which notice is given to the Chairman of the Union Council. 
+
+During this statutory period, the marital status of the spouses rema ins unaffected, thereby affording an opportunity for reconciliation. 
+
+The legislative intent is to discourage hasty divorces requiring a cooling -off period consistent with Islamic principles. 
+
+Far from being repugnant to the Islamic Injunctions, this provisi on is in harmony with the Quranic commandment found in Surah Al Baqrah which enjoins a period of waiting and reflection before the finality of divorce. 8... 
+
+However, recognizing Talaq -e-Biddat as immediately effective undermines this essential safeguard, depriving the husband of the opportunity to revisit a hasty decision and standing in clear conflict with the Quranic injunctions governing the sanctit y and dissolution of marriage. … 11. 
+
+For all these aforesaid reasons, we are of the considered view that written talaq pronounced by the deceased, Shah Bakht Rawan, had not become final in accordance with the injunctions of the Holy Quran nor did it fully comply with the mandatory statuto ry period under Subsection (3) of Section 7 of the Ordinance....” The reliance of the learned counsel for the petitioner in the case of Neelofar Hassan is misconceived as it was set aside by the Division Bench 3 Aziz Ahm ad v. 
+
+Musarat ( PLD 2025 Supreme Court 469, relevant at pages 476 and 477 ).
+
+============================================================
+PAGE 8
+============================================================
+
+Civil Petition No. 5364 of 202 4 8 of the High Court of Sindh in the case of Roheela Yasmin.4 Even otherwise, the aforesaid discussion of law in the case s of Ali Nawaz and Aziz Ahm ad has already eclipsed the finding of the referred case. 9. 
+
+Section 7(1) of the Ordinance provides that when a husband pronounces ‘talaq in any form whatsoever ’, he is under a statutory obligation to provide written notice of such pronouncement to the wife and deliver a copy to the wife. 
+
+Section 7(3) then provides that the talaq, unless revoked earlier expressly or otherwise, shall not take effect until the expiry of ninety days from the date on which the notice was delivered. 
+
+Section 7(2) prescribes a punishment for any person who violates section 7(1). 
+
+Delegation of the right to divorce, includes the right to revoke divorce 10. 
+
+Section 7(3) of the Ordinance provides that a divorce ‘unless revoked earlier, expressly or otherwise ’ shall not be effective until after the expiration of ninety days from the date on which notice under Section 7(1) is served on Chairman, Union/Arbitration Council, i.e., respondent No.1. 
+
+Section 7(3), therefore, explicitly provides for the revocation of a divorce within the ninety days period. 
+
+This is in line with the purpose of section 7, which is to regulate divorce proceedings by ensuring that a talaq (regardless of form) is not effective immediately and parties have a “reasonable opportunity ” of ninety days to reconsider their decision. 11. 
+
+Section 8 of the Ordinance then provides that ‘where the right to divorce has been duly delegated to the wife and she wishes to exercise that right, or where any of the parties to a marriage wishes to dissolve the marriage otherwise than by talaq, the provisions of section 7 shall, mutatis 4 Roheela Yasmin v. 
+
+Neelofar Hassan ( 2017 CLC 516 ).
+
+============================================================
+PAGE 9
+============================================================
+
+Civil Petition No. 5364 of 202 4 9 mutandis and so far as applicable, apply ’. 
+
+In short, section 8 (i) expressly recognizes the delegation of the right to divorce to the wife; and (ii) provides that section 7 shall likewise apply to the delegated right of divorce. 
+
+As such, once the right to divorce has been delegated to the wife, she stands in the shoes of the husband in section 7, i.e., she exercises all rights and powers and is under all obligations and liabilities as the husband under section 7. 
+
+This means that if the wife wishes to divorc e her husband; (i) she must issue a notice to the Chairman, Union Council and supply a copy to the husband; (ii) the divorce will not be effective until ninety days after the notice has been served; and (iii) she can expressly or otherwise revoke the divorce at any time before the expiry of the ninety days period. 12. 
+
+In the present case, there is no dispute that under clause 18 of their nikahnama, petitioner delegated the right to divorce, to respondent No.2. 
+
+There is no dispute that petitioner delegated this right without placing any restriction or condition on it and in fact specifically stated that it was being delegated “ unconditionally ”. 
+
+There is no dispute that respondent No.2 revoked the divorce proceedings and withdrew it before the expiry of the ninety days period. 
+
+In these circumstances, where the right to divorce has been delegated and delegated unconditionally, it must and has, in the instant case, include d the right to revoke or withdraw the divorce. 
+
+Any other interpretation would defeat the purpose of section 8, which is to provide statutory recognition to the delegation of the right to divorce to a wife and impose on this right the same conditions as on a husband’s right to divorce under section 7. 
+
+In short, there is no legal basis to hold that the delegation of the right to divorce does not necessarily include the right to revoke the divorce.
+
+============================================================
+PAGE 10
+============================================================
+
+Civil Petition No. 5364 of 202 4 10 Respondent No. 2’s subsequent filing of divorce in N ew York is irrelevant to her revocation of the divorce in Pakistan 13. 
+
+Petitioner’s counsel sought to argue that since respondent No.2 filed for divorce in N ew York only four days after withdrawing her divorce in Karachi, the latter (proceedings) is mala fide. 
+
+This argument is irrelevant to the present dispute. 
+
+Petitioner challenged the legality of the First Order before the Sindh High Court in a constitutional petition. 
+
+The only question before the Sindh High Court, therefore, was whether respondent No.1 had acted in accordance with law in issuing the First Order. 
+
+Before us it is undisputed that respondent No.2 served a notice of divorce and withdrew it before the expiration of ninety days from the date of service. 
+
+Whether she then filed new divorce proceedings after a day or a decade, and /or the intent behind doing so, is irrelevant, at-least for respondent No.1 and High Court in constitutional jurisdiction. 
+
+The respondent No. 1 is no one to adjudge proceeding before New York court as malafide as it amounts to invading the foreign jurisdiction. 
+
+Once it is admitted by all parties that respondent No.2 revoked the divorce, neither respondent No.1 nor the Sindh High Court could go behind the revocation and set it aside. 
+
+The Second Order has been issued in accordance with law 14. 
+
+Respondent No.1 issued the Second Order on the basis that: (i) petitioner had himself requested suspension of the divorce proceedings; and (ii) respondent No.2 was residing in N ew York at the time petitioner served notice under section 7(1) of the Ordinance and therefore, in accordance with the SRO any divorce proceedings must be initiated through the Pakistan Mission in N ew York.
+
+============================================================
+PAGE 11
+============================================================
+
+Civil Petition No. 5364 of 202 4 11 15. 
+
+There are two critical points to note here: The first is that petitioner does not dispute that he himself requested suspension of the divorce proceedings, consequently, in the absence of any provision in the law allowing respondent No. 1 to suspend or hold the divorce proceedings in abeyance, he had no choice but to dispose of the proceedings and the second is that petitioner never challenged the vires of the SRO before the Sindh High Court. 16. 
+
+Rule 3(b) of the West Pakistan Rules under the Muslim Family Law s Ordinance, 1961 provides that for the purposes of notice of divorce under section 7(1) of the Ordinance jurisdiction lies with the Union Council within whose territorial limits the wife was residing at the time the talaq was pronounced. 
+
+The said rule reads as follows: “3.. (b) In the case of notice of talaq under subsection (1) of section 7, it shall be the Union Council of the Union or Town where the wife in relation to whom talaq has been pronounced was residing, at the time of the pronouncement of talaq.” To facilitate its citizens residing abroad, the Federal Government exercised powers under section 2(b) of the Ordinance and issued the SRO authorizing the Director General (Administration) Ministry of External Affairs, to appoint officers of Pakistan missions abroad to discharge the functions of the Chairman, Union Council under the Ordinance. 17. 
+
+Petitioner did not challenge the vires of this SRO before the Sindh High Court. 
+
+In the absence of such a challenge, the Sindh High Court could not determine the legality of the SRO and could only enforce it notwithstanding its non -effectiveness in other jurisdictions where it was specifically challenged.5 5 Pakistan International Freight of Forwarders Association v. 
+
+Province of Sindh (2017 PTD 1).
+
+============================================================
+PAGE 12
+============================================================
+
+Civil Petition No. 5364 of 202 4 12 18. 
+
+In view of the above discussion, findings and reasoning on the aforesaid questions suggested in paragraph 4, this petition is converted into an appeal and the same is hereby dismissed. 
+
+Chief Justice Judge Judge Announced in open Court at Islamabad on 28/11/25 Judge Approved for Reporting [**]

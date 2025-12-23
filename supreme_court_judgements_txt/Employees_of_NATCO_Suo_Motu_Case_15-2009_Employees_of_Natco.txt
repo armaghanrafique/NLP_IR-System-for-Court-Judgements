@@ -1,0 +1,44 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Employees_of_NATCO_Suo_Motu_Case_15-2009_Employees_of_Natco.PDF
+CONVERSION DATE: 2025-12-23 19:34:50
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 245
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN SMC No. 15/200 9 (Employees of NATCO ) Advocate General Gilgit Baltistan Mr. 
+
+Muhammad Issa Sr. 
+
+Advocate assisted by Mr. 
+
+Javed Iqbal Advocate for NATCO. 
+
+Mr. 
+
+Ehsan Ali Advocate assisted by Mir Ikhlas Hussain Advocate for Ex -Employees. 
+
+MD NATCO Order Dated: 06-05-2010 Aman Ullah, Mechanic, Yousaf Khan Naib Qasid and Jamal Khan Driver present in court state that their case has not been considered in pursuance of the order of this court. 
+
+M anaging Director NATCO pres ent in court states that none of the above workers approached him and undertakes to consider their case with in a week in the manner in which the case s of other employees have been considered. 
+
+Mr. 
+
+Ahsaan Ali learned counsel representing the employees of NATCO states that although 19 employees mentioned in order dated 22 -04-2010 are included in those 60 employees who have been retired with full benefits but these 19 employees are not satisfied with the decision of their retirement therefore their case may b e decided on merits. 
+
+This may be pointed out that individual employees cannot maintain a petition under Article 61 of Gilgit Baltistan (Empowerment and Self Governance) Order 2009 for redressal of their grievance and if they are not satisfied with the order of their retirement they may avail appropriate remedy before the proper forum. 
+
+This petition w ith the above observati on stands disposed of. 
+
+Chief Judge Judge

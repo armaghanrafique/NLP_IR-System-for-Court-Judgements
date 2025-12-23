@@ -1,0 +1,30 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_NO_092010_basic_facility_at_skardu.PDF
+CONVERSION DATE: 2025-12-23 19:36:13
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 108
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT (Original Jurisdiction) SMC NO. 09/2010 (Provision of Basic Facilities at Skardu) Advocate General for Gilgit -Baltistan Mr. 
+
+Shoukat Ali, Sr. 
+
+Advocate S.E. 
+
+B&R Division Skardu ADC District Skardu Order dated 12 -11-2010 Additional Deputy Commissioner Skardu with Superintending Engineer and XEN B&R Division Skardu state that the position of the projects referred in the order dated 07 -10-2010 is satisfactory and commissioner Skardu has full vigilant, f or the continuous process of maintaining these projects. 
+
+In view thereof, there is no need to keep this matter pending, and same is accordingly disposed of. 
+
+Chief Judge Judge

@@ -1,0 +1,162 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7261.pdf
+CONVERSION DATE: 2025-12-23 19:32:24
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 5
+ESTIMATED WORD COUNT: 1,783
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Form No.HCJD/C -121 ORDER SHEET LAHORE HIGH COURT LAHORE JUDICIAL DEPARTMENT Commercial Appeal No. 54892 of 20 24 Aamer Associates etc. 
+
+Vs Audit Oversight Board etc. 
+
+Date of hearing 18-09-2025 Appellant s by: • Mr. 
+
+Arslan Fazil, Advocate. • Mr. 
+
+Muhammad Saleem Ch., Advocate Respondents by: M/s. 
+
+Asad Hussain, Anas Farooq, Ali Ahmed, Barrister Syed Muhammad Ishaq and Rana Ijaz Ahmad, Advocates. 
+
+Ch. 
+
+Sultan Mahmood, J:- Brief facts of the case are that the present appeal arises from the Order dated 29 April 2024 passed by the Audit Oversight Board ("AOB") under Section 36CC of Part IXC of the Securities and Exchange Commission of Pakistan Act, 1997 ("the Act") read with Regulation 18 of the AOB (Operations) Regulations, 2018. 
+
+The Order wa s issued in response to a Show Cause Notice dated 6 December 2023, served upon Aamer Associates, Chartered Accountants ("the Firm"), for conducting audits of Mangla Tourists Resorts and Army Water Sports Association ("MTRA") a Public Sector Company (PSC) a nd Public Interest Company (PIC) for three financial years (2019 –2021), without being registered with the AOB. 2. 
+
+The AOB concluded that the Firm had violated provisions of the Act and AOB Regulations and imposed a penalty of Rs. 500,000 /- along with a rep rimand. 
+
+The Firm subsequently filed a representation dated 16 May 2024 under Regulation 8 of the AOB Regulations, requesting waiver of the penalty and withdrawal of the Order. 
+
+The Firm contended that MTRA did not fall within the definition of a PSC
+
+============================================================
+PAGE 2
+============================================================
+
+Commercial Appeal No. 54892 /2024 (Aamer Associates, etc. v. 
+
+Audit Oversight Board, etc. ) 2 or PIC, audits were conducted in good faith, the violations were inadvertent, and no harm was caused to stakeholders. 
+
+It further argued that the penalty was excessive and disproportionate given the circumstances, including its status as a small firm and its volun tary resignation from the audit engagement. 3. 
+
+Learned counsel for the Appellants submits that Appellant No. 1 is a duly registered Chartered Accountants firm with the Institute of Chartered Accountants of Pakistan (ICAP), while Appellant No. 2 is its sole proprietor and a qualified Chartered Accountant. 
+
+The Appellants accepted the audit engagements of MTRA for the financial years ending 30 June 2019, 2020, and 2021 in good faith and in accordance with professional standards. 
+
+It is urged that upon recei ving a notice dated 11 April 2022 from the Respondent s seeking information regarding audits of Public Interest Companies, the Appellants promptly provided the requested details on 12 May 2022, thereby demonstrating cooperation and transparency. 
+
+Counsel arg ues that despite this conduct, Respondent No. 1 issued a Show Cause Notice dated 6 December 2023, alleging unauthorized auditing of a PIC. 
+
+The Appellants submitted a detailed reply dated 20 December 2023, controverting all allegations, yet the Respondent /AOB proceeded to impose a penalty of Rs. 500,000/ - and reprimands the Firm in respect of violation and to ensure compliance as per law in future, through its order dated 29 April 2024 after a hearing conducted via Zoom. 
+
+It is contended that the penalty is exorbitant, unjustified, and disproportionate, especially given that the audits were performed in good faith without mala fide intent. 
+
+It is further urged that the representation filed under Regulation 8 of the AOB Regulations was dismissed vide order date d 30 July 2024 in a cursory manner, without addressing key objections raised by the Appellants. 
+
+In particular, serious challenge was mounted to the constitution of the Grievance Committee. 
+
+It is submitted that the same members who passed the original order also sat on the Committee deciding the representation. 
+
+Such an arrangement, according to
+
+============================================================
+PAGE 3
+============================================================
+
+Commercial Appeal No. 54892 /2024 (Aamer Associates, etc. v. 
+
+Audit Oversight Board, etc. ) 3 counsel, strikes at the very root of impartial adjudication and offends the principle of nemo judex in causa sua, no one can be a judge in his own cause. 
+
+Reliance is placed on the settled jurisprudence that even the likelihood of bias vitiates proceedings, let alone actual bias. 
+
+Learned counsel further argues that the intent of Regulation 8 is to provide an efficacious remedy by allowing a person aggrieved by an order of the AOB to seek reconsideration before the Chairman. 
+
+The provision loses its meaning if the same bench which passed the order is reconstituted to decide the representation against its own order. 
+
+It is submitted that the Chairman ought to have either per sonally heard the representation or formed a Committee excluding the original members. 
+
+Failure to do so constitutes grave procedural illegality rendering the impugned order void. 4. 
+
+On the other hand, learned counsel for the Respondents supports the impugn ed orders, contending that the Firm admittedly conducted audits of MTRA without registration with the AOB, thereby violating clear provisions of law. 
+
+It is argued that ignorance of law cannot be pleaded, and the penalty imposed is within the statutory framework. 
+
+It is further contended that the representation was duly heard and dismissed, and that the constitution of the Committee does not amount to bias in law since the matter was dealt with collectively and in good faith. 5. 
+
+Arguments heard. 
+
+Record perused. 6. 
+
+Now adverting to the merits of the case, here a decision was made by AOB under Section 36 T and 36 CC read with Regulations 4, 6 and 18, may file a representation with the Chairman within 30 days. 
+
+The Chairman or the committee constituted by hi m would decide the representation. 
+
+There is no dispute among the parties that the decision on the representation may set aside that order subject matter of representation. 
+
+Thus, it was not an illusionary remedy but an internal review for all intents and pu rposes. 
+
+So, a decision that is subject to representation necessarily entails the possibility that the Committee may either affirm or vary the decision under challenge. 
+
+Now, the four member who decided the case at first instance were also members of
+
+============================================================
+PAGE 4
+============================================================
+
+Commercial Appeal No. 54892 /2024 (Aamer Associates, etc. v. 
+
+Audit Oversight Board, etc. ) 4 the com mittee constituted by the Chairman under Regulation 8 of the ibid Regulations which decided the representation. 7. 
+
+It is impermissible for a decision -maker to hear an appeal or a challenge to their own decision.1 Where a single decision is taken in multiple stages, however, the same decision -maker may, depending on the circumstances, be permitted to act at more than one stage. 
+
+In R. (on the application of Hofstetter ) v Brent LBC, for instance, the High Court dismi ssed a challenge to a decision by a local authority officer to affirm their earlier decision to rescind an applicant's approval to adopt a child. 
+
+The relevant Regulations supported the conclusion that stages subsequent the initial determination were in the nature of a review, not an appeal and the process required the officer to take account of th e recommendation of an independ ent review panel.2 Where, however, an interim or initial decision is expressed in terms that would lead the fair -minded and informed observer to conclude there is a real possibility the decision -maker will not be prepared to change their mind, they should not participate in subsequent stages of decision -making.3 The Sup reme Court of Pakistan4 observed this foundational principle of natural justice and observed that a judge5 who has interest in the case and without whom decision could not be made due to non-availability of the competent Tribunal or Court can hear but the Chairman in the instan t case could have made a Committee larger than four members excluding the member who already have decided the case. 
+
+Thus, the committee which decided the representation should not have included those members who decided the case at first instance. 
+
+The fou r member s who had expressed their mind s and view about work and conduct of appellant, therefore, to re -approach them for simply fulfilling 1 e.g. 
+
+R. (on the application of B) v X Crown Court [2009] EWHC 1149 (Admin); [2009] P.N.L.R. 30. 
+
+It may also be unlawful for a clerk who has taken part in deliberations to sit as clerk in an appeal against a decision: R. v Salford Assessment Committee E x p. 
+
+Ogden [1937] 2 K.B. 1; [1937] 2 All E.R. 98 CA. 
+
+The UK Supreme Court may, pursuant to s. 13 of the Administration of Justice Act 1960, lawfully hear appeals against i ts own orders when it has acted as a court of first instance in the exercise of its c ontempt jurisdiction if different justices determine the appeal: Attorney General v Crosland [2021] UKSC 15; [2021] 4 W.L.R. 103. 2 Hofstetter v Barnet LBC [2009] EWHC 3283 (Admin); [2010] P.T.S.R. 1527. 3 Mitchell v Georges [2014] UKPC 43. 4 Asad Ali Vs. 
+
+Federation of Pakistan (PLD 1998 SC 161)
+
+============================================================
+PAGE 5
+============================================================
+
+Commercial Appeal No. 54892 /2024 (Aamer Associates, etc. v. 
+
+Audit Oversight Board, etc. ) 5 condition of availing departmental remedy was to be a superfluous and illusionary exercise and against object and sp irit of the regulation. 
+
+It is settled law that doctrine of bias not only applies to Court stricto sensu but to all bodies or authorities discharging judicial or quasi - judicial functions and departmental authorities.6 It is clarified that through this judgment no finding qua the integrity or competence of the four members who decided the case of 29 -04-2024 is being made, but as they decided the case at first instance than they should not have decided the same while deci ding representation and there can be an element of bias to at least stick to the earlier decision so made by them and when the internal review could upset the findings made at first instance as it is not a superfluous or illusionary remedy but a full internal review. 8. 
+
+Consequently, the impugned order dated 30 July 2024 is unsustainable. 
+
+The appeal is partly allowed; the impugned order dated 30.07.2024 is set aside and the matter is remanded to the Chairman, Audit Oversight Board, who shall reconstitute a fresh Committee Under Regulation 8, excluding all individuals involved in passing the original order dated 29 April 2024. 
+
+The Chairman shall ensure th at proper notice is issued to the Appellants, afford them a fair hearing, and decide the representation strictly in accordance with law, keeping in view the principles of natural justice, proportionality and reasoned decision -making. (Ch. 
+
+Sultan Mahmood ) Judge Approved for reporting Judge Shafqat /* 6 PLD 2019 SC 719 Miss Nusrat Yasmin Vs. 
+
+Registrar; 1996 SCMR 263 University of Punjab Vs. 
+
+Ruhi Farzana; Constitution Law of India by H.M Servai, Fourth Edition Page 1743

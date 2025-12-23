@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Under_Objection_No012015_Muhammad_20Iqball_20versus_20Government_20of_20GB.pdf
+CONVERSION DATE: 2025-12-23 19:37:06
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 121
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Under Objection No.01/2015. 
+
+Muhammad Iqbal Petitioner. 
+
+Versus Government of GB & Others Respondent s. 
+
+Present: - 1. 
+
+Mr. 
+
+Javed Iqball Advocate for the Petitioner. 
+
+ORDER DATED: - 14-09-2015. 
+
+Since the leave to appeal is granted in case titled “Provincial Government and others versus Sonia & Others ”. 
+
+The petition in hand is a connected case with the above case. 
+
+In view of the above this petition for leave to appeal has become infructuous and the learned counsel for the petitioner in hand wants to withdraw the same. 
+
+The same is allowed. 
+
+The instant petition for leave to appeal is accordingly disposed of as having been infructuous. 
+
+Chief Judge. 
+
+Judge.

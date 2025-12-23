@@ -1,0 +1,66 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Complaint_against_Indus_Motors_Complaint_Against_Indus_Motors.pdf
+CONVERSION DATE: 2025-12-23 19:34:06
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 197
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+SMC No. 02/2016. (COMPLAINT AGAINST INDUS MOTORS). 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Shiraz Nabi, Director Abbott Motors alongwith Mr. 
+
+Ahmed Faraz, Manager Sales Abbott Motors Abbottabad and Mr. 
+
+Suleiman, Sales Executive Abbott Motors Abbottabad and are present in person. 
+
+ORDER DATED: - 29.04.2016. 
+
+In pursuance of the Bailable War rants dated 14.04.2016 of this court Mr. 
+
+Shiraz Nabi, Director Abbott Motors alongwith Mr. 
+
+Ahmed Faraz, Manager Sales Abbott Motors Abbottabad and Mr. 
+
+Suleiman, Sales Executive Abbott Motors Abbottabad and are present in person today. 
+
+They submitted their unconditional apology regarding the delay of delivery of the vehicles as per their commitment. 
+
+They also placed themselves at the mercy of the court while tendering unconditional apology. 
+
+All the representative/ officials have shown their remorse and repen tance before the court while assuring the court that they shall remain careful in future. 
+
+In view of the above, the show cause notice against the above named answering respondents/officials of Abbott Motors Abbottabad is hereby withdrawn. 
+
+Consequently, the case is disposed of. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge. 
+
+Whether the case is fit to be reported or not?
+
+============================================================
+PAGE 2
+============================================================
+
+

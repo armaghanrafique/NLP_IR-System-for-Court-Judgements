@@ -1,0 +1,50 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: DEATH_OF_PRISONER_IN_POLICE_CUSTODY_SMC._09-2009_2016_04_20_12_04_02_168.PDF
+CONVERSION DATE: 2025-12-23 19:34:45
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 356
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+SUPREME APPELLATE COURT GILGIT -BALTISTAN S.M.C. 
+
+No. 9 of 2009, DEATH OF PRISONER IN POLICE CUSTODY Present: Mr. 
+
+Justice Muhammad Nawaz Abbasi, C.J Mr. 
+
+Justice Muhammad Yaqoob, J Advocate General Gilgit -Baltistan. 
+
+Deputy Secretary Home Gilgit -Baltistan. 
+
+Bashir Ahmed Acting S.P. 
+
+Gilgit. 
+
+Order Dated 25th October, 2010. 
+
+ORDER The learned Advocate General assisted by Deputy Secret ary Home and acting S.P. 
+
+Gilgit has stated that in compliance of the order of this court, the case was registered at Police Station City Gilgit and placing on record the post mortem report of deceased has informed the court that post mortem examination as per direction of this court has been conducted by a team of Doctors of PIMS Islamabad. 
+
+He further stated that investigation of case was entrusted to Islamabad Police which is in progress and on completion of investigation, the final report shall be prepare d by the local police for placing the same before the court of competent jurisdiction. 
+
+The Deputy Secretary has stated that the Islamabad Police shall be asked for early completion of investigation. 
+
+The S.P. states that undoubtedly deceased died in Police custody but as per medical report, it was natural death and consequently the local police would not be responsible for his death. 
+
+Be that as it may, the Court cannot comment on merits at this state and since deceased di ed in Police Custody, therefore, notwithstanding the ultimate result of the case, the Police may settle the matter with legal heirs of deceased to their satisfaction and instead of seeking any favourable order from the Court may enter into compromise with them by paying compensation, as is permissible under the law, before the learned Sessions Judge Gilgit. 
+
+In view of the position explained by the Advocate General and Deputy Secretary Home, no further order is required to be passed and there is also no nee d to keep this case pending, therefore, the matter is disposed of with direction that local police on receipt of investigation report will submit final report accordingly before the Court concerned for appropriate action in accordance with law. 
+
+Chief Judg e Judge

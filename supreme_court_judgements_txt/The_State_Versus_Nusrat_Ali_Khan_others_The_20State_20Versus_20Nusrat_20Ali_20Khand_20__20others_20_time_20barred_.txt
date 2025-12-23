@@ -1,0 +1,62 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: The_State_Versus_Nusrat_Ali_Khan_others_The_20State_20Versus_20Nusrat_20Ali_20Khand_20__20others_20_time_20barred_.pdf
+CONVERSION DATE: 2025-12-23 19:36:59
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 205
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Under Objection No.153/2017. 
+
+The State Petitioner. 
+
+Versus Nusrat Ali Khan & others respondents PRESENT: - 1. 
+
+The Advocate General alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioner. 
+
+DATE OF HEARING: - 05.04.2018. 
+
+ORDER This Criminal Petition was filed well in time, however, the office of this Court had raised certain objections which were belatedly removed after delay for a period of seven (07) days, hence, this petition is barred by time. 
+
+No application for condonation of delay has been filed by the petitioner. 2. 
+
+In view of the above and the law laid down by the Hon’ble apex Court of The Islamic Republic of Pakistan in cases reported as 1990 SCMR 1377, 1991 SCMR 1022, 1998 SCMR 292 and 1998 SCMR 1087 and the reported cases of this apex Court i.e. 2015 GBLR 372, 201 6 GBLR 12 and 2016 GBLR 244, wherein even one day unexplained delay was not condoned. 
+
+Consequently, this Petition is dismissed being barred by time.
+
+============================================================
+PAGE 2
+============================================================
+
+3. 
+
+This Criminal Petition is dismissed in above terms. 
+
+Chief Judge. 
+
+Judge.

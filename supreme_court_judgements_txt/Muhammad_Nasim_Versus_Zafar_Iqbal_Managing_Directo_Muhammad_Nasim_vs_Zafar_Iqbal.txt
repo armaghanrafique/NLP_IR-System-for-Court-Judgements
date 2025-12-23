@@ -1,0 +1,46 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Muhammad_Nasim_Versus_Zafar_Iqbal_Managing_Directo_Muhammad_Nasim_vs_Zafar_Iqbal.pdf
+CONVERSION DATE: 2025-12-23 19:35:25
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 208
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN Cr. 
+
+MISC. 11/2010 Muhammad Nasim s/o Abdul Sadique r/o Basin Tehsil and District Gilgit. 
+
+Petitioner Versus Zafar Iqbal Managing Director NATCO Gilgit-Baltistan Respondent APPLICATION UNDER ARTICLE 75 OF GILGIT-BALTISTAN (EMPOWERMENT & SELF GOVERNANCE ORDER) 2009 READ WITH RULE XVII OF SUPREME APPELLATE COURT RULES AND SECTION ¾ CONTEMPT OF COURT ACT FOR INITIATING CONTEMPT PROCEEDINGS AND FOR LEGAL ACTION AGAINST THE RESPONDENT FOR PUBLISHING CONTEMPTUOUS STATEMENTS IN VIOLATION OF THE JUDGMENT OF THIS APEX HON’BLE COURT DATED 08-06-2010. 
+
+Mr. 
+
+Ehsan Ali Advocate for the petitioner. 
+
+Mr. 
+
+Javed Iqbal Advocate for the respondent. 
+
+Dated of Hearing:- 11-10-2010. 
+
+ORDER The learned counsel appearing on behalf of respondent (M.D. 
+
+NATCO0 has placed a copy of Office Order dated 8th Oct. 2010 (Mark “A”) regarding the implementation of the judgment of this court passed on 08-06-2010 in CPLA. 
+
+No 2/2010 with direction for payment of the dues of petitioner from the date of his removal from service. 
+
+The petitioner states that this grievance has been redressed and he is no more interested to pursue this contempt application, which is accordingly disposed of with the direction that dues of the petitioner shall be paid without any further delay. 
+
+Disposed of. 
+
+Chief Judge Judge

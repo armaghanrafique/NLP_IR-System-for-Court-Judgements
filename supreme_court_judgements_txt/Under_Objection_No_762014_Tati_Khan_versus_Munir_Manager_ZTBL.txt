@@ -1,0 +1,42 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Under_Objection_No_762014_Tati_Khan_versus_Munir_Manager_ZTBL.pdf
+CONVERSION DATE: 2025-12-23 19:37:07
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 75
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Under Objection No. 76/2014. 
+
+Tati Khan Petitioner. 
+
+Versus Munir Manager ZTBL & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Amjad Hussain Advocate for the petitioner. 
+
+ORDER DATED: - 07.06.2016. 
+
+The learned counsel for the petitioner submits that this case has been decided by the learned Trial Court and consequently the petition has become infructuous. 
+
+The petition is disposed off being infructuous. 
+
+Chief Judge. 
+
+Judge.

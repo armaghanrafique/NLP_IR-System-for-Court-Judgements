@@ -1,0 +1,77 @@
+{
+  "conversion_report": {
+    "timestamp": "2025-12-23T19:37:16.568557",
+    "pdf_folder": "C:\\Users\\Armaghan Rafique\\Desktop\\AI Project\\supreme_court_judgements",
+    "txt_folder": "C:\\Users\\Armaghan Rafique\\Desktop\\AI Project\\supreme_court_judgements_txt",
+    "statistics": {
+      "total_pdfs": 1474,
+      "successful": 1460,
+      "failed": 14,
+      "total_words": 2244017,
+      "total_pages": 8419,
+      "failed_files": [
+        {
+          "pdf_name": "1113.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "2025LHC7284.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "245.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "284.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "3079.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "728-16.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "Civil_Procedure_amendments_civil_procedure_1908.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "Civil_Procedure_amendments_civil_procedure_1908_1.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "Cr_Appeal_No_212017_in_Cr_PLA_No_362017_NAB_20versus_20Mohd_20Ali_20Yogvi_20__20others.pdf",
+          "error": "pdfplumber extraction failed: Unexpected EOF"
+        },
+        {
+          "pdf_name": "National_Accountability_Bureau_Versus_Muhammad_Ali_NAB_20versus_20Mohd_20Ali_20Yogvi_20__20others.pdf",
+          "error": "pdfplumber extraction failed: Unexpected EOF"
+        },
+        {
+          "pdf_name": "No_text_crl.p._106_2023.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "No_text_j.p._704_2017.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "No_text_j.p._872_2017.pdf",
+          "error": "No text could be extracted from the PDF"
+        },
+        {
+          "pdf_name": "combile1130.pdf",
+          "error": "No text could be extracted from the PDF"
+        }
+      ]
+    },
+    "system_info": {
+      "python_version": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+      "platform": "win32",
+      "current_directory": "C:\\Users\\Armaghan Rafique"
+    }
+  }
+}

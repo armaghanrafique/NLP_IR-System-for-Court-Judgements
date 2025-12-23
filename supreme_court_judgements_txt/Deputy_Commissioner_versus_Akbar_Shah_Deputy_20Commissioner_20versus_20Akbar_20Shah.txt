@@ -1,0 +1,50 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Deputy_Commissioner_versus_Akbar_Shah_Deputy_20Commissioner_20versus_20Akbar_20Shah.pdf
+CONVERSION DATE: 2025-12-23 19:34:48
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 141
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+UNDER OBJECTION No. 13/2015. 
+
+Deputy Commissioner/ Collector District Hunza & 04 others. 
+
+PETITIONERS /APPELLANTS. 
+
+VERSUS Akber Shah & 162 Others RESPONDENT S. 
+
+Present: - The Advocate General Gilgit -Baltistan, Gilgit. 
+
+ORDER DATED: - 06-10-2015. 
+
+This petition for leave to appeal is barred by time for a period of 01 year 09 months and 21 days. 
+
+No application for condonation of delay has been preferred by the Advocate -on-Record in the case in hand. 
+
+In view of the above and the law laid down by t he apex Court of Pakistan in cases reported as 1990 SCMR 1377, 1991 SCMR 1022, 1998 SCMR 292 and 1998 SCMR 1087, even one day unexplained delay was not condoned. 
+
+The leave is refused being time barred. 
+
+Chief Judge. 
+
+Judge.
+
+============================================================
+PAGE 2
+============================================================
+
+

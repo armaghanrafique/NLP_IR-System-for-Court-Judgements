@@ -1,0 +1,330 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Clean_Drinking_water_Clean_20Drinking_20water.pdf
+CONVERSION DATE: 2025-12-23 19:34:05
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 10
+ESTIMATED WORD COUNT: 1,783
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN AT REGISTRY BRANCH SKARDU. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Muzaffar Ali, Judge. 
+
+SMC No.03/2009 (CLEAN DRINKING WATER AT SKARDU). 
+
+Present: - 1. 
+
+The Advocate General Gilgit Baltistan. 2. 
+
+Mr. 
+
+Shaukat Ali Sr. 
+
+Advocate on behalf of Pakistan Tourism Development Corporation (PTDC) Hotel Skardu. 3. 
+
+Mr. 
+
+Muhammad Issa Sr. 
+
+Advocate for Lake View Hotel. 4. 
+
+The Assistant Commissioner Skardu. 5. 
+
+The Director Environmental Protection Agency ( EPA) Gilgit Baltistan. 6. 
+
+The Project Director alongwith XEN Water & Power Development Authority, (WAPDA) Baltistan Region. 7. 
+
+The Executive Engineer, Public Health Engineering (PHE), Skardu. 
+
+DATE OF HEARING: - 19-11-2015. 
+
+Dr. 
+
+Rana Muhammad Shamim, CJ……… In pursuance of the order of this court dated 17.11.2015, a committee was constituted to submit its report alongwith recommendations to resolve the issue of provision of clean drinking water to the inhabitants of Skardu City. 
+
+The said report has been submi tted today which is reproduced as under: - “Report on Clean Drinking Water Supply System in Skardu Town.
+
+============================================================
+PAGE 2
+============================================================
+
+During the proceedings of Suo Moto Case No. 
+
+SMC No. 03/2009 titled “Clean Drinking Water in Skardu” on November 17th 2015 at Supreme Appellate Court Skardu Registry, the honorable court desired following officials of different departments to conduct a filed visit of the area and present a report. 
+
+In compliance to the orders of this Apex Court, following official initial ly held a meeting in the Court premises and detailed the issues of the subject case: I. 
+
+Mr. 
+
+Muhammad Azam, Registrar, Supreme Appellate Court GB. 
+
+II. 
+
+Mr. 
+
+Sher Madad Khan, Advocate General GB. 
+
+III. 
+
+Mr. 
+
+Wazir Muhammad Tajwar, Chief Engineer, Works Department Baltistan. 
+
+IV. 
+
+Mr. 
+
+Musa Raza, Deputy Commissioner, Skardu. 
+
+V. 
+
+Mr. 
+
+Shahzad Hasan Shi gri, Director, GB Environmental Protection Agency. 
+
+VI. 
+
+Mr. 
+
+Abdul Rasheed Awan, Manager PTDC Baltistan Region. 
+
+VII. 
+
+Shaukat Ali Sr. 
+
+Advocate Supreme Appellate Court GB. 
+
+VIII. 
+
+Mr. 
+
+Johar Ali, Additional Chief Engineer, WAPDA, Skardu. 
+
+During the meeting it was decided to cover the subject issue in following three scenarios: - 1. 
+
+Drinking Water Quality Skardu City. 2. 
+
+Satpara Dam and PTDC Motel. 3. 
+
+Issues and Solutions Upstream Satpara Dam. 
+
+The team first visited both water supply complexes (upper and lower), the Chief Engineer briefed the team members regarding the quality and quantity of drinking water, the treatment system and the water quality testing laboratory present at the water supply complex. 
+
+The main i ntake system of water supply was also visited and inspected, then the team moved to main Dam area and PTDC Hotel at Dam site. 
+
+The officials present at the site deliberated on the issues of PTDC and the upstream area (Satpara Village and watershed). 
+
+Followi ng recommendations were made: - 1. 
+
+Drinking Water Quality Skardu City. 
+
+I. 
+
+The main upper water supply complex (Capacity of 2 million Gallons) need strengthening through provision of water quality testing equipment (Wagtech) to the laboratory by works department. 
+
+II. 
+
+The works department will ensure the operation of the water supply complex in accordance with the standard practices and
+
+============================================================
+PAGE 3
+============================================================
+
+GB-EPA will monitor the water quality on monthly basis and submit reports accordingly. 
+
+III. 
+
+PHE Skardu and District Administr ation Skardu shall cut the water supply lines of all vehicle service stations in Skardu Town in one month. 
+
+IV. 
+
+PHE District Skardu will install 35 more filtration plants in Skardu Town (initiate PC -1 for within a year) and sites will jointly by selected by a committee comprising of following: a. 
+
+District Administration Skardu. b. 
+
+Representative of Chief Engineer Baltistan Division. c. 
+
+GB-EPA. 2. 
+
+Satpara Dam and PTDC Motel. 1. 
+
+According to the Orders passed by the Supreme Appellate Court on May 28th 2015, PTDC Motel management has constructed wastewater treatment system according to the approved design and arrangements were made to uplift and reuse the partially treated water for landscaping as suggested by EPA. 
+
+The team has assigned the following tw o tasks. a. 
+
+The PTDC management at Satpara will be responsible to operate the system in accordance with best environmental practices such that no sewerage shall spillover or ingress in the dam water. 
+
+The treatment system shall be operated to the levels of irrigation water standards and be used for landscaping. b. 
+
+EPA GB will regularly monitor the operation of the treatment system and issue and renew the certification of PTDC. 3. 
+
+Issues and Solutions Upstream Satpara Dam. 
+
+Satpara valley has seven villages with scattered population. 
+
+People normally use the traditional soak pit type latrines (Chaksa). 
+
+The scattered population and use of traditional latrines make it not feasible for establishment of an integrated wastewater treatment system. 
+
+However, the team has suggested measures to control drinking water contamination upstream the dam. 
+
+Forest department Skardu has initiated a development project titled “Satpara Dam Watershed Management” at cost of Rs. 50.00 millions. 
+
+The project wa s presented in the last DDWP meeting held under the Secretary, Planning and Development Department. 
+
+As member of DDWP, the director GB -EPA has suggested to link the objectives of the project with the subject case and incorporate the following.
+
+============================================================
+PAGE 4
+============================================================
+
+I. 
+
+Establish V illage Organizations in each village under an umbrella NGO) Satpara Development Organization) and provide resources, trainings, awareness and sustainability mechanism to refrain people from washing clothes in the main Satpara Nullah and its tributaries. 
+
+Th e people will also be educated to keep away their cattle from the clean drinking water sources. 
+
+II. 
+
+Provide bioengineering techniques form slope stabilization and soil erosion for protection of water quality. 
+
+III. 
+
+Construct check dams and other infrastructure to protect the Satpara watershed. 
+
+IV. 
+
+Works Department will initiate feasibility study (PC -II) for establishment of mini sewerage treatment plant at Satpara Village to protect water from contamination”. -Sd- Johar Ali, Additional Chief Engineer, WAPDA, Sakrdu -Sd- Abdul Rasheed Awan, Manager PTDC Baltistan Region -Sd- Shahzad Hasan Shigri, Director GB Environmental Protection Agency -Sd- Shaukat Ali, Sr. 
+
+Advocate Supreme Appellate Court GB -Sd- Wazir Muhammad Tajwar, Chief Engineer Works Department Baltistan -Sd- Sher Madad Khan Advocate General GB -Sd- Musa Raza, Deputy Commissioner Skardu -Sd- Muhammad Azam, Registrar Supreme Appellate Court GB. ” After going through the above report, we hold as under: 1. 
+
+Drinking Water Quality Skardu City I. 
+
+The main upper water supply complex (Capacity 2 million Gallons) need strengthening through provision of water quality testing equipment (Wagtech) to the laboratory to be undertaken by the works department.
+
+============================================================
+PAGE 5
+============================================================
+
+II. 
+
+The works department should ensure the operation of the water supply complex in accordance with the standard practices and G ilgit-Baltistan Environmental Protection Agency (GBEPA) must monitor the water quality on monthly basis and s ubmit reports to the Registrar of this Court accordingly. 
+
+III. 
+
+The Public Health Engineering Department, Skardu and District Administration Skardu shall cut the Water Supply Lines of all Vehicle Service Stations in Skardu Town in one month. 
+
+IV. 
+
+The Public Health En gineering Department District Skardu should install 35 more Filtration Plants in Skardu Town and should initiate PC -I for immediate installation of Filtration Plants and installation of 35 Plants should be completed within one year. 
+
+We direct that the sites should jointly be selected by a committee comprising of following; a. 
+
+District Administration Skardu. b. 
+
+Representative of Chief Engineer Baltistan Division. c. 
+
+GB-Environmental Protection Agency.
+
+============================================================
+PAGE 6
+============================================================
+
+V. 
+
+If required, additional Filtration Plants should be installed in the City in the second phase to cover the requirement of the entire population of Skardu. 
+
+VI. 
+
+A mechanism may be devised wherein a proper maintenance of these Filtration Plants should be ensured after their installation. 
+
+Unlike Gilgit where reportedly after installation of filtration plants proper maintenance has not been carried out by the concerned authorities. 2. 
+
+Pakistan Tourism Development Corporation (PTDC) Motel at Satpara Dam. 
+
+I. 
+
+As P akistan Tourism Development Corporation (PTDC) has already constructed wastewater treatment system according to the approved design and arrangements have been made to uplift and re -use the partially treated water for landscaping as suggested by E nvironmental Protec tion Agency (EPA). 
+
+We, therefore, direct Pakistan Tourism Development Corporation (PTDC) Motel should be made operational at the earliest with the following condition: a. 
+
+The P akistan Tourism Development Corporation (PTDC), management at Satpara will be res ponsible to
+
+============================================================
+PAGE 7
+============================================================
+
+operate the system in accordance with best environmental practices such that no sewerage shall spillover or ingress in the reservoir. 
+
+The treatment system should be operated to the levels of irrigation water standards and be used for landscapin g. b. 
+
+Environmental Protection Agency ( EPA) Gilgit -Baltistan is directed to regularly monitor the op eration of the treatment system, issue and renew the certification of Pakistan Tourism Development Corporation (PTDC) annually. 3. 
+
+Issues and Solutions of Upstream Satpara Dam As Satpara valley has seven villages with scattered population and people are normally using the traditional soak pit type latrines (Chaksa). 
+
+The scattered population and use of traditional latrines make it not feasible for establishment of an integrated wastewater treatment system. 
+
+We, t herefore, hold that the following measures should be adopted to control drinking water contamination upstream the dam.
+
+============================================================
+PAGE 8
+============================================================
+
+a. 
+
+The project already initiated by Forest Department Titled “Satpara Dam Watershed Management” and is under consideration of DDWP should be expedited and recommendation of Environmental Protection Agency must be incorporated in this project. b. 
+
+The Administration should establish Village Organizations in each village under an umbrella of Non Governmental Organization (NGO) (Satpara Development Organization) and provide resources, trainings, awareness and sustainability mechanism to refrain people from washing clothes in the main Satpara Nullah and its tributaries. 
+
+The people should also be educated to keep away their cattle from the clean drinking water sources. c. 
+
+The Forest Department, Wor ks Department and Environmental Protection Agency should provide bioengineering techniques for slope stabilization and soil erosion fo r protection of water quality. d. 
+
+Check dams and other infrastructure should be constructed to protect the Satpara Dam watershed.
+
+============================================================
+PAGE 9
+============================================================
+
+e. 
+
+Works Department should initiate feasibility study (PC -II) for establishment of mini sewerage treatment plant at Satpara Village to protect water from contaminat ion. 
+
+The direction s given hereinabove on the recommendations of the learned committee be implemented and completed expeditiously within a period of one year positively. 
+
+The monthly progress report be submitted by the Distr ict Administration, Skardu to the learned Registrar of this Court without fail. 
+
+The copies of this order be sent to all members of the learned committee for information and compliance. 
+
+This Suo Moto case is disposed off in above terms. 
+
+Chief Judge. 
+
+Judge. 
+
+Whether the case is fit to be reported or not?
+
+============================================================
+PAGE 10
+============================================================
+
+

@@ -1,0 +1,50 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: C_MiscNo_692015_in_CPLA_No_122015_Shahbaz_Khan_VS_Provincail_Govt.___Other.pdf
+CONVERSION DATE: 2025-12-23 19:33:28
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 92
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge in Chamber. 
+
+C.Misc.No. 69/2015 in CPLA. 
+
+No. 12/2015. 
+
+Shahbaz Khan Petitioner. 
+
+Versus Provincial Government & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Malik Shafqat Wali Senior Advocate for the petitioner. 
+
+ORDER DATED: - 10-03-2016. 
+
+The learned counsel for the petitioner through the application bearing Civil Misc No. 69/2015, seeks permission to unconditionally withdraw t he CPLA No. 12/2015. 
+
+The request is allowed. 
+
+The CPLA No. 12/2015 is dismissed as withdrawn. 
+
+Chief Judge.

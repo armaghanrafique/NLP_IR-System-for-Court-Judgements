@@ -1,0 +1,400 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Cr_Appeal_No_032011_in_CrPLA_No_102010_Naveed_Hussain_versus_the_State.pdf
+CONVERSION DATE: 2025-12-23 19:34:18
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 14
+ESTIMATED WORD COUNT: 3,485
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Cr. 
+
+Appeal No. 03/2011 in Cr.PLA. 
+
+No. 10/2010. 
+
+Naveed Hussain son of Fida Ali r/o Bargo Bala at Present District Jail Gilgit. 
+
+Petitioner. 
+
+Versus The State Respondent. 
+
+CHARGE UNDER SECTION 302/109 PPC READ WITH SECTION 6/7 ATA VIDE FIR NO. 163/2006 DATED 24.06. 2006 AND FIR NO. 97/2006 DATED 01.08.2006 UNDER SECTION A.O. 
+
+OF POLICE STATION CITY GILGIT. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Johar Ali Khan Advocate alongwith Mr. 
+
+Amjad Hussain Advocate for the petitioner. 2. 
+
+The Advocate General Gilgit -Baltistan on behalf of the respondent. 
+
+DATE OF HEARING: - 15.06.2016. 
+
+DATE OF DETAIL JUDGMENT: -28. 06.2016. 
+
+JUDGMENT. 
+
+Dr. 
+
+Rana Muhammad Shamim, CJ..... 1. 
+
+This petition has been directed against the impugned judgment dated 19.10.2010 in Criminal Appeal No. 17/2009, passed by the learned Chief Court Gilgit -Baltistan wherein the Criminal Appeal of the petitioner against the capital sentence awarded to the present petitioner by the learned Trial Court was dismissed and the judgment dated 31.08.2009 passed by the learned Trial Court was maintained, hence, this petition for leave to appeal.
+
+============================================================
+PAGE 2
+============================================================
+
+2 2. 
+
+The brief facts of the case are that complainant Haji Doulat Karim IP/SHO Police Station City Gilgit has lodged FIR No. 163/2006 under Section 302 PPC and Section 6/7 Anti -Terrorism Act, 199 7 on 24.06.2006, wherein the SHO stated that “today on 24.06.2006 at about 1910 hour s through Wal ki Talki an information was received that Mr. 
+
+Jamsheed Khan Judge, Anti Terrorism Court Northern Areas, Gilgit has been injured by Pistol fire, while he was walking in City Park. 
+
+On receiving this information, the complainant alongwith Police personnel immediately reached at the place of occurrence (City Park). 
+
+The injur ed was taken to DHQ Hospital Gilgit before the arrival of complainant. 
+
+On complainant inspection of the place of occurrence, the complainan t found two empty shells of 30 - Bore on the Southern side of the City Park near water channel, which was handed over o n arrival of DSP Sultan Azam Incharge investigation Wing and his subordinates through recovery memo. 
+
+The complainant deputed police personnel cordon off the area to search out of the accused. 
+
+In the meanwhile the complainant received information that Judge has been succumbed in Hospital due to bullet injuries. 3. 
+
+After completion of the investigation, challan of the case against accused Naveed Hussain and Sultan Ali was
+
+============================================================
+PAGE 3
+============================================================
+
+3 submitted in the court on 04.09.2006. 
+
+The accused/respondent Naveed Hussain and Sultan Ali were formally charged, on 11.12.2007, which are reproduced hereunder: - IN THE COURT OF JUDGE ANTI -TERRORISM COURT NORTHERN AREAS GILGIT. 
+
+T.C. 
+
+No. 15/2006. 
+
+Case FIR No. 163/06 dated 24.06.2006 under Section 302/109, read with Section 6/7 ATA of Police Station City Gilgit. 
+
+The State Versus 1. 
+
+Naveed Hussain s/o Fida Ali 2. 
+
+Sultan Ali s/o Rehmat Nabi R/o Bargo Bala, Gilgit. 
+
+Accused. 
+
+CHARGE. 
+
+I Muhammad Aqeel Judge Anti -Terrorism Court Northern Areas Gilgit do hereby charge you accused Sultan Ali s/o Rehmat Nabi r/o Bargo Bala that during your duty as Head Warder Sub Jail Jutial, you abetted to commit murder of late Muhammad Jamsheed Khan Judge ATC Northern Areas Gilgit during your duty as Head Warder Sub Jail Jutial to let go the under gone accused Naveed Hussain at 1000 hours 24.06.2006 who was in judicial lockup, whereby you accused Naveed Hussain s/o Fida Ali r/o Bargo Bala, on 24.06.2006 at 1910 hours you opened fire at the deceased ATC Judge in City Park Gilgit and killed him. 
+
+After commission of the offence you run away from the place occurrence and entered into the Sub Jail premises in connivance of Head Warder Sultan Ali. 
+
+Thus you accused have committed an offence punishable under Section 302/109 PPC read with Section 6/7 ATA. 
+
+The charges under the above offences are within the cognizance of this Court. 
+
+I hereby direct you to be tried on the said charge. -Sd- JUDGE ANTI TERRORISM COURT NORTHERN AREAS GILGIT. 
+
+The Charges read over and explained to the accused in their own lang uage and is questioned as under: - Q.1. 
+
+Do you understand the charge against you? Ans: Yes. 
+
+Q.2. 
+
+Do you plead guilty? Ans: No, I am innocent and claim trial. 
+
+Q.3. 
+
+Will you produce defense evidence? Ans: Yes, as and when required. 
+
+Naveed Hussain._________________
+
+============================================================
+PAGE 4
+============================================================
+
+4 Sultan Ali. _______________________ Certified U/S 364 Cr.PC Dated: - 11.12.2007 -Sd- JUDGE ANTI TERRORISM COURT NORTHERN AREAS GILGIT. 
+
+IN THE COURT OF JUDGE ANTI -TERRORISM COURT NORTHERN AREAS GILGIT. 
+
+T.C. 
+
+No. 15/2006. 
+
+Case FIR No. 97/06 dated 01.08.2006 under Section 13 AO r/w Section 6/7 ATA of Police Station Cant Gilgit. 
+
+The State Versus 1. 
+
+Naveed Hussain s/o Fida Ali Accused. 
+
+CHARGE. 
+
+I Muhammad Aqeel Judge Anti -Terror ism Court Northern Areas Gilgit do hereby charge you accused Naveed Hussain that during the investigation of main case FIR No. 163/06 of Police Station City Gilgit, on your pointation the Police recovered a 30 bore Pistol as weapon of offence alongwith two live cartridges near Public School and College Jutial, for which you could not produce license. 
+
+Thus you have committed an offence punishable under Section 13-B AO r/w Section 6/7 ATA within the cognizance of this Court. 
+
+I hereby direct you to be tried on the said charge. -Sd- JUDGE ANTI TERRORISM COURT NORTHERN AREAS GILGIT. 
+
+The Charges read over and explained to the accused in their own language and is questioned as under: - Q.1. 
+
+Do you understand the charge against you? Ans: Yes. 
+
+Q.2. 
+
+Do you ple ad guilty? Ans: No, I am innocent and claim trial. 
+
+Q.3. 
+
+Will you produce defense evidence? Ans: Yes, as and when required. 
+
+Naveed Hussain._________________ Certified U/S 364 Cr.PC Dated: - 11.12.2007 -Sd- JUDGE ANTI TERRORISM COURT NORTHERN AREAS GILGIT.
+
+============================================================
+PAGE 5
+============================================================
+
+5 Both the accused pleaded not guilty and claimed trial. 
+
+The prosecution to prove their case against the accused produced and examined 28 PWs and also produced Arms Expert’s Report ExPW -28/G, Chemical Examiner’s Report ExPW /A an d Post Mortem Report ExPW - 11/A. 
+
+After the close of the prosecution evidence the accused were examined under Section 342 Cr.P.C. 
+
+Both the accused had denied recording their statements under Section 340 (2) Cr.P.C and they did not produce any defence evidence in support of their defence. 4. 
+
+The learned Trial Court after appraising the evidenc e, hearing the learned Public Prosecutor and learned defence counsel and on proven guilty against both the accused, however, only Naveed Hussain was convicted whereas co-accused Sultan Ali was acquitted by giving him benefits of doubt inspite of the fact that it was established that the convicted accused Naveed Hussain got released/escaped from Sub Jail Jutial Gilgit on 24.06.2006 by the PW -12 Abbas Ali on the directive s of co - accused Sultan Ali. 
+
+The learned Trial Court has also observed that in the light of the said statement accused Sultan Ali is fully involved in escapin g of convict accused Naveed Hussain from Sub Jail Jutial Gilgit for which he is already facing trial in the above mentioned criminal case before the court Judicial Magistrate Gilgit. 
+
+The confessional statement of PW -12 Abbas Ali
+
+============================================================
+PAGE 6
+============================================================
+
+6 was recorded under Section 164 Cr.P.C by the learned Judicial Magistrate Gilgit which was subsequently corroborated in the learned Trial Court by the said Judicial Magistrate. 
+
+Since co - accused Sultan Ali was also charged under Section 342, 109 Cr.P.C read with 6/7 Anti -Terrorism Act, 1997 and on proven guilty he was also required to be convicted/punished in accordance with law. 
+
+It appears that the State has not filed appeal against the acquittal of co -accused Sultan Ali for the best reason known to them. 
+
+This aspect of the case has also been slipped away from the First Appellate Court as well. 
+
+Any person who committed, abetted or share d common intention in committing of an offence of murder cannot be let free in circumstances. 
+
+The learned Trial Court on proven guilty has convic ted the accused Naveed Hussain under Section 302/109 PPC read with Section 6/7 and 13 Armed Ordinance. 
+
+The operative part of judgment of the learned Trial Court is hereby reproduced as below: - “Quote” “In the light of the above discussions, I hold that the prosecution has proved guilty of the accused Naveed Hussain for murder of accused Judge Jamsheed Khan, hence, I hereby convict the accused Naveed Hussain under Section 302 (B) PPC read with Section 7 ( a) of The Anti - Terrorist Act, 1997 and sentence him to death. 
+
+He be hanged by his neck till he be dead. 
+
+The accused shall pay Rs. 300,000/ - (Rupees three hundred thousand only) as compensation to the L.Rs of the deceased Judge Jamsheed
+
+============================================================
+PAGE 7
+============================================================
+
+7 Khan under Section 544 -A Cr.P.C. in default of payment of compensation by the convict/accused he shall be further undergo Rigorous Imprisonment for two years. 
+
+Accused Naveed Hussain is also convict under Section 13 (d) Arms Ordinance 1965 and sentence him to Rigorous Imprisonment for seven years. 
+
+Convict /accused declared entitled to the benefits of Section 382 Cr.P.C. 
+
+The weapons of offence recovered from the convict accused, is hereby confiscated in favor of the State ”. “Unquote” 5. 
+
+Mr. 
+
+Johar Ali Khan Advocate alongwith Mr. 
+
+Amjad Hussain Advocate learned counsel s for the petitioner Submit that the motive is not sufficient to prove to the offence allegedly committed by the petitioner. 
+
+They also submit that the recovery of weapon of offence is not pr oved. 
+
+The recovery of the weapon of offence was made in violation of Section 103 Cr.P.C. as no independent and impartial witnesses of locality have been associated to witness the search and recovery. 
+
+Both the witnesses of recovery are police officials and it would be unsafe to record conviction on such evidence. 
+
+They further submit that the Arms Expert’s Report is not admissible as the recovery of the weapon of offence has not been proved. 
+
+The statements of PWs namely Shafqat Hussain, Sohail Mustafa, Ghulam Hussain, Sher Khan and Abbas Ali recorded by the Judicial Magistrate Gilgit have been declared hostile as such their evidence cannot be used against accused. 
+
+The learned counsel s further sub mit that the identification parade of accused is not proved as the witnesses of the said identification parade have been declared hostile by the
+
+============================================================
+PAGE 8
+============================================================
+
+8 then Public Prosecutor. 
+
+The identification is not legally proved as accused Naveed Hussain was in handcuff at t he time of identification parade and there is no certificate in column No. 5 thereto in the identification memo. 
+
+They also submit that there are material contradictions in the statements of PW -5 and PW - 28. 
+
+There is no evidence against accused Naveed Hussai n and the video Cassette is not proved against accused Naveed Hussain. 
+
+The confessional statement of accused Naveed Hussain recorded under Section 21 -H of the Anti -Terrorist Act 1997 is not admissible. 
+
+They further submit that the Jail authorities have not lodged any FIR against Sultan Ali being Warder of the Sub Jail Jutial Gilgit. 
+
+They further submit that t here was no evidence available on record against Sultan Ali. 
+
+They further argued that the accused Sultan Ali was on duty on 24.06.2009 from 9.00 am to 12.00 p.m, whereas Warder Aslam was on duty on the same day from 12.00 p.m to 3.00 p.m, but in his place Abbas Ali Warder was on duty as Wader Aslam was ill. 
+
+They further contend that Ajab Khan Warder was on duty from 3.00 p.m to 6.00 p.m, Ghulam Haide r was on duty on the same day from 6.00 p.m to 9.00 p.m. 
+
+They also submit that as per statement of PW-25 Ghulam Haider the accused Naveed Hussain was in his custody and the statement of PW -25 and PW -24 Muhammad Afzal are fully corroborated with each other contrary to the statement of PW -12 Abbas Ali Warder on the direction of accused Sultan Ali Warder, who allegedly set free accused Naveed
+
+============================================================
+PAGE 9
+============================================================
+
+9 Hussain. 
+
+They finally submit that the accused Naveed Hussain may be acquitted by giving him benefit of doubt as awarded to co-accused Sultan Ali to meet the ends of justice. 
+
+While saying so they relied upon the case laws reported as 2006 P.Cr.LJ 1671 (Quetta), 2006 P.Cr.LJ 1693 (N.A Chief Court), NLR 1999 Criminal 217, NLR1999 Criminal 233, NLR 1983 Criminal 402, NLR 1983 Criminal 407, 2010 GBLR 249, 1982 P.Cr.LJ 720, 1982 P.Cr.LJ 724, (Lahore), 1982 P.Cr.LJ 635, (Lahore), 1982 P.Cr.LJ 642 (Lahore), PLD 1989 SC 20, 1982 P.Cr.LJ 635 (Lahore), 1982 P.Cr.LJ 642 (Lahore), PLD 1963 (W.P) Peshawar 161, 1996 P.Cr.LJ 528 (Karachi), 2010 GBLR 256 (SAC). 6. 
+
+On the other hand t he learned Advocate General appearing on behalf of the State submits that during the investigation on 25.07.2006 the identification parade of accused Naveed Hussain was conducted by Mr. 
+
+Momin Jan (PW -5) the then learned Magistrate 1st Class Gilgit, wherein the witnesses have identified the accused. 
+
+He further contends that on 26.07.2007 Mr. 
+
+Mushtaq Muhammad (PW -6) and Miss Amina (PW-9) Judicial Magistrates Gilgit have recorded the confessional statements of wit nesses namely Shafqat Hussain, Sohail Mustafa, Ghulam Hussain, Sher Khan and Abbas Ali. 
+
+The said PWs have admitted in their cross examination regarding their statements and its contents recorded by the judicial Magistrates. 
+
+He further contends that the SP, Gilgit has recorded the confessional statement of accused Naveed Hussain under Section
+
+============================================================
+PAGE 10
+============================================================
+
+10 21-H of the Anti -Terrorist Act, 1997. 
+
+He further contends that all the PWs namely PW -5 Momin Jan, PW -6 Mushtaq Muhammad Judicial Magistrate Gilgit, PW -7 Naeemullah Baig, PW -8 Jamil Ahmed, PW -9 Miss Amina Zameer, PW -10 Arshad Ahmed, Pw -11 Dr. 
+
+Ghulab Shah, PW -13 Ejaz, PW -14 Muhammad Wali, PW -20 HC Abdul Baqi, PW -21 FC Noor Alam, PW -22 Haji Doulat Karim, PW-23 Muhammad Jalil, Pw -24 Muhammad Afzal, PW -26 IP Ali Haider, PW -27 SIP Muhammad Izzat and PW -28 Abd -us-Saeed fully supported the prosecution story and authenticated the prosecution version. 
+
+The learned Advocate General further contends that recovery of weap on of offence has been affected from the accused on his pointation in presence of PW -20 and PW-21 and the same is also verified by the Investigation Officer (I.O) PW -28. 
+
+He further contends that accused Naveed Hussain was awarded punishment for a period of 07 years by the then deceased Judge on 26.05.2006 as such the accused to take revenge has committed the murder of the then Judge Jamsheed Alam Jadoon on 24.06.2006 in pre -planned manner with active connivance and abetment of his co -accused Sultan Ali. 
+
+The petitioner has also admitted the fact in his statement recorded under Section 342 Cr.P.C. 
+
+He further contends that the Post Mortem Report, Arms Expert’s Report and Chemical examiner’s report were positive and corroborative in nature. 
+
+He also contends that the accused is a habitual offender and there is another criminal case registered against him under Section 302
+
+============================================================
+PAGE 11
+============================================================
+
+11 PPC and 6/7 of the Anti -Terrorist Act, 1997 vide FIR No. 396/2005, which is pending adjudication before the learned Trial Court. 
+
+He further cont ends that the video Cassette also support s the version of the prosecution, as only one person is opening fire on deceased. 
+
+He further contends that the statement once recorded under Section 164 Cr.P.C read with Section 364 Cr.PC would be considered genuine as prov ided under Section 244 -A Cr.P.C. 
+
+The action taken under Section 193 PPC against the hostile PWs was under way which has also strength ened the prosecution case. 7. 
+
+The learned Advocate General further contends that the co -accused was present on dut y on 24.06.2006 from 9.00 am to 12.00 p.m and also on 25.06.2006 from 12.00 p.m to 3.00 p.m which has been proved vide duty reg ister, during this period he let off accused Naveed Hussain. 
+
+The Record Register is enough proof against the accused in terms of Article 49 of the Qanoon -e- Shahadat Order 1984. 
+
+He further contends that the site plan is also prepared on the pointation of accused Naveed Hussain, which is verified by the PW -28 Abd -us-Saeed. 
+
+He further contends that during the course of arguments of th e case after and going through the confessional statement of Naveed Hussain recorded under Section 21 -H of the Anti Terrorism Act, 1997, he admitted the commission of murder in a pre -planned manners of the then Judge Jamsheed Alam Jadoon when the deceased was walking in the City Park Gilgit. 
+
+He further submits that the
+
+============================================================
+PAGE 12
+============================================================
+
+12 accused Naveed Hussain has committed intentional murder of the deceased Judge in a pre -planned manner to take revenge from him the petitioner was convicted & punished by the deceased Judge in an another case. 
+
+He contends that Police witnesses are competent witnesses as held by the Hon’ble Apex Court of Pakistan in a reported case i.e. 2003 SCMR 573. 
+
+He also submits that the learned Trial Court has rightly convicted accused Naveed Hussain and sentenced him to death in accordance with law which was subsequently upheld by the learned Chief Court. 
+
+He submits that the same is required to be maintained and no interference is warranted into the said judgments passed b y both the courts below. 
+
+In support of the above contentions he relied upon the case laws i.e. 
+
+Noor Elahi versus the State reported as (2000 P.Cr.LJ 11), Muhammad Zaman versus the State reported as (2007 SCMR 813), Muhammad Amin versus the State reported as (PLD 2006 SC 219), Abdu Razak Rathor versus the State reported as (PLD 1992 Karachi 39) and Sajjad Ali & 03 others versus the State reported as (PLD 2005 Karachi 213). 8. 
+
+We have heard the learned counsels for the respective parties at length, gone through the concurrent findings of both the co urts below and after appraising/ evaluating the entire evidence on record and going through the case law, in our considered view the prosecution has successfully proved its case against the petitioner and his co -accused Sultan Ali (acquitted)
+
+============================================================
+PAGE 13
+============================================================
+
+13 beyond any shadow of doubt. 
+
+Further the learned counsels for the petitioner could not point out any illegality and infirmity in both the impugned judgments passed by the courts below to the extent of petitioner. 
+
+The case laws cited by the learned counsels for the petitioner are distinguishable whereas the case laws relied by the learned Advocate General are applicable. 9. 
+
+In view of the above discussions, we converted this petition into an appeal and the s ame was dismissed vide our short orde r dated 15.06.2016. 
+
+Consequent thereto, the impugned judgment dated 19.10.2010 in Criminal Appeal No. 17/2009, passed by the learned Chief Court as well as the judgment dated 31.08.2009 in TC No. 15/2006 and TC No. 16/2 006 passed by the learned Trial Court are maintained to the extent of petitioner Naveed Hussain. 
+
+The murder reference sent by the learned Administrative Judge, Anti -Terrorism Court No. 01 Gilgit - Baltistan under provisions of Section 374 Cr. 
+
+PC read with Section 25 of the Anti -Terrorism Act was confirmed by the learned Gilgit -Baltistan Chief Court is also upheld. 
+
+The learned Trial Court is directed to execute its judgment/order dated 31.08.2010 in accordance with law. 10. 
+
+We, however, to meet the end s of justice and material evidence on record, issue show cause notice to acquitted accused Sultan Ali son of Rehmat Nabi of Warder Sub Jail Jutial Gilgit R/O Bargo Bala District Gilgit for his appearance in person or
+
+============================================================
+PAGE 14
+============================================================
+
+14 -through his duly briefed counsel on 09.07.2016 as to why he be not convicted and sentenced in the said case in accordance with law. 
+
+Notice be also issued to the learned Advocate General Gilgit - Baltistan for his appearance on 09.07.2016. 11. 
+
+The learned Superintendent Adiala Jail Rawalpindi is directed to keep the convict /accused in death cell till further orders/directives of the learned Anti -Terrorism Court Gilgit. 
+
+The copies of this order be sent to the learned Superintendent Adiala Jail Rawalpindi, SSP, CCPO & RPO Rawalpindi, the learned Secretary Home, Government of Punjab, the learned Advocate General Gilgit -Baltistan and the learned Home Secretary Government of Gilgit -Baltistan for the implementation of the judgment and strict compliance of the or der/directives thereto, of this court, in its letters & spirits. 
+
+These were the reasons for our short order dated 15.06.2016. 13. 
+
+The appeal is dismissed in above terms. 
+
+The case of co-accused Sultan Ali be re -listed on 09.07.2016 for hearing. 
+
+Chief Judge. 
+
+Judge. 
+
+Whether the case is fit to be reported or not?

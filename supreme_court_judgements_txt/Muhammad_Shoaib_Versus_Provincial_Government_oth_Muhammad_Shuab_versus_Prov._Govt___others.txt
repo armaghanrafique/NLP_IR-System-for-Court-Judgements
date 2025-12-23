@@ -1,0 +1,52 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Muhammad_Shoaib_Versus_Provincial_Government_oth_Muhammad_Shuab_versus_Prov._Govt___others.pdf
+CONVERSION DATE: 2025-12-23 19:35:26
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 102
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+C. 
+
+Misc. 
+
+No. 109/2015 In SMC. 
+
+No. 04/2013. 
+
+Muhammad Shoaib Petitioner. 
+
+Versus Provincial Government & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Malik Shafqat Wali senior Advocate alongwith Mr. 
+
+Rehmat Ali Advocate -on-Record for the petitioner. 2. 
+
+The Advocate General on behalf of the respondents. 
+
+ORDER DATED: - 24.11.2016. 
+
+The learned counsel for the petitioner on instructions wants to withdraw this petition as he ha s been adjusted/appointed by the respondents and this petition has become infructuous. 
+
+In view of the above, this petition is dismissed as withdrawn. 
+
+Chief Judge. 
+
+Judge.

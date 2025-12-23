@@ -1,0 +1,36 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Imran-ul-Haque_Versus_The_State_imran_ul_haque_vs_the_state.pdf
+CONVERSION DATE: 2025-12-23 19:35:01
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 95
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT-BALTISTAN Cr.Misc.No.08/2010 Imran-ul-Haque petitioner VERSUS The State ………. 
+
+Respondent. 
+
+Mr. 
+
+Muhammad Abbas, Advocate on Record. 
+
+ORDER DATED:-06-07-2010. 
+
+Learned counsel for the petitioner during the course of hearing when pointed out that the bail application before the Chief Court was not decided on merits rather was dismissed as withdrawn. 
+
+Therefore, this petition before this court is not maintainable and petitioner may is so advised, move a fresh bail application before Chief Court or before the trial court as the case may be. 
+
+Dismissed. 
+
+Chief Judge Judge Judge

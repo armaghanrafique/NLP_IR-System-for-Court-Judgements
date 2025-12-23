@@ -1,0 +1,220 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7822.pdf
+CONVERSION DATE: 2025-12-23 19:32:39
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 8
+ESTIMATED WORD COUNT: 2,534
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Stereo. 
+
+H C J D A 38. 
+
+JUDGMENT SHEET LAHORE HIGH COURT BAHAWALPUR BENCH BAHAWALPUR JUDICIAL DEPARTMENT C.R No.111/2014 Muhammad Bashir etc. 
+
+Versus Muhammad Rafique J U D G M E N T Date of Hearing: 19.11.2025. 
+
+Petitioner s by: Mr. 
+
+Muhammad K ashif Khakwani, Advocate Respondent by: Mr. 
+
+Muhammad Naveed Farhan, Advocate, assisted by Mr. 
+
+Muhammad Nasir Khan Pahore, Advocate. 
+
+Anwaar Hussain, J. 
+
+This petition is directed against the concurrent findings of the Courts below, whereby the suit instit uted by the respondent (hereinafter referred to as “ the r espondent/ pre- emptor ”) under the Punjab Pre -emption Act, 1991 (hereinafter referred to as “the Act ”) was decreed, vide judgment dated 13.06.2011. 
+
+The Appellate Court below maintained these findings, vide its judgment dated 11.02.2014. 2. 
+
+Learned counsel for the petitioner s contends that the respondent/ pre-emptor failed to comply with the mandatory procedural requirements under the Act inasmuch as talb-i- muwathibat was required to be made immediately upon the knowledge of the sale and since the sale is effected through a registered document dated 17.08.2006, which constitute s public notice, talb-i-muwathibat was invalid as the same was made after more than three and half month s from the date of regist ration of the sale deed, hence, cannot be considered as compliance of the Act. 
+
+Adds that talb-i-ishhad was also not effected in accordance with law. 
+
+Contends that the petitioners, being six individuals, were required to be individually served with notices of talb-i-ishhad but instead, a photo copy of notice was dispatched to petitioners No.2 to 5, which is invalid under the law. 
+
+It is further contended that petitioner No.6 Muhammad Riaz, was treated as a minor by the respondent/pre -
+
+============================================================
+PAGE 2
+============================================================
+
+C.R No.111/2014 2 emptor, therefore, purpor tedly notice was issued to petitioner No.6 through his father; however, the record reflects that Muhammad Riaz himself allegedly refused to accept the service of notice, hence, his service was defective and partial pre -emption cannot be allowed. 
+
+Adds that there exist material contradictions in the testimony of the PWs inasmuch as Muhammad Nawaz (PW -05), statedly informed the respondent /pre-emptor immediately about the sale when the informer arrived in the gathering, whereas other PWs stated that initially, gener al social discussion took place in a gathering before the factum of sale was communicated to the participants, including the respondent/ pre-emptor. 
+
+Further c ontends that there are contradictions regarding the issuance of notices of talb-i-ishhad: whil e one notice and five copies were statedly dispatched, PWs contended that six separate notices were prepared. 
+
+This, it is argued, affects the credibility of the respondent/ pre-emptor ’s witnesses. 
+
+Further argued that the postmaster (PW -02) reported service of no tices to all the petitioners and the refusal thereof, but the report of service was not confronted to DW-1, namely, Muhammad Bashir who is petitioner No.1, and that only one of six copies of the notices was produced in evidence, raising serious doubts regarding completeness of issuance of notice of talb-i-ishhad. 
+
+In support of his contentions, learned counsel for the petitioners places reliance on cases reported as “ Javaid Iqbal v. 
+
+Abdul Aziz and another ” (PLD 2006 SC 66 ) and “ Muhammad Intizar Hussain v. 
+
+Mu hammad Iqbal ” (2017 YLR 1734 ). 3. 
+
+Conversely, l earned counsel for the respondent/ pre-emptor contends that all petitioners, including the purported minor /petitioner No.6, refused to accept the notice. 
+
+Adds that the petitioner No.6 was in fact major, a fact corroborated by his signature on the written statement. 
+
+It is argued that there is no legal requirement for all purchasers under a single registered deed to be individually served for the purpose of talb-i-ishhad to be valid and a photo copy of notic e is
+
+============================================================
+PAGE 3
+============================================================
+
+C.R No.111/2014 3 valid, reliance being placed on case reported as “Shoukat Hayat v. 
+
+Liaquat Khan ” (2005 YLR 60 ). 
+
+Learned counsel further contends that all six notices were duly thumb -marked, and sent by the respondent/ pre-emptor and the notices and receipts were brought o n record as Exh.P -13 to Exh.P -18 and Exh.P -1 to Exh.P -6, respectively. 
+
+A cross objection has been raised that sale price was exaggerated and instead of actual sale price of Rs.600,000/ -, amount of Rs.1,400,000/ - was mentioned in the sale deed just to frustrate the right of pre -emption of the respondent/pre -emptor. 
+
+In rebuttal, learned counsel for the petitioners averred that verbal cross objection can not be raised at the revisional stage. 4. 
+
+Arguments heard. 
+
+Record perused. 5. 
+
+The points for determi natio n before this Court are as follows: i. 
+
+Whether, in the context of the special and stringent requirements of the law of pre -emption, the registration of a sale deed must be treated as “notice” so as to deem the pre -emptor to have acquired knowledge f rom t he date of registration; or whether the statute requires proof of actual knowledge, regardless of whether the transaction was effected through a registered document, an unregistered document, or an oral sale? ii. 
+
+Whether the respondent/pre -emptor validly performed talb-i-ishhad in accordance with the mandatory requirements of the Act, particularly regarding service of notices upon all six petitioners? iii. 
+
+Whether the alleged defects in service —such as the use of photo copy of a notice, alleged non - service upon Muhammad Riaz ( asserted as minor), and refusal —render the talb-i-ishhad invalid? iv. 
+
+Whether contradictions in the testimony of the pre-emptor ’s witnesses regarding the timing and manner of the informer’s disclosure about sale undermine the cred ibility of the respondent/ pre- emptor ’s case?
+
+============================================================
+PAGE 4
+============================================================
+
+C.R No.111/2014 4 v. 
+
+Whether verbal cross objections can be raised, at the revisional stage? 6. 
+
+Taking up the first legal question that registration of the sale deed constitutes public notice and same is sufficient to trigger the making of talb-i-muwathibat, without actual knowledge of the respondent/pre -emptor, this Court is of the opinion that the same is untenable in the framework of the pre -emption law. 
+
+The Act is a special statute, and the obligations created therein —particular ly those relating to the talbs /demands —are independent, rigid, and strictly construed. 
+
+The Act and the jurisprudence developed thereof does not incorporate the doctrine of constructive notice nor does it equate registration (of the sale) with the actu al knowledge of the pre -emptor for the purpose of triggering time for raising talb-i-muwathibat. 
+
+The argument of learned counsel for the petitioner overlooks the explicit framework prescribed under Section 30 of the Act, which contemplates a period of 04 months for the purpose of institution of the pre -emption suit and the date of registration of sale deed is the deemed knowledge and/or triggering point for the purpose of commuting the s aid period only; said date cannot be extended or treated as knowledge f or th e purpose of making talab -i-muwathibat inasmuch as t he legislature, despite being fully aware of the nature of registered documents, has consciously refrained from prescribing that registration (of sale) shall be deemed knowledge of the respondent/ pre-emptor. 
+
+The statutory scheme makes the actual acquisition of knowledge the determinative factor, not the availability of the document on the public record. 
+
+Introducing the doctrine of constructive or deemed knowledge, for the purpose of making talb-i-muwathib at, would effectively rewrite the pre-emption law and make the requirements even more stringent, which is impermissible. 
+
+Thus, for purpose of exercise of talb-i-muwathibat, the plea that registration of sale deems to be public notice and therefore, within knowledge of the pre -emptor cannot sustain.
+
+============================================================
+PAGE 5
+============================================================
+
+C.R No.111/2014 5 Accordingly, no adverse inference can be drawn solely from the fact that the sale deed was registered and the respondent/pre -emptor raised talb-i-muwathibat after three and half months, from the date of registration of the sale deed. 7. 
+
+Adverting to the point s of determination at Serial Nos.ii to iv of para 5 supra, which are intertwined, it is noted that t he evidence establishes that the petitioners are real brothers, all of whom purchased the suit property throu gh a single registered sale deed. 
+
+The purchase was made collectively, and the parties acted together in protecting their mutual interests as only petitioner No.1 appeared as DW -1, on behalf of all petitioners. 
+
+Nowhere the objection was taken that peti tione r No.6, namely, Muhammad Riaz was a minor and report of his refusal to accept notice was false and fabricated. 
+
+Hence, mere fact that petitioner No.6, namely, Muhammad Riaz was taken as a minor by the respondent/pre -emptor loses its significant when th e pet itioners never denied that in fact at the time of sale, as also issuance of notice of talb- i-ishhad, said petitioner No.6 was in fact major and, therefore, his refusal to accept notice meets the requirements of the Act. 8. 
+
+The respondent/ pre-emptor prepar ed six notices (Ex.P -13 to Ex.P -18) with signatures and thumb impressions of himself and witnesses, including the scribe (PW -06). 
+
+These notices were dispatched on 07.12.2006 through registered envelopes (Ex.P -1 to Ex.P -6) to the petitioners /defendants. 
+
+The postmaster (PW -02) confirmed that the petitioners refused to receive the notices/ envelopes, returning the originals along with reports of refusal (Ex.P -7/1 to Ex.P -12/1). 
+
+All notices, whether original or five copies, bore the signatures and thumb impressions of the respondent/ pre-emptor and witnesses, together with the scribe’s seal and signature. 
+
+These facts establish that the talb-i-ishhad was validly performed in accordance with the law. 
+
+Thus, the petitioners ’ objection —that the respondent/ pre-emptor
+
+============================================================
+PAGE 6
+============================================================
+
+C.R No.111/2014 6 claimed to have prepared one notice and made five copies, whereas PWs stated that separate six notices were prepared —carries no weight in view of the dicta laid down in case of Shoukat Hayat supra wherein it has been held as under: “9….. 
+
+The responde nt wh ile in the witness -box as P.W.3 stated that after preparing the original notice its photostat copy was prepared which was signed by him and the other two witnesses (P.W.4 and P.W.5). 
+
+This notice was received in evidence as Exh.P.3. 
+
+Both the other witn esses P.Ws.4 and 5 have categorically stated that they signed Exh.P.3. 
+
+Photostat copy of the notice carrying the original signatures of the respondent and that of the witness shall be considered as original document in terms of provisions of Articles 72 an d 164 of Qanun -e- Shahadat Order, 1984. 
+
+Despatch of notice of Talb -i- Ishhad is proved through postal receipt Exh.P.2, duly proved by P.W.2 which under ordinary course of events, shall be presumed to have reached the destination and distributed to petitioner as deposed by P.W.1 in terms of Article 129, Qanun -e-Shahadat Order, 1984. 
+
+Signatures on receipt Exh.P.1 (A.D.) and those on written statement of the petitioner, do not only resemble to each other but are by one person thus delivery of notice Exh.P.3 to p etitioner is proved to the hilt.” (Emphasis supplied ) 9. 
+
+The petitioner s’ side argued that contradictions exist in the testimony of the respondent/ pre-emptor ’s witnesses regarding the timing and manner of information provided by Muhammad Nawaz (PW-05) and the preparation of notices. 
+
+PW -03 (respondent/ pre- emptor ), PW -04, and PW -05 consistently stated that Muhammad Nawaz informed the respondent/ pre-emptor about the sale on 05.12.2006 at 5:00 p.m., following which the respondent/pre -emptor promptly expr essed his intention to pre -empt. 
+
+Minor variations that there was general discussion at the gathering and later on information of sale was imparted or otherwise do not materially affect the credibility of the witnesses as there was no alleged hesitation eve n of a minute on part of the respondent/pre -emptor to raise talb-i-
+
+============================================================
+PAGE 7
+============================================================
+
+C.R No.111/2014 7 muwathibat when the information about sale was imparted by the informer. 
+
+Moreover, PW-06 confirmed that the notices were prepared on 06.12.2006 and sent through registered post with acknow ledgm ent due, supported by postal receipts (Ex.P -1 to Ex.P -6). 
+
+The record shows that all such evidence —original envelopes, postal receipts (Ex.P -1 to Ex.P -6), reports of refusal (Ex.P -7/1 to Ex.P -12/1), and notices (Ex.P -13 to Ex.P -18)—was produced, examin ed, a nd admitted in accordance with law. 
+
+This evidence corroborates the oral testimony regarding talb-i-ishhad, and the Courts below rightly relied upon it. 
+
+It was essential for the respondent/ pre-emptor to prove the issuance of notices under talb-i-ishhad and to adduce the testimony of the postmaster or postal official who effected the service, including proof of refusal by the purchasers/defendants, as the entire chain of steps is designed to ensure that no link in this statutory sequence remains missing. 
+
+Upon review of the evidentiary resume of the present case, this Court finds that the statutory chain stands fully established. 
+
+The requirements are undoubtedly stringent, but the respondent /pre- emptor has succeeded in proving each component in its letter and spirit. 
+
+Consequently, this Court is of the considered view that the respondent /pre-emptor validly exercised his right of pre -emption, and both the Courts below were justified in decreeing the suit. 10. 
+
+Regarding the cross -objections raised verbally by the respondent/ pre-emptor at the revisional stage, it is noted that written cross -objections were filed at the appellate stage regarding the sale price, however, the absence of formal filing of cross objections, at the revisional stage, limits the respond ent/pre-emptor ’s ability to expand the scope of issues before this Court. 
+
+The raising of verbal objections at the revisional stage is a course that ought to be discouraged, as the procedural framework emphasizes formal pleadings and clearly articulated gro unds. 
+
+Even where such verbal objections are to be allowed, the first and essential consideration is whether the point
+
+============================================================
+PAGE 8
+============================================================
+
+C.R No.111/2014 8 sought to be raised has the effect of altering, varying, or undermining the decree itself. 
+
+If the verbal cross objection merely touches up on an evidentiary aspect, without disturbing the decree as maintained by the Court (s) below, there may be little procedural objection to entertaining such a verbal submission, at the revisional stage. 
+
+However, where the objection introduces a material chan ge th at would effectively rewrite or modify the decree, the revisional forum is not the appropriate stage for reopening such matters. 
+
+Viewed from this angle, verbal cross objection relating to the sale price tends toward a substantive alteration of the dec ree, as this issue was decided against the respondent/pre -emptor, which calls for a more formal course than what can be achieved through verbal submissions alone at this stage. 
+
+More -so, when the respondent/ pre-emptor failed to produce credible evidence to prove the actual sale consideration of Rs.600,000/ - before the Courts below as no documentary evidence or market comparables were presented. 
+
+In the absence of such proof, the sale price of Rs.1,400,000/ - recorded in the sale deed (Ex.D -1) must be presumed corre ct. 11. 
+
+In view of the foregoing discussion, the concurrent findings of the Courts below are accordingly upheld. 
+
+Accordingly, t he petition is dismissed with costs. (ANWAAR HUSSAIN) JUDGE Approved for reporting Judge AB**

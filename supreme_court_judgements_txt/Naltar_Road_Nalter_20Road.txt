@@ -1,0 +1,36 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Naltar_Road_Nalter_20Road.pdf
+CONVERSION DATE: 2025-12-23 19:35:30
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 175
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+SUPREME APPELLATE COURT GILGIT -BALTISTAN (Original Jurisdiction) SMC NO. 05/2009 (Naltar Road) Advocate General Gilgit -Baltistan. 
+
+XEN B&R Division Gilgit. 
+
+Order dated 25 -10-2010. 
+
+Learned Advocate General assisted by XEN B& R Division Gilgit submitted th at in view of the order dated 13 -10-2010 the re -construction of the damaged road would only be possible in the next season, as the matter is still under consideration with concerned authorities and even if decision is taken at any early date, the work cann ot be carried out in winter season. 
+
+The learned Advocate General submitted that since remaining portion of the road is already complete in all respect, therefore further proceedings in the case may be closed for the time being. 
+
+XEN B&R Division has support ed the request made by the learned Advocate General as the work cannot be executed on the road during winter season. 
+
+This being so, that further proceedings for the time being are closed in this petition and same is disposed of accordingly. 
+
+Chief Judge. 
+
+Judge.

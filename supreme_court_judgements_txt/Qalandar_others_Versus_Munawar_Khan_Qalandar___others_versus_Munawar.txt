@@ -1,0 +1,58 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Qalandar_others_Versus_Munawar_Khan_Qalandar___others_versus_Munawar.pdf
+CONVERSION DATE: 2025-12-23 19:35:57
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 124
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+C. 
+
+Misc. 
+
+No. 47/2013 In CPLA No. 38/2013. 1. 
+
+Qalandar son of Syed Akber. 2. 
+
+Aziz. 3. 
+
+Fazal son of Qalandar r/o Pari Bungalow Tehsil and District Gilgit. 
+
+Petitioners. 
+
+Versus 1. 
+
+Munawar Khan son of Turat r/o Juglote Sai Tehsil and District Gilgit. 
+
+Respondent. 
+
+PRESENT: - 1. 
+
+Nemo for the petitioners. 
+
+ORDER DATED: - 05.09.2016. 
+
+The petitioners have not been appearing since institution of the petition before this court inspite of chances were given to them on 12.04.2016 and 04.07.2016 respectively. 
+
+It seems that the petitioners are not interested in the prosecution of this case. 
+
+In view of the above, the petition is dismissed for non - prosecution. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

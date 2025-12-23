@@ -1,0 +1,12 @@
+{
+  "corpus_statistics": {
+    "total_documents": 1460,
+    "total_sentences": 85682,
+    "total_words_raw": 2181951,
+    "total_words_cleaned": 1048901,
+    "vocabulary_size": 25833,
+    "average_words_per_document": 718.4253424657534,
+    "average_sentences_per_document": 58.68630136986302,
+    "processing_time_seconds": 33.136472
+  }
+}

@@ -1,0 +1,172 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7704.pdf
+CONVERSION DATE: 2025-12-23 19:32:35
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 9
+ESTIMATED WORD COUNT: 1,687
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+ITR No.75/2024 1 Form HCJD/C -121 ORDER SHEET IN THE LAHORE HIGH COURT, MULTAN BENCH, MULTAN (JUDICIAL DEPARTMENT) ITR No.75 of 2024 Commissioner Inland Revenue, Corporate Zone, RTO, Multan. 
+
+Versus M/s Mahmood Textile Mills Ltd. 
+
+S.No.of order/ Proceeding Date of order/ Proceeding Order with signature of Judge, and that of parties or counsel, where necessary 04.12.2025 Mr. 
+
+Muhammad Suleman Bhatti, Advocate for applicant. 
+
+Mr. 
+
+Muhammad Imran Ghazi, Advocate for respondent. 
+
+Essential facts, leading to the filing of this and connected reference application bearing ITR No.76/2024, are that Appellate Tribunal Inland Revenue, Multan Bench, Multan (Tribunal), annulled the liability, imposed on the taxpayer in terms of Section 4B of Income Tax Ordinance, 2001 (“The Ordinance”), while placing reliance on the decision in the case of M/s Fauji Fertilizer Company Limited and another v. 
+
+Federation of Pakistan and others’ [Writ Petition No.4027 of 2022 ] – In referred judgment question of applicab ility of super tax under section 4C of the Ordinance was adjudicated and consequently statutory provision was read -down while interpreting it in the context of finality extended qua the income under final tax regime, though other declarations were made in the case of M/s Fauji Fertilizer Company Limited and
+
+============================================================
+PAGE 2
+============================================================
+
+ITR No.75/2024 2 another, which may not be relevant for present purposes. 2. 
+
+At the outset, we are informed that all Writ Petitions / ICAs, pending before the Lahore High Court, Lahore and Islamabad High Court, Islamabad, touching question of vires of the sections 4B and 4C of the Ordinance, were directed to be transferred to the Supreme Court of Pakistan, in terms of the order of 12.03.2025, passed in C.A. 
+
+Nos. 1243 to 1549 of 2020 and connected matters. 
+
+We read the o rder, and again read it, and resolved that no directions were issued in the context of proceedings pending before the Commissioner, Commissioner (Appeals), Appellate Tribunal Inland Revenue and High Court(s), exercising reference jurisdiction, which indica tes that proceedings regarding determination of liability, in the context of section 4B of the Ordinance [which provision is relevant for present purposes] were not directed to be transferred or halted. 
+
+We, in view of the aforesaid, proceed to decide this and connected reference application ITR No.76 of 2024, which involve common questions of law.
+
+============================================================
+PAGE 3
+============================================================
+
+ITR No.75/2024 3 3. 
+
+Clarity qua the scope of present adjudication is essential. 
+
+If imposition of tax, under section 4B of the Ordinance has had anti - business implications or wheth er such levy has discouraged influx of foreign direct investment, which issues are not within the scope of present adjudication. 
+
+And present adjudication is confined to determination of question of legality or otherwise of the decision of the Tribunal, whi ch, stated at the expense of repetition, proceeded to annul led the liability, in context of section 4B of the Ordinance, based on the dictum laid in the case of M/s Fauji Fertilizer Company Limited and another (supra). 
+
+Tribunal while applying analogy of ci ted case, extend ed reading down effect to section 4B, treating it peri materia to section 4C of the Ordinance. 
+
+Question proposed for determination is “whether component of income, classified and taxed as final tax under final tax regime, could be further taxed under section 4B of the Ordinance”. 4. 
+
+Conceptually, presumptive tax regime (PTR) and final tax regime (FTR) cannot be conflated as identical concepts; former is the determinant of the nature of income or raises presumption qua income, and not the ta x; and latter manifest mode
+
+============================================================
+PAGE 4
+============================================================
+
+ITR No.75/2024 4 / mechanism of transactional taxation, where tax deducted / collected is deemed as terminal or exhausted income, for the purposes of imposing further tax – treating income under FTR as dead income. 
+
+Legitimacy of presumptive tax regime, for the purposes of ascertaining income, was settled in terms of widely acclaimed judgment, i.e., Elahi Cotton Mills Limited v. 
+
+Federation of Pakistan [PLD 1997 SC 582 ], which affirmed constitutionality of various provisions of erstwhile Income Tax Ordinance 1979, wherein objection qua imposition of presumptive taxation was raised in the context of scope of item 47 of Part I of Federal Legislative List of the Constitution of the Islamic Republic of Pakistan, 1973. 
+
+Question of legality of PTR and fin ality, in terms of assessment extended to FTR is not subject -matter controversy. 
+
+Determinable issue is whether a new tax could be imposed on sum of the income(s), comprising of normal tax regime (NTR) and FTR, etc. [other components of income identified un der section 4B of the Ordinance]. 5. 
+
+We examined the decision in the case of M/s Fauji Fertilizer Company Limited and another (supra), and with utmost respect, do not scribe to
+
+============================================================
+PAGE 5
+============================================================
+
+ITR No.75/2024 5 the reasoning and interpretative reading of Elahi Cotton Mills Limited (supra), wherein, in referred judgment, section 4C was read -down in the context of computation of tax liability under Section 4C of the Ordinance and Tribunal applied same analogy to the liability under section 4B of the Ordinance. 
+
+Vires of section 4B of the Ordin ance was tested and affirmed, variously. 
+
+Issue of computation of tax liability, in the context of exclusion of income under final tax regime, is subject of adjudication. 
+
+Undisputedly, the Ordinance recognized determination of income under presumptive / dee med income concept; normal tax regime, and issue of conclusiveness of determination of income under FTR. 
+
+Section 4B of the Ordinance imposes tax – purpose whereof was defined – at the rates specified in Division IIA of Part I of the First Schedule on the q ualified income of every person and income, for said purposes, was sum of the categories of income, which, besides others, included category(ies) of income and tax determined under NTR and FTR – by virtue of section 2(28A) of the Ordinance and inserted th rough Finance Act 2015, determination under FTR was treated as imputable income –
+
+============================================================
+PAGE 6
+============================================================
+
+ITR No.75/2024 6 extending deeming effect qua computation of final tax. 
+
+With utmost respect, decision in the case of M/s Fauji Fertilizer Company Limited and another (supra), to the extent it is made applicable to the issue of taxability under section 4B, either by reference or implication, has not appreciated the import and context of PTR, FTR and inherent distinction therein, for the purposes of applicability of mechanism for computing total income under section 4B of the Ordinance. 
+
+Presumptive taxation is a proxy for income determination; and concept of final taxation is a substitutive tool for assessment. 
+
+Section 4B of the Ordinance has not questioned inherent attribute of PTR or FTR - whic h distinctiveness has otherwise no relevance for adjudication of present controversy. 
+
+Controversy re -phrased; there is no issue qua the constitutionality and enforceability of presumptive and final taxation regimes but nub of the matter is whether legislat ure is competent to impose super tax – in terms of section 4B of the Ordinance – on income, already taxed under FTR – Section 4B provided that total income for determining payability of tax shall be sum of variously provided component(s)
+
+============================================================
+PAGE 7
+============================================================
+
+ITR No.75/2024 7 of income, includi ng NTR and FTR – for meeting qualification cap for taxation. 6. 
+
+There is no dispute that final taxation is determined in accordance with the mechanism provided, which formed part of the family of income, defined in terms of section 2(29) of the Ordinance, notwithstanding the diversity in the categorization, medium of deduction and collection thereof. 
+
+Insertion of definition of imputable income - section 2(28A) of the Ordinance through Finance Act 2015 – had merely extended certainty to the mechanism of assessment of final tax by introducing, by legislative fiat, element of actualization. 
+
+Learned counsel for respondent failed to convince us that how imposition of tax under section 4B affects the assessme nt process undertaken under FTR and finality qua such a ssessment. 
+
+We do not subscribe to the view that finality extended to income under FTR could not be taxed further, which new tax has been imposed through insertion of a distinct and new provision – section 4B of the Ordinance. 
+
+One must not confuse the i mposition of 4B tax as an attempt to recharacterize FTR or income covered
+
+============================================================
+PAGE 8
+============================================================
+
+ITR No.75/2024 8 thereunder but such component of income, coupled with normal / regular income, was constituents of income for determining bench - mark obligation under section 4B of the Ordinance. 
+
+Thr ough section 4B tax, legislature, which possessed legislative competence, had not dispensed with the doctrinal finality, statutorily recognized qua FTR but subjected it to new category / specie of tax. 
+
+And there is no legal bar / hindrance upon the legisla ture to impose new tax on income, be it subject to FTR. 
+
+Plea of finality of income under FTR could not be raised to encumber right of the parliament to tax. 
+
+It is reiterated that Section 4B of the Ordinance is not a tool for reassessment of FTR but in fact its re - taxation under a new tax. 
+
+How this taxation is illegal or contrary to the dictum laid in the case of Elahi Cotton Mills Limited (supra). 
+
+There is no plausible and convincing justification. 
+
+Hence, statutory concept of finality conferred in terms of FTR deserves due deference, to the extent of assessment, which cannot be construed as disability to impose new tax. 
+
+Objection that approval in terms of section 133(13) of the
+
+============================================================
+PAGE 9
+============================================================
+
+ITR No.75/2024 9 Ordinance was not procured is misconceived, as requisite approval is submitted fo r perusal. 7. 
+
+In view of the above, we allow the reference applications and set -aside the order of the Tribunal and remand the matter for determination of the liability of the respondent for the purposes of section 4B of the Ordinance, upon taking sum of the income(s), classified therein. 
+
+Questions are answered accordingly. 8. 
+
+Office to send copy of this order under the seal of the Court to the Appellate Tribunal for information. (Abid Hussain Chattha) (Asim Hafeez ) Judge. 
+
+Judge. 
+
+APPROVED FOR REPORTING. 
+
+Judge. 
+
+Judge. 
+
+A.D. 
+
+Mian*

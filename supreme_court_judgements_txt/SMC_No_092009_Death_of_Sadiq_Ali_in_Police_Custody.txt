@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No_092009_Death_of_Sadiq_Ali_in_Police_Custody.PDF
+CONVERSION DATE: 2025-12-23 19:36:19
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 350
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN (Original Jurisdiction) S.M.C. 
+
+No. 09/2009 (Death of Sadiq Ali in Police Custody ) Advocate General Gilgit -Baltistan. 
+
+Deputy Secretary Home Gilgit -Baltistan. 
+
+Bashir Ahmed Acting S.P. 
+
+Gilgit. 
+
+Order Dated 25 -10-2010 The learned Advocate General assisted by Deputy Secretary Home and acting S.P. 
+
+Gilgit has stated that in compliance of the order of this court, the case was registered at Police Station City Gilgit and placing on record the post mortem report of deceased has informed the court that post mortem examination as per direction of this court has been conducted by a team of Doctors of PIMS Islamabad. 
+
+He further stated that investigation of case was entrusted to Islamabad Police which is in progress and on completion of investigation, the final report shall be prepared by the local police for placing the same before the court of competent jurisdiction. 
+
+The Deputy Secretary has stated that the Islamabad Police shall be asked for early completion of investi gation. 
+
+The S.P. states that undoubtedly deceased died in Police custody but as per medical report, it was natural death and consequently the local police would not be responsible for his death. 
+
+Be that as it may, the Court cannot comments on merits at th is stage and since deceased died in police Custody, therefore, notwithstanding the ultimate result of the case, the police may settle the matter with legal heirs of deceased to their satisfaction and instead of seeking any favourable order from the Court m ay enter into compromise with them by paying compensation, as is permissible under the law, before the learned Sessions Judge Gilgit.
+
+============================================================
+PAGE 2
+============================================================
+
+In view of the position explained by the Advocate General and Deputy Secretary Home, no further order is required to be p assed and there is also no need to keep this case pending, therefore, the matter is disposed of with direction that local police on receipt of investigation report will submit final report accordingly before the Court concerned for appropriate action in ac cordance with law. 
+
+Chief Judge Judge

@@ -1,0 +1,68 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No_052015_Fake_and_baseless_News.pdf
+CONVERSION DATE: 2025-12-23 19:36:17
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 153
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+SMC. 
+
+No. 05/2015. (Fake and Baseless News). 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Rai Muhammad Nawaz Kharal Advocate. 2. 
+
+Mr. 
+
+Shoukat Ali Senior Advocate alongwith Mr. 
+
+Orangzaib, Assistant General Manager, from PEMRA, Regional Office, Gilgit -Baltistan. 3. 
+
+Mr. 
+
+Rehmat Ali Advocate -on-Record. 4. 
+
+Mr. 
+
+Muzamil Hassan, Copy Editor, ABBTAKK TV Channel. 5. 
+
+Syed Asif Hassan Shah, News Ticker Operator, Channel 24. 
+
+ORDER DATED: - 02.06.2016. 
+
+The unconditional apology tendered by the n ews Channel i.e. 
+
+ABBTAKK and Channel 24 and explanation made thereto are accepted. 
+
+They are warned to be careful in future and will not telecast such news without verification. 
+
+The PEMRA is required to be watchful on such baseless tickers and fake news. 
+
+Th e unconditional apology so tendered is accepted. 
+
+Contempt notices issued to them are vacated. 
+
+The case is disposed off accordingly in above terms. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Muhammad_Issa_and_others_Versus_Provincial_Govt_a_Muhammad_20Issa.pdf
+CONVERSION DATE: 2025-12-23 19:35:24
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 97
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA No. 01/2014. 
+
+Muhammad Issa & others Petitioner s. 
+
+VERSUS Provincial Government & Others Respondent s. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Shah Baz Khan advocate alongwith Mr. 
+
+Joher Ali AOR for the petitioners. 
+
+ORDER DATED: - 19-10-2015. 
+
+The learned counsel for the petitioner submits that since the petition has become infructuous. 
+
+He therefore wants to withdraw the same. 
+
+In view of the above contention raised by the learned counsel for the petitioner the CPLA No. 01/2014 is disposed of having been withdrawn. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

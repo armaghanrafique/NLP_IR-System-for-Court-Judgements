@@ -1,0 +1,550 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._4334_2025.pdf
+CONVERSION DATE: 2025-12-23 19:35:36
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 19
+ESTIMATED WORD COUNT: 6,631
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+SUPREME COURT OF PAKISTAN (Appellate Jurisdiction ) Present: Mr. 
+
+Justice Naeem Akhter Afghan Mr. 
+
+Justice Muhammad Shafi Siddiqui Mr. 
+
+Justice Miangul Hassan Aurangzeb Civil Petitions No.4334 to 436 3 of 2025 [Against order s dated 30.07.2025 of the Lahore High Court, Lahore passed in Customs Reference Application Nos. 28724 to 28750/25, 28752, 28754 and 28755/25] Collector of Customs Collectorate of Customs (Appraisement ) (West), Lahore. … Petitioner (In all cases) VERSUS Muhammad Rizwan and others. (In CPLA 4334/25) Jamsh id Ullah and others. (In CPLA 4335/25) Kifayat Ullah and others. (In CPLA 4336/25) Kashif Ali and others. (In CPLA 4337/25) Sanaullah and others. (In CPLA 4338/25) Saif Ullah and others. (In CPLA 4339/25) Nadeem Ullah and others. (In CPLA 4340/25) Amjad Ali and others. (In CPLA 4341/25) Ali Rehman d and others. (In CPLA 4342/25) Imran Khan and others. (In CPLA 4343/25) Kamran Khan and others. (In CPLA 4344/25) Yasir Zaman and others. (In CPLA 4345/25) Hazrat Hussain and others. (In CPLA 4346/25) Shan Zeb Khan and others. (In CPLA 4347/25) Kamran Ahmed and others. (In CPLA 4348/25) Musa and others. (In CPLA 4349/25) Muhammad Shakir and others. (In CPLA 4350/25) Arshad Ali and others. (In CPLA 4351/25) Maqbool Hussain and others. (In CPLA 4352/25) Anees Ahmed and others. (In CPLA 4353/25) Farid Ullah and others. (In CPLA 4354/25) Shakoor Khan and others. (In CPLA 4355/25) Akhtar Hussain and others. (In CPLA 4356/25) Ubaid Ullah and others. (In CPLA 4357/25) Khalil ur Rehman and others. (In CPLA 4358/25)
+
+============================================================
+PAGE 2
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 2:- Shahzeb and others. (In CPLA 4359/25) Naimat Ullah and others. (In CPLA 4360/25) Shehbaz Ahmed and others. (In CPLA 4361/25) Shahzeb and others. (In CPLA 4362/25) Murad Ali and others. (In CPLA 4363/25) …Respondent s For the Petitioner: [In all cases] Mr. 
+
+Haris Azmat, ASC. 
+
+For the Respondent s: [In all cases] Mr. 
+
+Salman Akram Raja, ASC Mr. 
+
+Shaukat Hayat, ASC Assisted by Mr. 
+
+Ahsan Mehmood, ASC. 
+
+Mr. 
+
+Shaukat Ayaz, ASC. 
+
+Date of Hearing: 19.11.2025 JUDGMENT Muhammad Shafi Siddiqui, J. 
+
+This bunch of civil petitions for leave to appeal s involve common question s of law and the same is being decided through this common judgment. 2. 
+
+We have heard Mr. 
+
+Haris Azmat, ASC for petitioner and Mr. 
+
+Salman Akram Raja, ASC who has also made a statement that he would be appearing for all private respondents in the entire bunch of CPLAs. 3. 
+
+To understand the question and controversy, Civil Petitio n No.4334 of 2025 is taken up as leading case, out of the bunch. 
+
+Muhammad Rizwan (respondent No.1) filed goods declaration electronically through clearing agent (respondent No.2) for the release of vehicle, imported under the baggage scheme provided in Appendix -E of the Import Policy Order, 2022 (hereinafter referred to as ‘ IPO 2022 ’). 
+
+On examination it reveal ed to the department that the model year of the vehicle has taken it beyond the age limit prescribed under Appendix -E of the IPO 2022, that is, three or five years respectively, depending on the natur e of vehicles. 
+
+It is claimed by the department that in terms of para 3 of the Appendix -E of the IPO 2022, vehicle older than three and/or five years respectively are not importable. 
+
+In
+
+============================================================
+PAGE 3
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 3:- consequence of such violation of IPO 2022, show cause notice was issued and responded. 4. 
+
+It is claimed by the department that the importer with the active connivance of the clearing agent has violated sections 16, 17, 32(1), 79, 180, 209 of the Customs Act, 1969 (hereinafter referred to as ‘Customs Act’) read with section 3(1) of the Imports and Export s (Control) Act, 1950, punishable under clause 9, 14, 90 of section 156(1) of the Customs Act and the contravention case was forwarded to the Collectorate of Customs (Adjudication), Lahore. 
+
+The Additional Collector of Customs (Adjudication), Lahore (hereinafter referred to as ‘the Co llector ’) vide order -in-original dated 13.12.2024 confiscated the vehicle outrightly and personal penalty of Rs.50,000/ - was imposed on importer and clearing agent. 
+
+The Collector determined that the importer has violated para 4 of the IPO 2022 as well as para 3 of the Appendix -E, knowingly and intentionally and hence the charge of violation and non -importability stand established. 5. 
+
+Being aggrieved of the order -in-original passed by the Collector, the respondent No.1 filed an appeal before the Customs Appellate Tribunal, Bench -II, Lahore (hereinafter referred to as ‘ the Tribunal ’). 
+
+The Tribunal, while relying on its earlier judgment passed in Customs Appeals No.36 to 51/LB/2019, disposed of the appeal by maintaining confiscation order, however, an option was given to the lawful owner of the vehicle for its release on payment of redemption fine at the rate of 35 per cent of the value of the vehicle, including duties and taxes; whereas, the penalty im posed upon the importer was reduced to fifteen thousand rupees and the penalty imposed upon the clearing agent was set aside.
+
+============================================================
+PAGE 4
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 4:- 6. 
+
+Record shows that said judgment on which reliance has been placed by the Tribunal was challenged before the Lahore High Court in Customs Reference No. 63218 of 2019, however, the same was dismissed by the High Court vide judgment dated 24.10.2019, against which Civil Petition No. 3598 -L of 2019 etc. were filed before this Court. 
+
+On 12.03.2020 this Court, while rejecting leave, did not interfere with the judgment of the High Court in the following terms: “We have heard the learned counsel for the petitioner at some length. 
+
+He has failed to convince us that the said S.R.O, especially clause (a) and (f) thereof, were applicable in the instant case. 
+
+We, therefore, see no reason to interfere in the concurrent f indings of the courts below. 
+
+Leave is, therefore, refused and these petitions are dismissed. ” 7. 
+
+In the instant matter also, the order of the Tribunal was then challenged before High Court under reference jurisdiction which attempted to interpret Appendix -E of IPO 2022 read with S.R.O. 499(I)/2009 dated 13.06.2009 (hereinafter referred to as ‘ SRO 499’) for the rel ease of subject vehicle. 
+
+The reference application was dismissed and the interpretation was provided in para 5 of the impugned judgment. 8. 
+
+The learned counsel for the petitioner submits that the import of the vehicle s is in violation of the IPO 2022. 
+
+It is urged that the High Court and the Tribunal erred in interpreting the spirit of IPO 2022 read with SRO 499, which does not provide any option to the importer for the release of vehicle, imported in violation of para 3(1) of Appendix -E of the IPO 2022, on payment of redemption fine. 
+
+It is argued that allowing the import of vehicle s, older than age describe in para 3 of Appendix -E, on payment o f redemption fine, would defeat the purpose of the IPO 2022 and the interpretation as rendered by the High Court, would give an option to import “anything ” and to have it release d, notwithstanding the fact that the Federal Board of Revenue, by virtue of SRO 499 has provided a list of categories which are NOT available for an option to have the goods released on payment of fine in lieu of confiscation.
+
+============================================================
+PAGE 5
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 5:- 9. 
+
+The learned counsel for the respondent s, however, on the other hand has supported the impugned order and submits that the impugned interpretation has been provided not only by the Tribunal but by the High Court too on several occasions when the relevant pari materia of the Import Policy Order, 2016 came for consideration before Lahore High Court. 
+
+He submits that the pari materia of Appendix -E to IPO 2022 were available in the Import Policy Order, 2016 and were interpreted for the benefit of the importer and the release s were subjected to redemption fine in terms of the SRO 499. 
+
+The learned counsel has relied upon the leave refusing orders passed in Civil Petitions No.1720 -L and 1721 -L of 2021 which did not disturb the order of the Lahore High Court passed in Customs Reference Nos.75204 and 75240 of 2019 and also in Civil Petition No.3598 -L of 2019 and Civil Petitions No.1 -L to 5 -L and 9 -L to 18 -L of 2020, which is also a leave refusing order, not disturbing the findings of the High Court in Customs Referen ce No.63218 of 2019 etc. 
+
+He further submits that in case this Court is going to alter or amend the longstanding interpretation of section 181 of the Customs Act of providing an option to such import ers, the same could only be prospective in nature and cannot be applied retrospectively. 
+
+He in this regard, relied upon the PMDC1 wherein the effects of Mustaf a Impex2 were also dilated and hence he submits that any interpretation with retrospective effect would infringe the vested right s of the respondents matured under the judgments delivered. 
+
+He further submits that the show cause notice is absolutely silent insofar as stance of department in not providing an option to pay fine in lieu of confiscation, required in terms of section 181 of the Customs Act, is concerned, hence department cannot now plead non - availability of such option. 1 Pakistan Medical and Dental Council v. 
+
+Muhammad Fahad Malik (2018 SCMR 1956). 2 Mustafa Impex v. 
+
+Government of Pakistan (PLD 2016 Supreme Court 808).
+
+============================================================
+PAGE 6
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 6:- 10. 
+
+We have heard the learned counsel and perused the material available on record. 11. 
+
+The question of utmost importance, which requires consideration is whether vehicle of an age, as pointed out in para 3 of Appendix -E to IPO 2022 could be imported under the personal baggage, transfer of residence and gift scheme provide d in Appendix -E of the I PO 2022 and if not, its consequences. 12. 
+
+The IPO 2022 is the outcome of section 3 of the Imports and Exports (Control) Act, 1950, which regulate the import and export in the country. 
+
+The concept of Imports and Exports (Control) Act, 1950 is to empower Federal Government to prohibit, restrict or control the import and export of goods to regulate trade. 
+
+It allows the Federal Government to issue orders, such as import policy orders to regulate trade practices and issue licenses for controlled goods. 
+
+This import policy is not challenged before us or before any forum. 13. 
+
+Para 16 of the IPO 2022 deals with the import of vehicles under the personal baggage, transfer of residence and gift scheme and the import so allowed was subject to relevant rules and procedure specified in the Appendix -E whereas the goods specified in Appendix -C are those which are (banned ) not import able in used/secondhand condition except specifically exempted therein, in terms of para 5(3) of IPO 2022. 
+
+Para 5(3) and Appendix - C is misapplied in the current situation as it has no nexus with specific a ged vehicles, since the subject is exclusively set for consideration in Appendix -E. 
+
+The interpretation provided in para 5 of impugned judgment is also beyond the cumulative intent and spirit of law. 14. 
+
+For convenience, the interpretation provided in para 5 of the impugned order is as under: 5. 
+
+This fact that vehicles in question fall within secondhand category is not controverted. 
+
+It implies that vehicles in question, not disputed to be coming within
+
+============================================================
+PAGE 7
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 7:- secondhand category, can be imported under personal baggage scheme in wake of the exemption provided. 
+
+This clinches the controversy to the extent that import of vehicles in question is not in violation of the Import Policy. 
+
+And if the import of vehicles in question, subject to the conditions otherwise prescribed, is in accordance with the mandate and terms of the Import Policy then allegation of smuggling or any instance of misdeclaration are not attracted, outrightly. 
+
+Learned counsel for the applicant fail s to satisfy us that in aforesaid circumstances how come any illegality was committed by the Appellate Tribunal by allowing release of vehicles against payment of redemption fine @ 35% of the value of the impugned vehicle(s) in addition to all leviable duty and taxes – when none of the clauses, from (a) to (g), of SRO No.499(1)/2009 dated 13.06.2009 are attracted and instead cl ause (g) excludes the items, otherwise permissibly importable under the Import Policy, therefore option of release against payment o f redemption fine can be extended. 15. 
+
+Appendix -E determine the eligibility of a vehicle under baggage, gift and transfer of residence, in terms of its para 3. 
+
+It provides a cap to the age of vehicle, which could not be of more than three /five years respectively. 
+
+Such vehicles are not permitted to be imported under the gift, personal baggage and transfer of residence scheme if they do not fulfil age limit and conditions specified; and th ese condition s however are not applicable to secondhand or used bulletproof vehicle s, if imported under this scheme, which is not the case of respondent s. 
+
+This phrase of secondhand or used bulletproof vehicles, should not be mixed up with para 5(3) of IPO 2022 or with import of normal vehicles described in 1(d) of the Appendix -E. 
+
+In the opening lines of para 5 of the impugned judgment, the learned Bench misapplied the phrase “secondhand/used category”. 
+
+It is not a question of used/secondhand category but of specific age in Appendix -E which required consideration. 
+
+Goods of Appendix -C have been separately described which does not include goods of Appendix -E. 
+
+Thus, the view that since the goods are used/secondhand and thus could be interpreted “in the wake of exemption provided” i s erroneous. 
+
+Similarly, none of the respondents have imported bulletproof secondhand or used v ehicles. 
+
+The “vehicle ” is defined separately in Appendix -E, that is, passenger car (s), bus, van, truck, pickup s, including 4 x4 vehicles. 
+
+Meaning thereby that in case of a car the cap of age is to the extent of three years, whereas, all other vehicles (within definition) would have a cap of five years. 
+
+Appendix -E not only define what vehicles are but also provide conditions of import (which include restrictions), procedure
+
+============================================================
+PAGE 8
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 8:- of import under the gift, personal baggage and transfer of residence scheme. 
+
+Its para 5 provides import by non -privileged foreign nationals and restrictions on sale of such cars, whereas, its para 6 provides for permission to re-export the vehicles brought in contravention of this order (IPO). 
+
+This permission to re -export, however, is not provided to the vehicles described in two provisos to para 6 of Appendix -E. 16. 
+
+There is, thus, no cavil that the import of the vehicles, as defined in Appendix -E have always been subjected to legal and procedur al requirement without which, rights are neither matured nor could be enforced. 17. 
+
+Mr. 
+
+Salman Akram Raja, learned counsel, has not disputed the eligibility, import conditions, and procedure provided therein, however, submits that section 181 of the Customs Act would come to rescue the respondents to get the vehicle release d on payment of fine in lieu of confiscation; even if policy is violated. 
+
+This, he submits, is in practice since long by virtue of court orders. 
+
+He submits that this option is available to the importers since the Federal Board of Revenue “has not specified ” [inverted commas are for emphasis] by ways of any circular/notification/SRO, the goods or class of goods (specially involved goods) where the option under section 181 of the Customs Act is not made available to the importers. 
+
+He, in addition and without prejudice to above, submits that since the show cause notice does not mention the effects of SRO 499, the department cannot take advantage of such law /statutory frame which is not pleaded in the show cause notice. 
+
+He lastly submitted that in case the current interpretation is going to give a new dimension, contrary to what was held earlier by High Courts, then such interpretation must be given prospective effect. 18. 
+
+We are not in agreement with any of these contention s of the learned counsel for the respondents. 
+
+Firstly, the S.R.O. 499(I)/2009 was issued on 13.06.2009 by the Federal Board of Revenue in pursuance of the powers
+
+============================================================
+PAGE 9
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 9:- conferred by section 181 of the Customs Act in supersession of its earlier S.R.O.487(I)/2007 dated 09.06.2007. 
+
+By virtue of SRO 499 the Federal Board of Revenue was pleased to direct that “no option” shall be given to pay fine in lieu of confiscation in respect of the following goods or class of goods, namely: (a) … (b) … (c) … (d) … (e) … (f) restricted and other items which are subjected to procedural requirements under the Import Policy Order, for the time being in force unless such condition and procedural requirements are fulfilled; or. “The word “unless” has made it mandatory for all intents and purposes.” The two leave refusing orders which have been cited by Mr. 
+
+Salman Akram Raja with utmost respect have not discussed the effects of non - applicability of the option to pay fine in lieu of confiscat ion. 
+
+The first order in this regard is in the case of Muhammad Siyab, etc, in CPLA No. 3598 -L of 2019 & 01 -L to 05 -L, 09 -L to 18 -L of 2020. 
+
+This is only a leave refusing order in the following form, not setting any ratio: “2. 
+
+We have heard the learned counsel for the petitioner at some length. 
+
+He has failed to convince us that the said S.R.O, especially clause (a) and (f) thereof, were applicable in the instant case. 
+
+We, therefore, see no reason to interfere in the concurrent f indings of the courts below. 
+
+Leave is, therefore, refused and these petitions are dismissed.” 19. 
+
+The second leave refusing order is in the case of Sher Muhammad Khan, etc in Civil Petitions No.1720 -L and 1721 -L of 2021. 
+
+The earlier order in the said case of Sher Muhammad Khan, is dated 06.07.2022 which framed the contention s of the department in the following form:
+
+============================================================
+PAGE 10
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 10:- “Learned counsel for the petitioner has read to us from paragraph No.15 of the Import Policy Order, 2016, which allows the import of vehicles under the personal baggage, transfer of residence and gift scheme, under the procedure specified in Appendix -E of t he Import Policy Order, 2016. 
+
+Clause 3 of Appendix -E stipulates that vehicles more than five years old shall not be allowed to be imported under the above mentioned three schemes. 
+
+In the present cases, the respondents imported vehicles, which the manufact urer certified to be more than five years old at the time of its import. 
+
+The question is whether the said vehicles are to be confiscated or released on redemption of fine. 
+
+In this behalf the learned counsel has also read to us from the second proviso to Se ction 181 of the Customs Act, 1969, which authorizes the FBR to specify goods or class of goods where option shall not be given to pay a fine in lieu of confiscation. 
+
+It is further submitted that S.R.O.499(I)/2009 dated 13.06.2009 disallows an option to pa y fine in lieu of confiscation in respect of the goods, inter alia, specified in Clause (f) which reads as under: “(f) restricted and other items which are subject to procedural requirements under Import Policy Order, for the time begin [sic] in force unless such condition and procedural requirements are fulfilled; or” 2. 
+
+Learned counsel for the petitioner further submits that Clause 3 of Appendix -E imposes the procedural condition/requirement for the import of old vehicles; that procedural requirement in the present case has not been complied with; accordingly, in light o f Clause (f) of S.R.O.499(I)/2009, reproduced above, the importers cannot be given an option to pay fine in lieu of confiscation of the vehicles in question and this aspect of the case has not been appreciated by the High Court. 
+
+Issue notice. 3. 
+
+Learned counsel also submits that the vehicles in question are in the safe custody of the petitioner authorities but the respondents are pressing hard for their release for which purpose a contempt petition has also been filed. 
+
+Till the next date of heari ng, status quo, in both the petitions, is to be maintained.” 20. 
+
+The matter then came up for further consideration of above noted contentions and the findings were dissuaded by presence of Appendix -B of the IPO 2022 which has no nexus with the subject. 
+
+In the following sentence (underlined in the order below), the Bench was not shown the effect of SRO 499 for Appendix -E and has decided by simply rejecting the leave. 
+
+This also did not set any ratio for us. 21. 
+
+Sub-clause (f) of the SRO 499 was not considered in its true spirit in the referred order in Sher Muhammad3 keeping in mind the entire framework of law s, having a cumulative effect, such as Appendix -E of IPO 2022 read with SRO 499 and section 181 of the Customs Act. 
+
+Sher Muhammad’s case summarized the issue in leave refusing order, as under: The Petitioner has also relied on Clause (f) of the SRO which relates to restricted items which are subject to procedural requirements under the IPO. 
+
+Even this clause is not applicable, as restricted goods listed in Appendix B are subject to conditions and standards or regulations which have to be fulfilled for import purposes. 
+
+Again this is not relevant as the vehicles were imported under the Scheme in terms of Appendix E of the IPO, therefore, any violation of the conditions given under Appendix E will no t attract the SRO [underlining is for emphasis]. 
+
+Consequently, the Tribunal was correct in maintaining the 3 Civil Petitions No.1720 -L and 1721 -L of 2021, decided on 02.05.2023.
+
+============================================================
+PAGE 11
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 11:- confiscation while allowing release of the vehicles, subject to payment of customs duty, taxes and redemption fine. 3. 
+
+Under the circumstances, no case for interference is made out. 
+
+The Petitions are dismissed and leave refused. 
+
+The referred order did not dilate upon the eligibility, import conditions and the legal & procedural requirements of Appendix -E to be read with SRO 499. 
+
+Clause (f) of the SRO 499 is negatively couched in terms of phrase “unless”. 
+
+Here “unless ” is a conjunction used to introduce a condition that must be met for a negative outcome to be avoided, i.e, introducing a condition that will prevent something from happening. 
+
+Thus, it caters for a situation that unless such conditions are fulfilled, the import is not permissible and thus mandatory in its effect for the conditions and procedural requirements. 
+
+The correct reflection of the said SRO 499, thus is summarized as under: SRO 499 ……… The FBR is pleased to direct that no option shall be given to pay fin e in lieu of confiscation in respect of following goods or classes of goods, namely (a) … (b) … (c) … (f) … which are subject to procedural requirement s under IPO, for the time being in force unless such condition and procedural requirements are fulfilled; or (g) … In the referred case, this Court held that the Tribunal was correct in the confiscation of vehicles as they were not inconformity with the Appendix - E, yet it does not provide an answer as to non -applicability of clause (f) of SRO 499 in relation to payment of fine in lieu of confiscation, as is explained above. 22. 
+
+The conditions specified in the Appendix -E are to be read with SRO 499 which (in terms of its clause (f)) does not provide an option to importer to pay fine in lieu of confiscation. 
+
+The eligibility conditions of import for importer thus plays a pivotal ro le insofar as the lawful import of the vehicle is concerned. 
+
+The reliance of the High Court on secondhand or used bulletproof vehicles is misplaced in the sense that these conditions were only in respect of bulletproof vehicle and is to be read disjunct ively for the rest of
+
+============================================================
+PAGE 12
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 12:- the vehicles. 
+
+Bulletproof vehicle imported as secondhand and in used conditions, if imported under this scheme does not mean that such relaxation is also applicable for import of other vehicles described in Appendix -E 1(d). 
+
+It simply means that the restric tions, conditions and procedure for the import of vehicle under the gift, personal baggage and transfer of residence scheme were not applicable to secondhand/used bulletproof vehicles. 
+
+None of the vehicles in question is said to be bulletproof vehicles, to which the relaxed conditions of secondhand or used be made applicable. 23. 
+
+Now, in relation to complete accusations in the SRO, what is important for the department, while issuing show cause notice is, to let know and notify the accusations and violations completely.4 The Collector in the instant matter, by an order -in-original confiscated the impugned vehicles outrightly and a personal penalty of fifty thousand rupees was imposed, and he found nothing which could benefit the importers in terms of SRO 499. 24. 
+
+The reason that it was ordered for outright confiscation is enough that no option [underlining is for emphasis] for payment of fine in lieu of confiscation is available. 
+
+Had it been so available, only then it could have been extended to the alleged importers for any benefit. 
+
+Since the importer s have claimed benefit of such SRO in their own wisdom, it was responded by the department in negative. 
+
+Such option could neither have been made in the show cause notice nor it make any sense to incorporate the rel evant SRO 499 that such benefit is not available in view of outright confiscation. 
+
+It is for importer to claim any benefit under any law, which they did but not found in line with law by adjudicating officer, and we agree with such understanding of law. 
+
+The show cause notice in the instant matter was a complete set of accusation and called for outright confiscation; and that is 4 Collector of Sales Tax v. 
+
+Zamindara Paper and Board Mills (2008 SCMR 615).
+
+============================================================
+PAGE 13
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 13:- enough disclosure of case against importers in the show cause notices. 
+
+The adjudicating officer rightly did not find that an option was available to the importers. 25. 
+
+The above view which we have formed, also came for consideration in another matter earlier in the case of Bashir Ahm ad5. 
+
+Although it is also a leave refusing order for a private party, but detailed analysis of SRO 499 was given, relevant portion whereof is reproduced, as under: “The order of the Board, passed under section 181 of the Act of 1969, specifying the goods or classes of goods where no option is to be given or, a fine and its limits have been fixed, are described in the notification published in the gazette i.e. 
+
+SRO 499. 
+
+SRO 499. 
+
+The preamble describes the goods or classes of goods from clauses (a) to (g) regarding which an option under section 181 cannot be given. 
+
+The Table specifies such goods or classes of goods regarding which the fine and its limit have been fixed f or the purposes of giving an option. 
+
+This Court, in the case of Wali Khan, has held that the Board, in pursuance of its powers conferred under section 181 of the Act of 1969, is empowered to specify any goods or classes of goods which shall not attract the option contemplated under sub section (1) ibid. 
+
+As a corollary, when the Board has exercised its power and has issued an order, then the Tribunal is bereft of jurisdiction to order the release of such goods or class of goods by giving an option under sect ion 181 of the Act of 1969. ” Similar views were framed by this Court earlier in the case of Wali Khan6. 26. 
+
+The last attempt made by Mr. 
+
+Salma n Akram Raja is in respect of longstanding departmental practice (as alleged) and prospective operation, if a new interpretation (reinterpretation) is being provided. 
+
+It is claimed that whenever a court reinterprets any provision of law, then it ought to be prospective in nature and not retrospective. 27. 
+
+This Court has never interpreted the effect s of clause (f) of SRO 499 on the import of vehicles described in Appendix -E of IPO 2022 which could have a binding effect and reliance of Mr. 
+
+Salman Akram Raja upon the case of Pakistan Medical and Dental Council7 for prospective effect is also 5 Bashir Ahm ad v. 
+
+Director, Directorate of Intelligence and Investigation (Customs), FBR Peshawar (2025 SCMR 684). 6 Collector of Customs v. 
+
+Wali Khan (2017 SCMR 585). 7 Pakistan Medical and Dental Council v. 
+
+Muhammad Fahad Malik (2018 SCMR 1956).
+
+============================================================
+PAGE 14
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 14:- misconceived. 
+
+Only Bashir Ahmad ( supra ) discussed in depth the effect of SRO when options are not available. 28. 
+
+We have no doubt that the vehicles have not fulfill ed the conditions of IPO, 2022 and that the confiscation cannot be subjected to any fine in lieu of confiscation, in view of SRO 499. 
+
+Now the effect of any longstanding interpretation (as alleged) has also faded in the absence of any favourable interpretation by this Court. 
+
+Notwithstanding the absence of such binding precedence, the Court cannot be bound by any finding which apparently is silent on the real interpretation of related laws. 
+
+Even otherwise such interpretation could always be corrected, effects however, are being discussed h ereunder. 29. 
+
+There are two theories/doctrine which could be worth considering for the point raised. a) Blackstonian view - the courts do not make laws. 
+
+They only declare what the law has been. 
+
+When a court interprets a statute that is deemed to be a true meaning from the date of statutes’ existence and thus the interpretation is given from the date of its creation. b) Doctrine of prospective overruling - this has also developed in many jurisdictions where the court realises that on account of long - standing interpretation, the new, recent and corrected interpretation may cause injustice and thus limit its effects to the future. 
+
+The later doctrine though limits the retroactive effect, it however creates unfairness by denying a successful party the benefits of the success/victory they fought for and may under mine the incentive for parties to seek legal changes in the future. 
+
+The successful litigant, under the said doctrine, never gets the fruits of success.
+
+============================================================
+PAGE 15
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 15:- 30. 
+
+Judicial interpretation of a statue thus ordinarily applies and operates retrospectively. 
+
+It, however, varies when the vires of the law is challenged on the touchstone of any right guaranteed by the Constitution of the Islamic Republic of Pakistan and is/was being infringed and the interpretation /pronouncement nullifies it; both however have different effects. 31. 
+
+For the proposition, challenging the vires of law, one can argue and claim the bona fide actions undertaken and rights acquired, till the law is declared to be ultra vir es, however, such is not the case he re, as question of vires is not before us. 
+
+We are more focused to provide an answer as to whether the “interpretation ” of any provision of law, statute, notification, circular, SRO etc. hav ing the force of law, to operate in a declaratory form retrospectively or should it be applied prospectively. 32. 
+
+The effect of interpretation in the form of a declaration of a ny law is defined as Blackstonian principle and has been consistently approved with reasons, in several jurisdictions including this Court, Indian Courts, Courts of Commonwealth countries and the United States of America. 33. 
+
+Our Courts, in order to prevent severe injustice and to protect the vested rights, have applied approaches such as Blackstonian rules and the doctrine of prospective overruling depending on the circumstances and the vested rights which were being claimed and adjudged. 34. 
+
+In the instant cases, however, in the light of an earlier pronouncement of the High Court, which findings were not disturbed while the leaves were refused by this Court, respondents ’ claim that vested rights have been created and any deviation from such finding could only be given prospective application, sounds strange.
+
+============================================================
+PAGE 16
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 16:- 35. 
+
+We do not, in general, agree with the proposition of Mr. 
+
+Salman Akram Raja, ASC. 
+
+We have noted that the High Court gave only conclusion and the law was not interpreted in its true spirit. 
+
+Even otherwise, when an earlier incorrect understanding of law and/or interpretation led to a wrongful action, it does not bestow any right including the vested right and the Court may apply its corrected interpretation retrospectively for the pending cases to the least. 
+
+It is only the correct view that presents the correct meaning of the statute and that principle is to be exercised whenever a relief is being sought by a litigant, otherwise the re cannot be a relief for a “contesting litigant ” who is before a Court for a correct appreciation of law and is also able to plead successfully. 
+
+Thus, the judicial interpretation is conceptionally retrospective. 36. 
+
+Indeed, in terms of Cornelious’ principles, as he discussed in the case of Muhammad Yousaf8 that the judicial decisions declaring the correct interpretation of a statute appl ied to cases that come s before the courts after the judgment, but were not made applicable to invalidate administrative actions/orders and matter “concluded ” judicially, as being pas t and closed transaction on the basis of earlier mistaken interpretation. 
+
+Cases before us are yet to be concluded and hence cannot be summarized, under any stretch of imagination, as past and closed transaction. 
+
+Malik Asad9, gave a more exhaustive view when it ruled that judicial interpretation is declaratory and, therefore, retrospective, leaving the court only in the exceptional circumstances to make it operative prospectively. 
+
+ARF Pirzada10, Mustafa Impex11 and PMDC12, highlighted extensively how the retrospective and prospective effect of a particular judgment could be given and according to the jurisprudence developed in the aforesaid cases, it depends upon the facts 8 Muhammad Yusuf v. 
+
+The Chief Settlement and Rehabilitation Commissioner Pakistan (PLD 1968 SC 101) 9 Malik Asad Ali v. 
+
+Federation of Pakistan (PLD 1998 S upreme Court 161) 10 Begum Nusrat Ali Gonda v. 
+
+Federation of Pakistan (PLD 2013 S upreme Court 829) 11 Mustafa Impex v. 
+
+Government of Pakistan (PLD 2016 S upreme Court 808) 12 Pakistan Medical and Dental Council v. 
+
+Muhammad Fahad Malik (2018 SCMR 1956)
+
+============================================================
+PAGE 17
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 17:- and circumstances of each case and it is for the court to decide in each case if the judgment could be given an exceptional consequences than its normal effect of retrospective in its application. 37. 
+
+Taisei Corporation13 described the issue in the comprehensive way that the law so declared by the court, as a general principle, applies to the future cases prospectively as well as retrospectively to the pending cases, including the one in which it is declared. 
+
+It is only as an exception to the general principle that while considering the possibility of some grave injustice, due to its retrospective effect, the court occasionally provide for prospective effect to the judgment from such date as they think just and proper in the peculiar facts and circumstances of the case. 
+
+Even Muhammad Jalal14 saved only past and closed transaction, i.e., appointment by way of a notification only and nothing else was saved; even pending applications for such recourse of appointment were not saved as the judgment was applied to pending cases retrospectively. 38. 
+
+The jurisprudence developed in India is not different from the jurisprudence developed by our courts. 
+
+In the case s such as (i) Directorate of Revenue Intelligence v. 
+
+Raj Kumar Arora (2025 INSC 498), (ii) P.V. 
+
+George v. 
+
+State of Kerala (AIR 2007 S upreme Court 1034), (iii) Goan Real Estate & Construction Ltd. v. 
+
+Union of India (2010 5 Supreme Court Cases 388 ), (iv) Vasanta Sampat Dupare v. 
+
+Union of India (2025 INSC 1043), (v) Sarwan Kumar v. 
+
+Madan Lal Aggarwal (AIR 2003 S upreme Court 1475) and (vi) Suresh Ch andra Verma v. 
+
+Chancellor, Nagpur University (AIR 1990 S upreme Court 2023), all have unanimously reiterated and re -affirmed the Blackstonian theory. 
+
+According to the jurisprudence developed through their judgments, judicial declarations are retrospective as the courts merely discovers what the law has always been, as is being clarifie d (at the time of 13 Taisei Corporation v. 
+
+A.M. 
+
+Construction Company (Pvt.) Ltd. (2024 SCMR 640) 14 General Post Office v. 
+
+Muhmmad Jalal (PLD 2024 Supreme Court 1276)
+
+============================================================
+PAGE 18
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 18:- announcing a judgment). 
+
+A legal decision only clarifies the true legal position and has retrospective effect, even if earlier courts misunderstood the law. 
+
+The prospective overruling was considered as an exception and not a rule. 
+
+When, however, a statue or a notification/SRO ha ving the force of law is struck down, which is not the case here, the past and closed transactions, in the earlier operative legal framework, would remain protected, which might have been found to be saved under a constitutional frame. 39. 
+
+The cases cited above have reiterated the doctrine of Blackstonian declaratory theory and the temporal reach of new interpretation lies entirely in the court’s discretion. 
+
+When a court overrule an erroneous earlier view, it does not create a law rather restores the law as it always existed. 
+
+Therefore, when a court verifies a correct rule, it is deemed that the law was never otherwise. 
+
+The US jurisprudence is also not dissimilar t o the aforesaid view. 
+
+Fleming15, describe d it as a judicial construction which does not create new law. 
+
+It describes what the statute always meant. 40. 
+
+The blanket exceptional rule of prospective application of interpretation is not only contrary to the settled jurisprudence of our court but also contrary to the settled jurisprudence of every major common law countr y. 41. 
+
+The conclusion of the above analysis lead s us to an irresistible conclusion that interpretation and the judicial pronouncement is always retrospective in its operation as described in the Blackstonian theory whereas contrary is only an exception under severe circumstances, which is faraway in the instant cases. 42. 
+
+We, therefore, in view of the reasoning and the conclusion drawn hereinabove, convert all these petitions into appeal s and the same are 15 Fleming et al. v. 
+
+Fleming ( 234 U.S. 29 (1924)
+
+============================================================
+PAGE 19
+============================================================
+
+Civil Petition No. 4334/25 etc. -: 19:- allowed. 
+
+The impugned order s passed by the High Court and the judgment s of the Tribunal providing the release of the vehicle s on payment of redemption fine at the rate of 35 per cent are set aside and restore order s- in-original passed by the Collector Adjudication, for outright confiscat ion the vehicles. 
+
+The vehicle s stand confiscated without any option of fine to be made available to importers under section 181 of the Customs Act, however, c lause 6 of Appendix -E could be invoked, in case the respondents are so advised. 
+
+Judge Judge Judge Announced in open Court at Islamabad on 4.12.25. 
+
+Judge Approved for Reporting [**]

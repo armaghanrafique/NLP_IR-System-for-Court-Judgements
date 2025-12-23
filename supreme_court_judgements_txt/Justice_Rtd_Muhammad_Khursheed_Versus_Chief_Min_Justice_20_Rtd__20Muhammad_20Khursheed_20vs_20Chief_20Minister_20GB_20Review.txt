@@ -1,0 +1,62 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Justice_Rtd_Muhammad_Khursheed_Versus_Chief_Min_Justice_20_Rtd__20Muhammad_20Khursheed_20vs_20Chief_20Minister_20GB_20Review.pdf
+CONVERSION DATE: 2025-12-23 19:35:06
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 185
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Civil Review No. 02/2016 In Civil Appeal No. 25/ 2015 Justice (Rtd) Muhammad Khursheed Petitioner. 
+
+Versus Chief Minister Gilgit -Baltistan & others Respondents. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Muhammad Issa senior Advocate alongwith Mr. 
+
+Johar Ali Khan Advocate -on-Record for the petitioner. 
+
+DATE OF HEARING: - 03.04.2018. 
+
+ORDER. 
+
+Mr. 
+
+Justice Rana Muhammad Shamim, CJ..... 
+
+This Review Petition has been directed against the impugned judgment dated 30.11.2015 passed by this court whereby the Civil Appeal No. 25/2015 filed by the respondents was allowed by setting aside the impugned jud gment dated 04.12.2013 in Writ Petition No. 19/2012 passed by the learned Chief Court, hence, this Review Petition. 2. 
+
+We have heard the learned counsel for the petitioner who could not point out any illegality and irregularity in the impugned judgment o f this court. 
+
+Consequently, this Review Petition is dismissed by upholding the impugned judgment of this court. 3. 
+
+The Review Petition is dismissed in above terms. 
+
+Chief Judge. 
+
+Judge.

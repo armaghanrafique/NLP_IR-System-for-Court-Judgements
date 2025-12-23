@@ -1,0 +1,46 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Syed_Muhammad_Shah_versus_Provincial_Government_Syed_20Muhammad_20Shah_20versus_20Provincial_20Government.pdf
+CONVERSION DATE: 2025-12-23 19:36:51
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 69
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+IN CHAMBER CPLA No. 10/2012. 
+
+Syed Muhammad Shah Petitioner. 
+
+VERSUS Provincial Government of GB & Others Respondent s. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Shah Baz Khan Advocate on behalf of the Petitioner. 2. 
+
+The Advocate General Gilgit -Baltistan for the respondents. 
+
+ORDER DATED: - 20-10-2015. 
+
+Same order as in CPLA No. 12/2011. 
+
+Chief Judge
+
+============================================================
+PAGE 2
+============================================================
+
+

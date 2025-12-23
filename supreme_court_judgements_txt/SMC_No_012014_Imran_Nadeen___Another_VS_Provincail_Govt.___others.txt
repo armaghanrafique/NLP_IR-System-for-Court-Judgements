@@ -1,0 +1,52 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: SMC_No_012014_Imran_Nadeen___Another_VS_Provincail_Govt.___others.pdf
+CONVERSION DATE: 2025-12-23 19:36:14
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 125
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+SMC. 
+
+No. 01/2014. 
+
+Imran Nadeen & another Petitioner. 
+
+Versus Provincial Govt. & others Respondents. 
+
+PRESENT: - 1. 
+
+The Deputy Attorney General for Pakistan at Gilgit - Baltistan. 2. 
+
+The Advocate General for the respondents. 
+
+ORDER DATED: - 06.04.2016. 
+
+The learned Deputy Attorney General for Pakistan at Gilgit -Baltistan and the learned Advocate General Gilgit -Baltistan jointly submit that the case in hand has beco me infructuous. 
+
+They submitted a Notification No. 
+
+SOH -18/2015 dated 28.07.2015 issued by Government of Gilgit -Baltistan. 
+
+The copy of the said Notification is placed on record of this case. 
+
+In view of the aforementioned Notification, the Sue Moto case No. 01/2014 is disposed of. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.

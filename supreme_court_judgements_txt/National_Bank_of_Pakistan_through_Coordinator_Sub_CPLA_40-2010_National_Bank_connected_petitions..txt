@@ -1,0 +1,186 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: National_Bank_of_Pakistan_through_Coordinator_Sub_CPLA_40-2010_National_Bank_connected_petitions..PDF
+CONVERSION DATE: 2025-12-23 19:35:31
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 10
+ESTIMATED WORD COUNT: 2,510
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPEL LATE COURT, GILGIT B ALTISTAN Before: Mr. 
+
+Justice Muhammad Nawaz Abbasi, Chief Judge. 
+
+Mr. 
+
+Justice Syed Jaffar Shah, Judge. 
+
+Mr. 
+
+Justice Muhammad Yaqoob, Judge. 1. 
+
+CPLA No. 40/2010 National Bank of Pakistan through Coordinator Sub R egion Office Gilgit. 
+
+Petitioner Versus Karim Ahmed Shah and 5 others. 
+
+Respondents 2. 
+
+CPLA No. 4 1/2010 National Bank of Pakistan through Coordinator Sub Region Office Gilgit. 
+
+Petitioner Versus Mirza Hussain and 5 others. 
+
+Respondents 3. 
+
+CPLA No. 4 2/2010 National Bank of Pakistan through Coordinator Sub Region Office Gilgit. 
+
+Petitioner Versus Muhammad Ali Akhtar and 5 others. 
+
+Respondents 4. 
+
+CPLA No. 43/2010 National Bank of Pakistan through Coordinator Sub Region Office Gilgit. 
+
+Petitioner Versus Muhammad Ali Akhtar and 9 others. 
+
+Respondents PETITION FOR LEAVE T O APPEAL AGAINST THE IMPUGNED JUDGMEN T DATED 13 -10- 2009 PASSED BY THE H ON’BLE DIVISION BENCH OF CHIEF COURT GILGIT BALTISTAN. 
+
+Advocate General Gilgit Baltistan. 
+
+Mr. 
+
+Muhammad Hussa in Shahzad Advocate for Petitioners Date of Hearing 17 -03-2010 Order Mr. 
+
+Justice Muhammad Nawaz Abbasi CJ: These Connected Petitions bearing No. 
+
+CPLA No. 40, CPLA No. 41, CPLA No. 42
+
+============================================================
+PAGE 2
+============================================================
+
+2 and CPLA No. 43 have been directed against a consolidated Order dated 13-10-2009 passed by the Chief Court in the Writ Petition s separately filled by the private respondents in the present petitions against the order s of the Returning Officer by virtue of which their nomination papers as candidates in the general e lection of Gilgit Baltistan were rejected on the ground that they being defaulters of National Bank of Pakistan were not qualified to contest the election. 
+
+The order of rejection of the nomination papers of these respondents (candidates) by the Returning O fficer were also upheld by the District Returning Officer in appeals filed by them vide Order dated 12-10-2009. 
+
+The private respondents assailed the above order before the Chief Court by filing separate writ petitions against the Election authorities and N ational Bank of Pakistan without impleading the ir rival candidates. 
+
+The Chief Court vide judgments dated 13-10-2009 allowed the Writ Petition s and while setting aside the order s of rejection of the ir nomination papers declared them qualified to contest the election. 
+
+The National Bank of Pakistan being not satisfied with the judgment of the Chief Court has questioned its legality before this Court through the present petition s. 
+
+The main ground taken therein in support thereof is that the Chief Court without giving effect to clause (g) of Article 37(2) of Gilgit Baltistan (Empowerment and Self Governance) Order 2009 and consider ing the pivotal question involved in the Writ Petitions to the effect “whether the private respondents without discharge of financial liability in terms of loan agreement were qualified to contest the election ” has given verdict contrary to law. 
+
+The operative part of the judgment under challenge is read as under: -
+
+============================================================
+PAGE 3
+============================================================
+
+3 “The Provision 37 (2) (b) of the Order clearly envisages disqualification of an adjudged insolvent from contesting the elections for the Assembly and none of the petitioners have been adjudged to be insolvent by a competent forum and even none of the petitioners have been declared defaulter too by any com petent authority and th e impugned rejection orders are based merely on lists sent by the financial institutions to the elections authorities as such the impugned orders are without jurisdiction and void ab -initio. 
+
+The up short of the above discussion is that the impugned rejecti on orders are set aside declaring the same to be void ab -initio and without jurisdiction and the petitioners are allowed to contest the elections, if they are otherwise qualified. 
+
+Copy of this judgment be sent to the office of Chief Election Commissioner G ilgit Baltistan. ” The precise question for determination would be regarding the effect of clause (g) of Article 37(2) of Gilgit Baltistan (Empowerment and Self Governance) Order 2009 which provides as under: - “he is otherwise disqualified from being mem ber of Assembly by this order or by any other law” The back ground of the case is that private respondents having obtained loan facility from National Bank of Pakistan incurred financial liability of bank and without discharge of their financial liability filed the nomination papers to contest the election for membership of Assembly of Gilgit Baltistan from their respective constituencies in the general elections held in Gilgit Baltistan in October 2009. 
+
+The National B ank of Pakistan on direction of concer ned authorities furnished information regarding the financial liability of the candidates including the private respondents to the Election Commission Gilgit Baltistan and on the basis of this
+
+============================================================
+PAGE 4
+============================================================
+
+4 information the Returning Officer held them bank defaulter and rejected the ir nomination papers. 
+
+The order of Returning Officer was further upheld by the District Returning Officer in appeals filed by the private respondents, whereupon they challenged the order of rejection of their nomination papers before the Chief Court in separate Writ Petition s and Chief Court having considered the matter in the light of provision of Article 37(2) of Gilgit Baltistan (Empowerment and Self Governance) Order 2009 allowed the Writ Petition s through the consolidate judgment and by setting aside the order of rejection of their nomination papers declared them qualified to contest the election. 
+
+The National Bank of Pakistan has questioned the legality of the judgment of Chief Court on the strength of clause 37 (2) (g) of Gilgit Baltistan (Empowerment and Self Governance) Order 2009. 
+
+The Learned Counsel for the Petitioner Bank with reference to the expression “any other law” used in clause (g) of Article 37(2) ibid has submitted that the respondents having not discharged their liability in terms of loan agreement would deemed to be the bank defaulters in terms of West Pakistan Government Dues Recovery Ordinance 1962 read with Financial Institutions (Recovery of Finance) Ordinance 2001 and by virtue of Article 63 of the Constit ution of Pakis tan and Section 99 of the Representation of Peoples Act 1976 they were disqualified to contest the election. 
+
+The proposition raised by the Learned Counsel is that by operation of clause (g) of Article 37(2) of Gilgit Baltistan (Empowerment and Self Govern ance) Order 2009, a person who is
+
+============================================================
+PAGE 5
+============================================================
+
+5 disqualified to become a candidate or a member of the Parliament by virtue of Article 63 of the Constitution of Pakistan read with Section 99 of the Representation of People Act 1976 or any other law for the time being enforced in Pakistan is disqualified to become a candidate or a member of the assembly of Gilgit Baltistan and that without giving effect to clause (g) ibid, the verdict given by the Chief Court Gilgit Baltistan on the basis of clause (b) of Article 37 (2) of the Gilgit Baltistan (Empowerment and Self Governance) Order 2009 would be of no significance. 
+
+Learned Advocate General on court call without disputing the legal position and the proposition of law raised in these petitions submitted that the petitioner Bank has no locus standi to challenge the candidature of the private respondent s in the election. 
+
+The real question before the Chief Court for determination was whether the respondents having not discharged the financial liability of Bank would be treated as Bank defaulters in terms of the definition of “defaulter ” under “Banking Companies (Recovery of Finances ) Ordinance 1962” read with Financial Institutions (Recovery of Finances) Ordinance, 2001 and Government Dues Recovery Ordinance 1962 or any other l aw were not qualified to contest the election. 
+
+The decision of question relating to the qualification and disqualification of a candidate to contest the election or to become member of the Assembly depends on the question of determination of his liability as defaulter of a financial institution and mere liability may not ipso facto be an evidence of default under the law. 
+
+The National Bank of Pakistan without
+
+============================================================
+PAGE 6
+============================================================
+
+6 having any interest in raising objection against the candidature of private respondents to contest the election supplied information to the election commission o n the instructions of governmental authorities regarding their financial liabilities and consequently the bank as such would have no right o r locus standi to challenge their candidature before t he election authorities on the basis of their outstanding liability. 
+
+The factual position is that the election authorities on the basis of information supplied by the bank without determining the question of actual default of private respondents for the p urpose of their disqualification to contest the election under the law formed an opinion that they having incurred the financial liability of the bank were disqualified to contest the election. 
+
+The question whether private respondents were actually bank de faulter under the law was not as such adjudicated and determined by the competent forum and bank also did not initiate process for the recovery of loan or availed the remedy provided under law for recovery of outstanding loan against them rather the electi on authorities in the summary proceedings under election law s on the basis of information regarding their financial liability rejected their nomination papers. 
+
+The mere financial liability of the Bank may not ipso facto create disqualification to contest the election and in any case a loanee of financial institution may not be as such called defaulter without proper adjudication before the appropriate forum.
+
+============================================================
+PAGE 7
+============================================================
+
+7 Be that as it may, the important question requiring consideration would relate to the locus standi of the bank to challenge the candidature of private respondents in the election before the election authorities and to maintain the present petition before this court on the subject. 
+
+This is the right of every financial institution to avail the remedy before proper forum for recovery of the outstanding amount of loan and there is no cavil to the legal position that a person who has been adjudicated as bank defaulter by the competent forum may not be qualified to contest the election as a candidate or becom e member of assembly, but this cannot be disputed that a financial institution may have no right or locus standi to raise objection to the candidature of a person in the election before the election authorities under election laws on the basis of his finan cial liability or avail the remedy of election petition to challenge the candidature of a person on such ground. 
+
+The order of rejection of nomination papers was passed by the Returning Officer and District Returning Officer on the basis of information supp lied by the Bank regarding the financial liability of private respondents without any evidence that they have been adjudicated as bank defaulter by the competent forum. 
+
+This may be seen that financial liability of a financial institution as such may not be the disqualification of a person to contest the election or create any right in favour of such financial institution to challenge his candidature rather on the basis of such liability determined under the relevant law as defaulter, the election authority on the objection by the concerned person may reject his nomination paper or deseat him in accordance with law. 
+
+The bank instead of availing the
+
+============================================================
+PAGE 8
+============================================================
+
+8 remedy before the proper forum for recovery of amount of unpaid loan has questioned the legality of judgment of the Chief Court on the assumption that verdict given therein may cause prejudice to the bank in the matter of recovery of the amount of loan from the private respondent s. 
+
+This may be observed that order s passed by Chief Court in Writ Petition would not in any manner effect the right of bank to avail the remedy against the private respondents for recovery of loan before the proper forum and consequently the interference of thi s court in the impugned judgment at the instance of bank a financial institution may not be proper. 
+
+The petitioner Bank having no direct interest in the disqualification of the private respondent would have no right or locus standi to challenge their candidature and consequently this court in the present position may not dilute upon the question of disqualification of the private respondents. 
+
+There can be no cavil to the proposition that the question relating to the qualification and disqualification of a person could not be determined only on the basis of clause (b) of sub article (2) of Article 37 of the Gilgit Baltistan (Empowerment and Self Governance) Order 2009 without giving effect to the provision of clause (g) of the above sub -article but in present case in absence of adjudication of the private respo ndents as bank defaulters by the competent forum, no definite finding could be given regarding their disqualification on the basis of assertion that outstanding financial liability would ipso facto be an evidence of their being bank default er.
+
+============================================================
+PAGE 9
+============================================================
+
+9 The petitioner Bank has filed this peti tion seeking declaration from this court that private respondents were “bank defaulters ” for the purpose of recovery of the amount of loan and the verdict given by the Chief Court is against the interest of bank. 
+
+We are afraid the petitioner bank without the intervention of this court can avail the remedy for recovery of loan before the appropriate forum in due process of law and the order of Chief Court under challenge before us will not create any hindrance in the way of bank. 
+
+This may be pointed out th at the objection qua the disqualification of private respondents as candidates in the election on the basis of their financial liability was not raised either by their apposing candidate o r any other person from their respective constituency therefore National Bank of Pakistan a financial institution may have no right under the election laws to challenge their candidature. 
+
+This is settled law that a person who is not directly or indirectly affected by an order passed by an authority is not an aggrieved pe rson to have any right or locus standi to challenge such an order. 
+
+The financial liability of a person of public organization may provide a ground for disqualification of such person to hold public office if he has been adjudicated “defaulter” under the la w, and in absence of such evidence of default the declaration regarding qualification of a person to contest election by a court may not infringe the right of financial institution/organization to avail the remedy for recovery of loan from defaulters. 
+
+The petitioner bank on the basis of financial
+
+============================================================
+PAGE 10
+============================================================
+
+10 liability of private respondent may have no personal right to raise objection before the election authorities regarding the qualification of private respondents to become candidate s in the Election and also would not be an aggrieved person against the order of acceptance of the ir nomination papers. 
+
+In the light of the foregoing reasons these connected petitions involving common question of law and facts being without any substance are accordingly dismissed. 
+
+Chief Judge Judge Judge

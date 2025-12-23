@@ -1,0 +1,48 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Irfan_Hussain_others_vresus_National_Bank_of_Pak_Irfan_Hussain___others_vresus_NBP.pdf
+CONVERSION DATE: 2025-12-23 19:35:04
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 163
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 19/2015. 1. 
+
+Irfan Hussain s/o Mastan Ali r/o Village Shayar Akuddas, Nagar District Hunza -Nagar. 2. 
+
+Faqir Muhammad s/o Malik Ashder r/o Village Nilt Tehsil Sikandar Abad Nagar -02 TGT BPS - 17 Education Department GB. 3. 
+
+Muhammad Hussain s/o Nazar Shah r/o Village Dagudai Tehsil Nagar -1 TGT BPS -17 Education Department GB. 
+
+Petitioners/Judgment Debtors. 
+
+Versus National Bank of Pakistan Karim Abad Branch Hunza Respo ndent/Decree Holder. 
+
+APPLICATION FOR LEAVE TO APPEAL AGAINST IMPUGNED JUDGMENT/ORDER DATED 18.08.2014 PASSED BY THE DIVISION BENCH OF CHIEF COURT GILGIT -BALTISTAN IN SUIT NO. 116/11 VIDE CFA NO. 53/2012 WHEREBY THE APPEAL OF THE PETITIONER/APPELLANT WAS D ISMISSED AGAINST LAW AND FACT OF THE CASE. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Amjad Hussain Advocate for the petitioners ORDER DATED: - 19.04.2016. 
+
+Since the matters are connected with each other, therefore, same order as in Civil Appeal No. 39/2015 in CPLA No.30/2012. 
+
+Chief Judge. 
+
+Judge.

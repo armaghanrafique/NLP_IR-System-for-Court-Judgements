@@ -1,0 +1,72 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Civil_Appeal_No_862016_Abdullah_20Jan_20Vs_20Mohsin_20Ali.pdf
+CONVERSION DATE: 2025-12-23 19:33:56
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 1
+ESTIMATED WORD COUNT: 167
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Before: - Mr. 
+
+Justice Dr. 
+
+Rana Muhammad Shamim, Chief Judge. 
+
+Mr. 
+
+Justice Javed Iqbal, Judge. 
+
+Civil Misc. 
+
+No. 17/201 8 in Civil Review No. 21/2017 in Civil Appeal No. 86/201 6. 
+
+Abdullah Jan & others Petitioners. 
+
+Versus Mohsin Ali Respondent. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Munir Ahmed Advocate alongwith Mr. 
+
+Ali Nazar Khan Advocate -on-Record for the petitioners. 2. 
+
+Mr. 
+
+Sherbaz S/o Ibrahim attorney for the petitioners is present in person. 3. 
+
+Mr. 
+
+Mohsin Ali S/o Alamdar respondent is present in person. 
+
+DATE OF HEARING: - 17.05.2018. 
+
+ORDER. 
+
+Mr. 
+
+Munir Ahmed learned counsel for the petitioners alongwith Mr. 
+
+Sherbaz S/o Ibrahim Attorney for the petitioners present in court today and states tha t the matter has already been compromised between the parties and the case pending in the lower court has already been withdrawn. 
+
+He requests that the petitioners be allowed to withdraw the above Review Petition. 
+
+This petition is dismissed as withdrawn. 
+
+Chief Judge. 
+
+Judge.

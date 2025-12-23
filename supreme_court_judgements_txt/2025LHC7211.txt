@@ -1,0 +1,564 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: 2025LHC7211.pdf
+CONVERSION DATE: 2025-12-23 19:32:23
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 16
+ESTIMATED WORD COUNT: 7,212
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+Stereo. 
+
+H C J D A 38. 
+
+Judgment Sheet IN THE LAHORE HIGH COURT AT LAHORE. 
+
+JUDICIAL DEPARTMENT STR No. 9011 of 2021 Quaid-e-Azam Thermal Power Private Limited Versus Appellate Tribunal Inland Revenue and 3 others JUDGEMENT Date of Hearing: 04.11.2025 Applicant by: In STR Nos. 9011 & 49639 of 2021 M/s. 
+
+Umair Ahmad and Haris Irfan, Advocates In STR No. 16313 of 2024 Mr. 
+
+Yasir Islam Chaudhary, Advocate In STR No. 63693 of 2024 Ms. 
+
+Humera Bashir, Advocate Respondents by: For Federation of Pakistan in all cases Mirza Nasar Ahmad, Additional Attorney General alongwith Mr. 
+
+Asad Ali Bajwa, Deputy Attorney General & Mr. 
+
+Shakil A. 
+
+Pasha, Assistant Attorney General For CIR/FBR In STR No. 9011 of 2021 Barrister Ahmed Pervaiz and Barrister Ahad Asif For CIR/FBR in STR No. 49639 of 2021 Mr. 
+
+Muhammad Yahya Johar, Advocate In STR No. 16313 of 2024 M/s. 
+
+Hashim Aslam Butt, Ahmad Yar Khan, Muhammad Irfan & Muhammad Umer Shahzad, Advocates KHALID ISHAQ, J. 
+
+This judgment will decide the captioned Sales Tax Reference as well as the following Sales Tax References since common questions of law and facts are involved in all these cases: i. 
+
+STR No. 49639 of 2021 ii. 
+
+STR No. 16313 of 2024 iii. 
+
+STR No. 63693 of 2024 2. 
+
+For the purpose of this judgment, the facts of the present case shall suffice.
+
+============================================================
+PAGE 2
+============================================================
+
+STR No. 9011 of 2021 Page 2 3. 
+
+This Sales Tax Reference Application, filed under section 47(1) of the Sales Tax Act, 1990 (the “Act, 1990” ), seeks opinion of this Court on the following questions of law, which are said to have arisen from order dated 27.11.2020 (“ Impugned Order ”) passed by Appellate Tribunal Inland Revenue, Lahore (“ Tribunal ”): “i) Whether the respondents could have disallowed input tax amounting to PKR 986,088,811/- claimed on taxable services while erroneously assuming that the input tax was not paid to the concerned provincial sales tax authority in ignorance of the facts and evidence? ii) Whether the respondent could have disallowed input tax amounting to Rs. 986,088,811/- claimed on taxable services while erroneously assuming that the input tax was relating to the purchase of construction raw materials like cement, steel etc. as opposed to construction services in ignorance of the facts and evidence?” 4. 
+
+The facts giving rise to the lis at hand are that while scrutinizing the sales tax returns of the applicant for the tax period 04/2016, 05/2016, 12/2016 and 04/2017, the Assessing Officer observed that the petitioner has claimed inadmissible input tax amounting to Rs.986,088,811/- against invoices issued to the applicant taxpayer by M/s. 
+
+HEI-HRL Joint Venture (“ JV”) for procuring services for the construction, installation and commissioning of 1180 Megawatts, RLNG based power plant at Bhikki, Sheikhupura (“ Project”). 
+
+The JV was admittedly registered with Punjab Revenue Authority (“ PRA”) at the relevant time. 
+
+The claim of input tax adjustment was related to the services in the form of Engineering, Procurement and Construction Agreement (“ EPC Agreement ”). 
+
+It was the case of the respondent department, affirmed by the Tribunal, that in essence, the EPC Agreement was essentially a contract for the sale of goods in relation to fixed assets and not for the provision of construction services. 
+
+The main thrust of the respondent department is premised on the provisions contained in Clauses (a) & (h) of sub-section (1) of Section 8, read with Section 2 (14) and Section 7 of the Act, 1990. 
+
+On the basis of Revenue’s inferences, the applicant taxpayer was served a show cause notice dated 15.05.2017 (“ SCN”), issued under Section 11 of the Act, 1990, calling upon the applicant taxpayer to explain as to why the amount of Rs.986,088,811/- should not be recovered from it alongwith default surcharge and penalty. 
+
+The SCN was duly replied, refuting all charges and maintaining that the input tax was lawfully claimed. 
+
+However, while rendering the said reply unsatisfactory, the Assessing Officer proceeded to pass order-in-original No.10/2018 dated 03.01.2018
+
+============================================================
+PAGE 3
+============================================================
+
+STR No. 9011 of 2021 Page 3 (“ONO”) against the applicant taxpayer. 
+
+Feeling aggrieved, the applicant taxpayer filed an appeal under section 45B of the Act, 1990 before the Commissioner Inland Revenue (Appeals), which appeal was dismissed vide order dated 27.03.2019 and consequently the ONO was upheld. 
+
+Applicant taxpayer filed 2nd appeal under Section 46 of the Act, 1990 before the Tribunal, which appeal was also dismissed vide the Impugned Order. 
+
+Hence this Reference Application. 5. 
+
+Learned counsel for the applicant taxpayer submits that the respondent department as well as the Tribunal erred in law while disallowing the input tax adjustment made by the applicant taxpayer regarding the services procured from JV against which the provincial sales tax on services was duly paid to the PRA, therefore, in terms of Sections 7 and 2(14)(d) of the Act, 1990, the applicant taxpayer lawfully claimed input tax adjustment from its output tax against the sale of electricity being generated from its plant as the services procured by the applicant taxpayer and rendered by the JV were taxable under the Punjab Sales Tax on Services Act, 2012 (“Act, 2012 ”), read with Punjab Sales Tax on Services (Adjustment of Tax) Rules, 2012 (“Rules, 2012 ”); adds that the Second Schedule of the Act, 2012, as it stood at the relevant time, provided for a list of services which were amenable to provincial sales tax; learned counsel has specifically referred to Entries No.14 and 16 of the Second Schedule of the Act, 2012. 
+
+Placed Reliance on Commissioner Inland Revenue, Legal Zone, LTO and another v. 
+
+M/s. 
+
+Mayfair Spinning Mills Ltd and others (2025 SCMR 1 ), Commissioner Inland Revenue, Corporate Zone, RTO Peshawar v. 
+
+M/s. 
+
+Flying Kraft Paper Mills and another (2025 SCMR 724 ), Association of Builders and Developers of Pakistan v. 
+
+Province of Sindh and others (2018 PTD 1487 ), Commissioner Inland Revenue v. 
+
+M/s. 
+
+Descon Engineering Ltd. (2022 PTD 1209), M/s. 
+
+International Body Boilers v. 
+
+Sales Tax Office Lahore and 2 others (1979 PTD 488 ), Sales Tax Officer, Lahore v. 
+
+M/s. 
+
+International Body Builders, and others (1987 SCMR 1398 ), Pak Telecon Mobile Ltd. v. 
+
+Federation of Pakistan and others (2017 PTD 2296 ), Commissioner Inland Revenue v. 
+
+M/s. 
+
+Attock Cement Pakistan Ltd. (2023 PTD 320 [SC]), Coca-Cola Beverages Pakistan Ltd. v. 
+
+Customs, Excise and Sales Tax Appellate Tribunal (2017 PTD 2380), Nishat Mills Ltd. v. 
+
+Federation of Pakistan (ICA No. 72329 of 2019 decided on 29.01.2020 ).
+
+============================================================
+PAGE 4
+============================================================
+
+STR No. 9011 of 2021 Page 4 6. 
+
+Conversely, learned counsel for the respondent department submits that the applicant has purchased/procured the building materials and not services from JV and thus, under Section 8(1)(a)(h) of the Act, 1990, the input tax adjustment has rightly been disallowed against the said purchase; adds that the building being constructed by the JV for the applicant taxpayer under the EPC Agreement does not have any direct nexus with taxable supply of the applicant as the applicant taxpayer merely supplies electricity to its customers/recipients and component of the building is not related to its core taxable activity; further adds that the basic spirit of Section 7, when read with Section 8 of the Act, 1990 is to adjust or refund input tax for items which are part of the supply chain. 
+
+Learned counsel for the respondent department has taken a great pain to argue that the adjustment sought to be made is hit by clauses (h) & (i) of sub-section (1) of Section 8 of the Act, 1990; contends that Sub-section (14) of Section 2 of the Act, 1990 is only a definition clause and thus, does not create any legal right for claiming input tax; further contends that as a matter of fact, the applicant taxpayer has purchased the construction material i.e. cement, iron etc. for the purpose of construction of building and there is no provision available in the Second Schedule of the Act, 2012, which may cover the supply of building material as services amenable to input adjustment in terms of Section 7, read with Section 8 of the Act, 1990. 
+
+Placed reliance upon Commissioner of Income tax Companies Zone, Islamabad v. 
+
+M/s. 
+
+GEOFIZYKA KRAKOW Pakistan Ltd., Islamabad (2015 PTD 2067 ), Nishat Mills Ltd. v. 
+
+Federation of Pakistan and others (2020 PTD 101 ), Nishat Mills Ltd. v. 
+
+Federation of Pakistan and others (2020 PTD 1641 ), M/s. 
+
+Syntronics Limited, Industrial Estate, Hattar v. 
+
+Additional Collector (Adj) Customs, CE & Sales Tax Peshawar (2007 PTD 749). 7. 
+
+Arguments heard. 
+
+Record perused. 8. 
+
+In essence, the following proposition of law requires determination by this Court: i. 
+
+Whether the EPC Agreement executed between the applicant taxpayer and JV is a contract for sale and purchase of goods or a contract for rendering services.
+
+============================================================
+PAGE 5
+============================================================
+
+STR No. 9011 of 2021 Page 5 ii. 
+
+Whether the Project constructed under the EPC Agreement is a valid admissible input, which can be adjusted against the applicant taxpayer’s output i.e. electricity. 9. 
+
+Since many changes have taken place in the relevant provisions of law and rules, which are at play in the case in hand, therefore, the relevant provisions, as they stood at the relevant time, are reproduced herein below: Section 2 (14) of the Act, 1990 2(14) “input tax”, in relation to a registered person, means – (a) tax levied under this Act on supply of goods to the person; (b) tax levied under this Act on the import of goods by the person; (c) in relation to goods or services acquired by the person, tax levied under the Federal Excise Act, 2005 in sales tax mode as a duty of excise on the manufacture or production of the goods, or the rendering or providing of the services;] (d) […….] [Provincial Sales Tax levied on services rendered or provided to the person; and] (e) levied under the Sales Tax Act, 1990 as adapted in the State of Azad Jammu and Kashmir, on the supply of goods received by the person;] Section 7 of the Act, 1990 7. 
+
+Determination of tax liability. – (1) [Subject to the provisions of [section 8 and], for] the purpose of determining his tax liability in respect of taxable supplies made during a tax period, a registered person shall [, subject to the provisions of section 73,] be entitled to deduct input tax [paid [or payable [during the tax period for the purpose of taxable supplies made, or to be made, by him] from the output tax [excluding the amount of further tax under sub-section (1A) of section 3.] [ ] that is due from him in respect of that tax period and to make such other adjustments as are specified in Section 9 [:] Section 8 of the Act, 1990 [8. 
+
+Tax credit not allowed. – (1) Notwithstanding anything contained in this Act, a registered person shall not be entitled to reclaim or deduct input tax paid on – (a) the goods or services used or to be used for any purpose other for taxable supplies made or to be made by him; (b) any other goods or services which the Federal Government may, by a notification in the official Gazette, specify; (c) the goods under sub-section] (5) of section 3; (ca) the goods or services in respect of which sales tax has not been deposited in the Government treasury by the respective supplier; (caa) purchases, in respect of which a discrepancy is indicated by CREST or input tax of which is not verifiable in the supply chain; (d) fake invoices;
+
+============================================================
+PAGE 6
+============================================================
+
+STR No. 9011 of 2021 Page 6 (e) purchases made by such registered person, in case he fails to furnish the information required by the Board through a notification issued under sub- section (5) of section 26; (f) goods and services not related to the taxable supplies made by the registered person; (g) goods and services acquired for personal or non-business consumption; (h) goods used in, or permanently attached to, immoveable property, such as building and construction materials, paints, electrical and sanitary fittings, pipes, wires and cables, but excluding pre-fabricated buildings and] such goods acquired for sale or re-sale or for direct use in the production or manufacture of taxable goods; (i) vehicles falling in Chapter 87 of the First Schedule to the Customs Act, 1969 (IV of 1969), parts of such vehicles, electrical and gas appliances, furniture furnishings, office equipment (excluding electronic cash registers), but excluding such goods acquired for sale or re-sale; (j) services in respect of which input tax adjustment is barred under the respective provincial sales tax law; (k) import or purchase of agricultural machinery or equipment subject to sales tax at the rate of 7% under Eighth Schedule to this Act; and (l) from the date to be notified by the Board, such goods and services which, at the time of filing of return by the buyer, have not been declared by the supplier in his return or he has not paid amount of tax due as indicated in his return. 
+
+Section 2(38) of the Act, 2012 2...... (38). “Service” or “Services” means anything which is not goods or providing of which is not a supply of goods and shall include but not limited to the services listed in First Schedule; Explanation.—A service shall remain and continue to be treated as service regardless whether or not rendering thereof involves any use, supply, disposition or consumption of any good either as an essential or as an incidental aspect of such rendering; Entry No.14 to the Second Schedule of the Act, 2012 14. 
+
+Construction services and services provided by contractors of building (including water supply, gas supply and sanitary works), roads and bridges, electrical and mechanical works (including air conditioning), horticultural works, multi- discipline works (including turn-key projects) and similar other works but:..... 
+
+Entry No.16 to the Second Schedule of the Act, 2012 16. 
+
+Services provided by persons engaged in contractual execution of works or furnishing supplies...... 10. 
+
+The applicant taxpayer made input tax adjustments against its output tax in terms of Section 7 of the Act, 1990 and a sum of Rs.986,088,811/- was claimed as admissible input tax for the relevant tax periods on the basis of
+
+============================================================
+PAGE 7
+============================================================
+
+STR No. 9011 of 2021 Page 7 invoices issued by JV, whereby, the same amount of tax was collected and deposited by the JV with the PRA in terms of the then applicable Second Schedule of Act, 2012. 
+
+The perusal of the relevant entries i.e. 
+
+Entries No.14 & 16, of the Second Schedule of Act, 2012, as reproduced above, when read with Section 2(14)(d) of the Act, 1990, clearly brings home that the services procured by the applicant taxpayer and rendered by the JV were taxable services under the Act, 2012 and the provincial sales tax paid being admissible input tax, was also adjustable at the relevant time. 
+
+Of course, the entitlement of input tax adjustment is subjected to the conditions enumerated in Section 8 of the Act, 1990. 
+
+The perusal of Section 8 ibid would reflect that in the facts and circumstances of the case in hand, the respondent department as well as the learned Tribunal have attempted to invoke the mischiefs of clauses (a) & (h) of Sub-section (1) of Section 8 ibid to deny the admissibility of input tax adjustment in question. 
+
+While considering various clauses of the EPC Agreement, the learned Tribunal has proceeded to hold that in essence, the EPC Agreement is a contract for sale of goods in relation to fixed assets, therefore, the findings rendered by the Tribunal led to the conclusion that it was an agreement for sale of goods and not for provision of construction services. 
+
+With respect, for rendering such opinion, the learned Tribunal has dissected the scope of EPC Agreement, relied upon one of its component and ignored the overwhelming, controlling and predominant features and effects of the same. 
+
+Whilst it may be true that the determination of the legal effect of a contract may involve the application of external rules of law (for example: the intervention of a statute, or some rule of public policy) which has nothing to do with the intention of the parties as expressed in their contract and that the determination of the legal effect to be given to the contract may turn in part on words which the parties have not actually used, which are properly to be implied, and it is now settled that the process of implying terms may be resorted to in interpretation of contracts. 
+
+Nonetheless, it is equally well settled that such construction is to be made in the meaning which the instrument would convey to a reasonable person having all the background knowledge, which would reasonably be available to the audience to whom the instrument is addressed. 
+
+The purpose of interpretation is to assign to the language of the text the most
+
+============================================================
+PAGE 8
+============================================================
+
+STR No. 9011 of 2021 Page 8 appropriate meaning which the words can legitimately bear1. 
+
+The aim of the inquiry is not to probe the real intentions of the parties but to ascertain the contextual meaning of the relevant contractual language. 
+
+The inquiry is objective: the question is what a reasonable person, circumstanced as the actual parties were, would have understood the parties to have meant by the use of specific language. 
+
+The answer to that question is to be gathered from the text under consideration and its relevant contextual sense2. 
+
+Per Lord Hoffmann's statement3: ‘Interpretation is the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract ’. 11. 
+
+It is well settled position of law that for proper comprehension and insight of an agreement, it is to be read as a whole and where its language was simple, then the intention of the parties be gathered from its contents without adverting to any extraneous factors4. 
+
+The construction of a document as a whole necessarily involves giving effect to each part of it in relation to all other parts of it. 
+
+Accordingly, as a corollary of the principle that a document must be construed as a whole, effect must be given to each part of the document. 
+
+It is also well settled that while interpreting covenants of a document, it has to be seen that what was the main purpose and object, which brought the parties to the table to sign the document5. 
+
+It is vouched by the respectable authority that in construing a document, one has to read the same as a whole and not by picking and choosing a particular paragraph or portion thereof6. 
+
+Similarly, it is a cardinal principle of interpretation of documents that in order to determine the true nature of a document, the Courts have to read the document as a whole and to look at the substance and not the form or its title7. 
+
+In order to arrive at the true interpretation of a document, a clause must not be considered in isolation, but must be considered in the context of the whole of the document. 
+
+In the words of 1 Commerzbank AG v. 
+
+Jones [2003] EWCA Civ 1663 2 Sirius International Co. v. 
+
+FAI General Insurance Ltd. [2004] 1 W.L.R. 3251 3 Investment Compensation Scheme v. 
+
+West Bromwich Building Society [1998] 1 W.L.R 896 4 Raja Ali Shan v. 
+
+M/s. 
+
+Essem Hotel Limited and others (2007 SCMR 741 ), Liaqat Ali Khan and others v. 
+
+Falak Sher and others (PLD 2014 SC 506 ), Montage Design Build through Partner v. 
+
+The Republic of Tajikstan through the Embassy of Tajikistan and 2 others (2015 CLD 8 ), Petroleum Exploration (Private) Ltd. v. 
+
+Federal Government of Pakistan through Secretary, Ministry of Petroleum and Natural Resources and 3 others (PLD 2020 Islamabad 214 ) 5 Abdul Ghaffar Adamjee and others v. 
+
+National Investment Trust Limited and another (2019 SCMR 812 ) 6 Anwar ul Haq v. 
+
+Federation of Pakistan (1995 SCMR 1505 ) 7 Abdur Razzaq v. 
+
+Shah Jahan ( 1995 SCMR 1489 )
+
+============================================================
+PAGE 9
+============================================================
+
+STR No. 9011 of 2021 Page 9 Lord Hallsbury L.C.8: ‘Looking at the whole of the instrument, and seeing what one must regard as its main purpose, one must reject words, indeed whole provisions, if they are inconsistent with what one assumes to be the main purpose of the contract’. 
+
+Considering the foregoing settled principles of interpretation of a contract/document, the treatment being given to EPC Agreement by the learned Tribunal is inconsequential as only the segment of the use of the material i.e. cement, steel etc., for the main purpose of the Project, has been considered, whereas, the rest of the provisions of the EPC Agreement have been ignored for no plausible and legal reasons. 12. 
+
+While handing down these findings, the learned Tribunal has failed to take into account the provisions contained in Section 2(38) of the Act, 2012, the effect of which omission goes to the very root of the issue in hand. 
+
+The only lawful inference, which may arise from the perusal of Section 2(38) of the Act, 2012 is to the effect that the contract in issue i.e. the Turnkey Project, has to be construed and treated as service regardless of the fact that a component of such taxable services involved consumption of any goods either essentially or incidentally. 
+
+The doubt about such an interpretation, if any, is nullified by the explanation supplied under Section 2 (38) of the Act, 2012, which is to the effect that even an essential use or consumption of goods for the provision of services, will not render the same as an agreement of sale of goods. 
+
+Considering the nature of the EPC Agreement (“Turnkey Agreement”), as evident from various clauses of the same, would lead to an ineluctable conclusion that it was not an agreement for procurement of building materials for the project and was rather a turnkey arrangement for the complete and satisfactory construction, installation and commissioning of the Project. 
+
+The nature of the scope of work and services being rendered for the applicant taxpayer, the procurement of building material, in isolation of the commissioning of the project, is of no avail to the applicant taxpayer. 
+
+Without burdening this judgment by reproducing the relevant provisions of the EPC Agreement, we are inclined to note that a bare perusal of clauses 1.1, 1.3, 4.1, 5.1 and 7.1 would clearly demonstrate the overwhelming and controlling feature of the EPC Agreement, whereby, it is the JV’s responsibility to execute, complete, operationalize and remedy the Project, therefore, the mere reliance on the goods being consumed in the Project’s 8 Glynn v. 
+
+Margetson & Co. [1893] A.C. 351
+
+============================================================
+PAGE 10
+============================================================
+
+STR No. 9011 of 2021 Page 10 design, completion and execution, from its initiation to fruition, is utterly misplaced for construing the taxable services as sale of goods. 13. 
+
+The question of affixation of building material to immoveable property and treating such an agreement as sale of building material is neither new nor novel as the same question was decided as back as in 1979 by a learned Division Bench of this Court in the case of M/s. 
+
+International Body Boilers v. 
+
+Sales Tax Office Lahore and 2 others (1979 PTD 488 ) in the following terms: “13. 
+
+In view of the above a transaction involving sale of a chattel on thing which accedes to the immovable property inseparably and which had not been sold as such or in parts before it was worked in, will not amount to sale of goods. 
+
+Again a transaction involving any service and not transfer of a property, will not be a sale and generally will not be taxable, except under a special statutory provision. 
+
+However, there may be certain contracts in which one of the parties engages itself to render service and also supply its own material for the completion of the work for a pecuniary or other consideration to be paid by the other party. 
+
+The question then arises whether the finished articles or the materials with labour supplied by the workmen should be considered as purchased by the other party? It was held in Clark v. 
+
+Bulmer that there can be no contract of sale unless the contract contemplates the delivery of a chattel as such and not merely the affixing of a chattel by the workman to land or some other chattel....... 15....... 
+
+But if the substance of the contract is that skill and labour have to be exercised for the production of the article and that it is only ancillary to that there will pass from the producer to his client some materials in addition to the skill involved, the substance of the contract is skill and it will not be a sale of goods. (see Clark v. 
+
+Mumford.)......... 21........ (1) A contract whereby a chattel is to be made and affixed by the workman to land or to another chattel before the property therein is to pass, is not a contract of sale, but a contract for work, labour and materials, for the contract does not contemplate the delivery of a chattel as such.” 14. 
+
+It is pertinent to mention that the above-mentioned judgment of the learned Division Bench of this Court was assailed before the Supreme Court of Pakistan and the same was upheld vide judgment reported as Sales Tax Officer, Lahore v. 
+
+M/s. 
+
+International Body Builders, and others (1987 SCMR 1398 ). 
+
+Similarly, in the case of Association of Builders and Developers of Pakistan v. 
+
+Province of Sindh and others (2018 PTD 1487 [DB] ), it was observed as under: “39. 
+
+In addition to the foregoing, there is another aspect of "construction services" that must be considered. 
+
+It could be that a construction contract, and activities associated with it is multi-dimensional in the sense that the contract may contain elements that constitute "construction services" and others that do not. 
+
+For example, the owner may engage the contractor on an omnibus basis, engaging the latter not
+
+============================================================
+PAGE 11
+============================================================
+
+STR No. 9011 of 2021 Page 11 only to undertake the actual construction but also to procure the necessary materials and supplier, etc, required for the same what would be the position of such a contractor? Here, for illustrative purposes only we assume that the contractor does not come within the scope of heading No. 9814.2000. i.e., that he could be covered by entry No. 9824.0000. 
+
+But would that be so? Would a contract that contains different elements, some of which may well fall outside the scope of "construction services" nonetheless come within the scope of the tariff heading by reason of those elements that do come within its ambit? Such a situation, by no means uncommon of exceptional, would, it our view, require application of the "dominant intention" test relied upon by learned counsel for the petitioners. 
+
+It is therefore necessary to consider this aspect. 40......... 
+
+In our view, if the contract or activity to which heading No. 9824.0000 is sought to be applied is multi-dimensional in the sense noted above, then the "dominant intention" test can usefully be resorted to in order to determine whether the nature is such that it can be regarded as the providing of "construction services". 
+
+It will be recalled that in this context learned counsel for the petitioners also relied upon an American case, a decision of the Court of Appeals for the 5th Circuit. 
+
+This is Propulsion Technologies Inc. v. 
+
+Aitwood Corporation 369 F.3d 896 (2004). 
+
+It was there held as follows (relying on a decision of the Texas Supreme Court); "In such hybrid transactions [such as building contracts involving the sale of both services and materials], the question becomes whether the dominant factor or essence of the transaction is the sale of materials or of services". 
+
+Reference may also be made to a decision of the Court of Appeals for the 8th Circuit. 
+
+Bunebrake v. 
+
+Cox 499 F.2d 951 (1974), where multi-dimensional contracts were referred to as "mixed contracts". 
+
+It was observed that such contracts were "legion", and it was held as follows: "The test... is not whether they are mixed, but, granting than they are mixed, whether their predominant factor, their thrust, their purpose, reasonably stated, is the rendition of service, with goods incidentally involved...or is a transaction of sale, with labor incidentally involved...". 
+
+These formulations can usefully be applied while determining whether a multi-dimensional contract is such that it constitutes the providing of "construction services".” 15. 
+
+The same view has since been consistently followed by this Court. 
+
+The reliance may also be placed upon Commissioner Inland Revenue v. 
+
+M/s. 
+
+Descon Engineering Ltd. (2022 PTD 1209 [DB] ), wherein it was held as under: “16. 
+
+It is also pertinent to mention here that the contract of construction of immovable property is indivisible. 
+
+The issue of indivisibility of contract of construction of immovable property was also considered by this Court in International Body Builders v. 
+
+Sales Tax Officer, Lahore and 2 others (1979 PTD 488), wherein it was approved that a building contract is one and indivisible and involves no sale of goods. 
+
+It was further observed that in such a contract, goods pass on as accession to immoveable property and no supply of goods is involved. 17. 
+
+The expression "taxable supply" and "taxable activity" both operate in their own respective fields. 
+
+The quantum of tax liability is determined on the basis of the value of taxable supply, but the liability to pay tax under the charging section would arise only when such supply is made in furtherance of taxable activity. 
+
+The taxable activity defined in the Act meant any activity involving in whole or in part, the supply of goods to any other person. 
+
+Keeping in view the definition of "goods" in subsection (12) of Section 2, construction of immovable property cannot be treated as "goods" by any stretch of imagination. 
+
+Therefore, it is held that supply of material consumed in the course of execution of construction was not made in furtherance of a taxable activity, therefore, taxpayer cannot be held liable to pay sales tax. 
+
+The Courts while construing the provisions of statutes should made efforts that the interpretation of the relevant provisions of statute should be in consonance with the provisions of the Constitution and the ground norms of human
+
+============================================================
+PAGE 12
+============================================================
+
+STR No. 9011 of 2021 Page 12 rights. 
+
+All the statutory provisions have to be interpreted harmoniously and consistently with the constitutional provisions, the paramount law, already occupying the field...... 18. 
+
+Undoubtedly, the building material i.e. cement, crush, iron etc., being constituent parts of immovable property, are integral part of such property. 
+
+Thus, the entire proceedings of assessment were based on misapplication of law, and have been rightly annulled by learned Appellate Tribunal. 
+
+Learned Legal Advisor for applicant-department failed to pinpoint any illegality or legal infirmity in the impugned order.” 16. 
+
+A judgment from the Indian jurisdiction in the case of State of Gujarat v. 
+
+M/s. 
+
+Variety Body Builders (AIR 1976 SC 2108 ), as referred by the learned counsel for the applicant, has some striking similarities to the proposition in hand. 
+
+M/s. 
+
+Variety Body Builders entered into three contracts with Western Railways Administration for construction of railway coaches on the under- frames supplied by the said Railway Administration. 
+
+The Supreme Court of India noted that the only question before it was whether the contracts entered into by the respondent with the Railway Administration for construction of railway coaches are ‘contracts for sale of goods’ or ‘work contracts’. 
+
+After examining various clauses of the contract, the Supreme Court of India enumerated various features of contracts for determining the question that whether the contract was for sale or service and concluded that the “ intention of the parties at the time of entering upon the contract was not to transfer any completed railway coach by the contractor to Railway. 
+
+The end product, being a railway coach, is the result of work labour and materials of the contractor as well as of the Railway as also of the latter’s constant supervision and control ”. 
+
+It was concluded that “ from the totality of the material terms, and conditions in the agreement set out above, it is not possible to hold that the parties intend that the contractor transferred the property in the railway coach to the Railway after its completion. 
+
+The essence of the contract or the reality of the transaction as a whole indicates that the contract is contractor work and labour ”. 
+
+Thus, it was held that “ all this [the various features of the contract] would go to show that the predominant element in the contract is the work and labour aspect and supply of material is only accessory although the material were definitely necessary for execution of the work ”. 
+
+Another judgment from the Indian jurisdiction is also of precipitable reference for the proposition in hand. 
+
+While dealing with a contract of construction of rolling shutters and steel works viz the fixation of building materials to immoveable property, the Supreme Court of
+
+============================================================
+PAGE 13
+============================================================
+
+STR No. 9011 of 2021 Page 13 India held in the case of Vangaurd Rolling Shutters and Steel v. 
+
+Commissioner of Sales Tax, U.P. (AIR 1977 SC 1505 ) that: “The circumstance that the materials have no separate identity as a commercial article and it is only by bestowing work and labour upon them, as for example by affixing them to the building in case of window-leaves or wooden doors and windows that they acquire commercial identity, would be prima facie indicative of a work contract. 
+
+So also where certain materials are not merely supplied but fixed to an immovable property so as to become a permanent fixture and an accretion to the said property, the contract prime facie would be work contract.” 17. 
+
+Likewise, in the case reported as Government of Andhra Pradesh v. 
+
+Guntur Tobaccos Ltd. (1965 AIR SC 1396 ), the Supreme Court of India observed as follows: “The fact that in the execution of a contract for work some materials Are used and property in the goods so used passes to the other party, the contractor undertaking to do the work will not necessarily be deemed on that account to sell the materials.” The above clearly brings home that the reliance placed upon Section 8 (1)(h) of the Act, 1990 to disallow the admissible input tax is misconceived. 18. 
+
+This brings us to the second limb of the objection qua the admissibility of the input tax adjustment. 
+
+It is argued by the respondent department, as also held by the Tribunal that the Project is not related to taxable supplies made by the applicant taxpayer. 
+
+Apart from an apparent contradiction in the findings rendered by the Tribunal, whereby, the Tribunal proceeded to hold that the EPC Agreement was not for the provision of construction of services and is rather an arrangement of sale of goods, but in the same breath, the learned Tribunal held that the EPC Agreement pertained to ‘ provision of services in relation to civil work’. 
+
+Without prejudice to the foregoing, It is fall to be noted that the input being claimed by the applicant in the instant matter is the construction services used to design, build and operate the Project, which Project is inextricably linked to the core taxable activity of the applicant taxpayer. 
+
+Section 2 (14)(d) of the Act, 1990 defines ‘ input’ to include ‘ services’, which are subject to provincial sales tax, hence, the construction services were lawfully claimed as an input. 
+
+It is observed that initially it was alleged by the respondent department that the corresponding amounts of sales tax on services were not deposited/paid to PRA, however, this issue is not in dispute any further nor the same has been argued by the respondent’s counsel. 
+
+In order to refute the unsustainable invocation of Section 8(1)(a) of the Act, 1990, the reliance may be placed upon
+
+============================================================
+PAGE 14
+============================================================
+
+STR No. 9011 of 2021 Page 14 a recent and authoritative judgment of the Supreme Court of Pakistan reported as Commissioner Inland Revenue, Corporate Zone, RTO Peshawar v. 
+
+M/s. 
+
+Flying Kraft Paper Mills and another (2025 SCMR 724 ), wherein it was observed as under: “5. 
+
+The only grievance agitated by the appellant-department is that the input tax paid has been unlawfully adjusted against output tax as the sales tax collected on the supply of these utilities to the residences of the workers in the labour colony have no nexus with the taxable activity of the respondent-company and hence would not come within the frame of section 7(1) of the Act........ 
+
+The residence of labour and work place is shown as "one unit" and is also registered as "one manufacturing unit". 
+
+The residence is provided to the workers to ensure smooth and unhindered work by labour engaged in the process of manufacturing of the taxable goods. 
+
+Consequently, the consumption of electricity and gas by the labour/workers in their accommodation is directly connected with the taxable activity of the respondent-company and the entire unit is considered as a manufacturing unit, and hence considered to be a direct manufacturing expenditure in relation to the cost of goods.” 19. 
+
+The above concludes that if an expenditure pertaining to consumption of electricity by labour of a company has been treated as an admissible input adjustment against the output tax paid on taxable supplies, the exclusion of the Project’s structure is a naive attempt to invoke Section 8(1)(a) of the Act, 1990, which cannot be given any countenance. 
+
+We are also fortified by a recent and authoritative pronouncement of law in the case of Commissioner Inland Revenue, Legal Zone, LTO and another v. 
+
+M/s. 
+
+Mayfair Spinning Mills Ltd and others (2025 SCMR 1 ), which findings are particularly instructive for the issue in hand “12.2. 
+
+The words "taxable supplies made, or to be made" in section 7 do not limit the scope of the correlation between the purchase of the input/raw material and the actual manufacture or production of taxable supplies, that is the making of taxable supplies. 
+
+Instead, they expressly expand its legal ambit to include input/raw materials intended for use in future for making taxable supplies. 
+
+This explicit legislative intent to encompass future taxable supplies cannot be overlooked. 
+
+In such circumstances, a registered person need not wait for the raw material, on which input tax has been paid, to be actually consumed in the manufacturing process before availing the adjustment against output tax. 
+
+This interpretation aligns with sound commercial and manufacturing reasoning, as highlighted in the majority opinion of the impugned judgment. 
+
+Reading into and imposing a time- based restriction as to the use of the input/raw material, which was not provided by the legislature at that time, by way of interpretation would be contrary to settled principles of statutory interpretation. 
+
+Indeed, there is no express requirement that the raw material, for which input tax is paid, must be actually used during the same tax period to qualify for adjustment. 
+
+Denying such adjustment solely because the raw material has not been consumed during the same tax period contradicts the legislative intent.”
+
+============================================================
+PAGE 15
+============================================================
+
+STR No. 9011 of 2021 Page 15 20. 
+
+The reliance may also be placed upon the judgment reported as Coca- Cola Beverages Pakistan Ltd. v. 
+
+Customs, Excise and Sales Tax Appellate Tribunal (2017 PTD 2380 ), wherein it was held that: “32. 
+
+The keyword in Sections 7 and 8(1)(a) is purpose. 
+
+Input tax can be deducted only on goods used for the purpose of taxable supplies. 
+
+The term purpose has not been defined in the Act. 
+
+As such, it has to be taken in its ordinary plain meaning. 
+
+According to the Oxford Advanced Learner s Dictionary (Eighth Edition), purpose means the intention, aim or function of something, the thing that something is supposed to achieve. 33....... 34. 
+
+From the above it follows that in order to determine whether input tax is admissible in a particular case it has to be seen whether the goods were used in relation to the taxable supplies. 
+
+It is not necessary that they should be an integral part thereof. 
+
+Once a registered person establishes that the goods in respect of which he claims input tax adjustment were used for the purpose of taxable supplies as aforesaid, he would be entitled to the adjustment unless the Federal Government has issued a notification under Section 8(1)(b) to disallow the same. 
+
+In the present cases there is no denying the fact that the registered persons placed the Appliances with the retailers to facilitate the sale of their products being their taxable supplies. 
+
+Keeping in view the principles discussed above, it is held that the Appliances were used for the purpose of taxable supplies........ 40. 
+
+The learned counsel for the Revenue argued that if this Court concluded that the Appliances did not constitute a taxable supply and were not chargeable to sales tax under Section 3 (as we have already held), input tax adjustment would still not be admissible thereon on the ground that no output tax was paid. 
+
+We are afraid, this argument is misconceived as there is no legal authority for the proposition that where no output tax was paid, the underlying input tax was not allowable. 
+
+In its order dated 08-12-2011 passed in S.T.A. 
+
+No. 2125/LB/09 and S.T.A. 
+
+No. 2127/LB/09 (which have been impugned before this Court in S.T.R. 
+
+Nos.44/2012 and 45/2012 supra) the Tribunal reasoned that the aforesaid argument could not be accepted even on the basis of the ratio of the case reported as Messrs Mayfair Spinning Mills Ltd., Lahore v. 
+
+Customs, Excise and Sales Tax Appellate Tribunal, Lahore and 2 others (PTCL 2002 CL 115). 
+
+In the said case, the registered person claimed input tax on goods that were destroyed in a fire. 
+
+The Revenue contended that the same could not be allowed as the goods were not eventually consumed in manufacturing the taxable supplies and thus did not form a part thereof. 
+
+This Court rejected the contention observing that since the goods were acquired for the purpose of taxable supplies they qualified for input tax adjustment. 
+
+We see no reason to differ with the Tribunal on this finding.” 21. 
+
+The upshot of the above discussion is that the applicant taxpayer had lawfully claimed the input tax adjustment against the services rendered by the JV under the EPC Agreement and rendering the same as inadmissible, tantamount to defeat the very essence and purpose of the concept of input tax adjustment from the output tax. 
+
+Resultantly, the questions framed above are answered in affirmative and accordingly STR Nos. 9011 & 49639 of 2021 are allowed.
+
+============================================================
+PAGE 16
+============================================================
+
+STR No. 9011 of 2021 Page 16 22. 
+
+With regard to STR Nos.16313 and 63693 of 2024 filed by the respondent department, the proposed questions are answered in negative and the said STRs are accordingly dismissed. 23. 
+
+Office shall send a copy of this order under seal of the Court to the Appellate Tribunal as per section 47(5) of the Act. (Hassan Nawaz Makhdoom) Judge (Khalid Ishaq) Judge APPROVED FOR REPORTING. (Hassan Nawaz Makhdoom) Judge (Khalid Ishaq) Judge Announced on 04.11.2025 Signed on 09.12.2025. 
+
+Awais!

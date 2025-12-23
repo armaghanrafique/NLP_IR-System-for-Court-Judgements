@@ -1,0 +1,50 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: CPLA_No_182014_Anwar_Khan_Vs_Mst._Saifora.pdf
+CONVERSION DATE: 2025-12-23 19:33:11
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 2
+ESTIMATED WORD COUNT: 168
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+CPLA. 
+
+No. 18/2014 Anwar Khan & others Petitioners Versus Mst. 
+
+Saifora & others Respondents PRESENT: - 1. 
+
+Mr. 
+
+Malik Shafqat Wali senior Advocate for the petitioners. 2. 
+
+Mr. 
+
+Rehmat Ali Advocate -on-Record on behalf of the respondents. 
+
+ORDER DATED: - 01.06.2016. 
+
+The learned counsel for the petitioners submits that the learned Chief Court in its order dated 19.09.2013 has not given any reason while refusing the admission of th e petition as such it cannot be termed as a speaking order. 
+
+We have gone through the impugned order of the learned Chief Court and heard the learned counsel, we are constrained to remand the case back to the learned Chief Court to hear it afresh and decide the same on merits. 
+
+Consequent thereto, this petition is converted into an appeal and the same is allowed.
+
+============================================================
+PAGE 2
+============================================================
+
+The case is remanded back to the learned Chief Court in above terms. 
+
+Chief Judge Judge Judge

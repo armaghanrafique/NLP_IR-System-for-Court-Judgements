@@ -1,0 +1,56 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: Sufiyan_Versus_The_State_Sufiyan_20versus_20the_20STate.pdf
+CONVERSION DATE: 2025-12-23 19:36:50
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 3
+ESTIMATED WORD COUNT: 177
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME APPELLATE COURT GILGIT -BALTISTAN, GILGIT. 
+
+Cr.PLA.No.29/2015 Sufiyan Petitioner. 
+
+VERSUS The State Respondent. 
+
+PRESENT: - 1. 
+
+Mr. 
+
+Javed Iqbal Advocate for the petitioner. 
+
+ORDER DATED: - 30.11.2015. 
+
+The learned counsel for the petitioner after arguing at length does not want to press this case, if direction be given to the learned Trial Court to examine the two Prosecution Witnesses (02) who have lastly been seen with the accused and deceased before the murder of the victim. 
+
+In view of the above, we direct the learned trial Court to examine the two Prosecution Witnesses within a period of one (01) month, who have been lastly seen with the accused and deceased before the murder of the deceased In case, the defendant/accused is responsible for any delay then the said period will be extended accordingly.
+
+============================================================
+PAGE 2
+============================================================
+
+The petitioner would be at liberty to repeat bail application after expiry of the said period, if so advised. 
+
+The petition is dismissed as wi thdrawn. 
+
+Chief Judge. 
+
+Judge. 
+
+Judge.
+
+============================================================
+PAGE 3
+============================================================
+
+

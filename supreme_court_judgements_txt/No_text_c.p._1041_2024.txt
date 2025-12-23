@@ -1,0 +1,186 @@
+======================================================================
+PDF TO TEXT CONVERSION REPORT
+======================================================================
+
+SOURCE PDF: No_text_c.p._1041_2024.pdf
+CONVERSION DATE: 2025-12-23 19:35:34
+EXTRACTION METHOD: PyPDF2
+TOTAL PAGES: 7
+ESTIMATED WORD COUNT: 1,940
+======================================================================
+
+TEXT CONTENT:
+======================================================================
+
+
+============================================================
+PAGE 1
+============================================================
+
+IN THE SUPREME COURT OF PAKISTAN (Appellate Jurisdiction) Present Justice Amin -ud-Din Khan Justice Jamal Khan Mandokhail Justice Naeem Akhter Afghan Civil Petition s No. 1041, 1042 & 1327 of 20 24 (Against the judgment dated 17.01.2024 of the Punjab Service Tribunal, Lahore passed in Appeals No. 3338, 3342 & 3343 of 2023) Khalid Mehmood Riaz Hussain Safdar Ali Petitioner s Versus The District Police Officer, DG Khan & others Respondent s For the Petitioner s: Mr. 
+
+Mudasar Khalid Abbasi, ASC (in CPs 1041 & 1042 of 24) Hafiz Noor Muhammad, ASC (in CP 1327 of 24) For the Respondents: Mr. 
+
+Baleegh -uz-Zaman, AAG Zafar Hayat, DSP, DG Khan Amicus Curie: Mr. 
+
+Kamran Adil, Addl. 
+
+IG Punjab Date of Hearing: 21.08.2025 ORDER Jamal Khan Mandokhail, J-. 
+
+The petitioners were Head Constable and Constables in District Police, Dera Ghazi Khan and were posted at FIA. 
+
+There was an allegation against them that they had unlawfully detained one Zaryab Khan and subsequently, commit ted his murder. 
+
+An FIR under section 302 of the Pakistan Penal Code (‘PPC’) was registered against the petitioners and others, and they were tried by the Criminal Court for their criminal act. 
+
+Simultaneously, a departmental inquiry and disciplinary proceedings were also initiated against them under the Punjab Police (E&D) Rules, 1975 (‘ Rules of 1975’ ). 
+
+They were charge sheeted on 24.06.2020 with an allegation of committing gross misconduct. 
+
+During the pendency of the departmental
+
+============================================================
+PAGE 2
+============================================================
+
+2 CPs_1041_of_24_etc_final[1].docx proceedings, the petitioners were acquitted of the criminal charge under section 302 PPC, by the Court of Sessions Judge, based on the benefit of doubt. 
+
+Whereas, o n conclusion of the departmental inquiry, a report was submitted by the Inquiry Officer before the authorized officer /DPO on 25.09.2020, holding the petitioners guilty of misconduct. 
+
+On the basis whereof, the authorized officer on 09.10.2020, recommended a penalty of reduction in pay by one stage for a period of two years to the petitioners. 
+
+The Regional Police Officer, Dera Ghazi Khan (‘RPO’), being the competent authority, did not agree with the recommendation s of the authorized officer and issued show cause notice s to the petitioners for enhancement of the penalty, who submitted their written repl ies. 
+
+After examining the record and hearing the petitioners in-perso n, the competent authority found that the punishment proposed by the authorized officer/DPO does not commensurate with the gravity of charge against the petitioners, hence, they were awarded major penalty of dismissal from service, vide order dated 12.12.2020. 
+
+Feeling aggrieved, t he petitioners preferred departmental appeals, which were dismissed on 08.06.2023. 
+
+Aggrieved therefrom, the petitioners filed service appeal s before the Punjab Service Tribunal (‘ Tribunal ’), which too were dismissed by means of the impugned judgment dated 17.01.2024, hence, these petitions for leave to appeal. 2. 
+
+The learned counsel for the petitioners mainly stressed that after acquittal of the petitioners from the charge of murder of Zaryab Khan, the allegation of mis -conduct against them becomes baseless, therefore, the report of the inquiry officer and the recommendations of the authorized officer could not be sustained. 
+
+He added that the competent authority would either agree with or reject the recommendations of the authorized officer, but instead of doing so, he without having lawful authority, exercised suo
+
+============================================================
+PAGE 3
+============================================================
+
+3 CPs_1041_of_24_etc_final[1].docx moto power and enhanced the penalty and dismiss ed the petitioners from their service s. 3. 
+
+The learned AAG opposed the contentions of the petitioners’ counsel and state d that the competent authority has power either to reject the recommendations, reduce or enhance the penalty proposed by the authorized officer, therefore, the order of the competent authority is just and proper, which ha d rightly been endorsed by the Tribunal. 
+
+The learned AAG contend ed that the petitioners have failed to raise any substantial question of law of public importance through the petitions, warranting grant of leave, as such, the petition s are liable to be dismissed. 4. 
+
+Arguments heard and record perused. 
+
+The allegations against the petitioners were that they had illegally detained deceased Zaryab Khan with effect from 18.06.2020 to 23.06.2020, without any FIR registered or warrants of arrest issued against him. 
+
+It was alleged that they had tortured the detainee and caused his custodial death. 
+
+Though the petitioners were acquitted of the charge of committing murder of Zaryab Khan, based on benefit of doubt, but unfortunately, it remains unclear what had prevented the government from filing an appeal against acquittal of the petitioners. 
+
+Since, the criminal case is not before us, we cannot dilate upon its merits. 
+
+However, d espite acquittal of the petitioners from the criminal charge, they were subjected to disciplinary proceedings, and were held guilty of misconduct. 
+
+The word misconduct has been defined in sub -rule (iii) of rule 2 of the Rules of 1975. 
+
+Misconduct is generally a misuse of authority, conduct prejudicial to good order, willful absence from office, any wrongful, improper or immoral conduct or abusing an official position for undue advantage. 
+
+The relevant rule provide s different punishment s for a misconduct, which can range from verbal and written warnings and can lead to more severe outcomes like demotion or termination, depending on
+
+============================================================
+PAGE 4
+============================================================
+
+4 CPs_1041_of_24_etc_final[1].docx the nature of the misconduct. 
+
+While the criminal act, defined in criminal laws, committed by an official in his official capacity, is called a criminal misconduct. 
+
+That can be prosecuted in criminal courts in accordance with the relevant penal laws, in addition to disciplinary proceedings. 
+
+Thus, acquittal of an accused official from a criminal charge shall not exonerate him from disciplinary proceedings on account of misconduct. 5. 
+
+The question for determination is as to whether detaining a person illegally and torturing him by an official constitute a misconduct? If so, what would be its consequences? Article 4 of the Constitution of the Islamic Republic of Pakistan, 1973 (‘ Constitution ’) provides that the protection of law and to be treated in accordance with law is the inalienable right of every citizen; and that no action detrimental to the life, liberty, body, reputation or property of any person shall be taken, save in accordance with law. 
+
+Article 10 of the Constitution provides safeguards as to arrest and detention of a person. 
+
+It mandates that no person who is arrested shall be detained in custody without being informed of the grounds of such arrest and shall be produced before the Magistrate within a period of 24 hours of such arrest. 
+
+According to Article 14 of the Constitution, the dignity of a man, and subject to law, privacy of home shall be inviolable. 
+
+It further mandates that no person shall be subjected to torture. 
+
+However, some of these rights are not absolute and can be subject to sub -legislation, providing a due process before a person being deprived of life, liberty, dignity or property, to make sure that the government officials must not be unfair to the people or abuse them physically or mentally. 
+
+Fair trial and due process is therefore, a fundamental right guaranteed by Article 10A of the Constitution, which mandates that laws are applied strictly, consistently and fairly.
+
+============================================================
+PAGE 5
+============================================================
+
+5 CPs_1041_of_24_etc_final[1].docx 6. 
+
+Torture and other cruel, inhumane, or degrading treatment including outrages upon personal dignity are not permitted in any circumstance, as it is against the human dignity and the rule of law. 
+
+Sometimes, torture leads to extrajudicial killings by the Police, presuming de facto impunity and as a means of brining alleged criminal to justice. 
+
+To stop this practice, an effective, dedicated, external oversight of the Police force is a need of the hour. 
+
+The right to life has been categorized as the supreme human right, which is codified in every major human rights treaty. 
+
+Therefore, the Constitution imposes a duty upon the State to protect the right to life of every citizen and to prevent custodial violence and killings. 
+
+These Constitutional guarantees against illegal detention, arrest, brutality, torture and extrajudicial killings in any form, are bedrock legal and fundamental principles enshrined in the Constitution, therefore, i llegal detention and torture are neither encouraged nor justified under any circumstances. 
+
+The principle of fundamental rights is to ensure a secure and just society. 
+
+These are also recognized worldwide and are adopted by the United Nation s in 1948, through a Universal Declaration of Human Rights (‘UDHR ’). 
+
+It provides the following common standards of achievement for all people and all nations: a) that basic rights and freedoms are inherit to all human beings, regardless of their nationality, gender, race, religion, or any other status; b) It states that everyone is entitled to rights and freedom without discrimination, including the right to life, liberty, and security of person, and protection from torture, slavery, and degrading treatment. 
+
+Through Resolution No. 43/173 of the General Assembly adopted by the United Nations General Assembly on 9th December 1988, to which Pakistan is also a signatory, providing a body of principles for the protection of all persons under any form of detention or imprisonment, therefore,
+
+============================================================
+PAGE 6
+============================================================
+
+6 CPs_1041_of_24_etc_final[1].docx internationally, human rights law imposes an absolute prohibition on human rights violations. 7. 
+
+Police force is the custodian of law and is committed to preserve the framework of fundamental rights enshrined in the Constitution. 
+
+It is bound to provide security and to protect life, liberty and dignity of a person. 
+
+When a government functionary harms a person without following the law, this not only constitutes a fundamental rights violation, but also violates due process of law, guaranteed by the Constitution. 
+
+There is no denial of the fac t that the police has the authority to arrest any person who violates the law, but any such action without adopting the due process provided by the Constitution and law, and treating such person inhumanly, cruelly and subjecting that person to torture, constitutes not only a criminal act, but also amounts to a misconduct. 8. 
+
+The petitioners were members of the Punjab Police, a disciplined force, whose terms and conditions of service are subject to the relevant police laws and the Rules of 1975. 
+
+In the present case, the allegations against the petitioners in their capacity as police officials of unlawful confinement, maltreatment and torture of Zaryab Khan ha ve been established during the inquiry through evidence and material described in the report of the inquiry officer as well as available on the record. 
+
+By detaining Zaryab Khan illegally and subjecting him to torture, the petitioners have acted in violation of their duty to act in accordance with law. 
+
+The act of the petitioners amounts to misuse of authority, falling within the definition of grave misconduct, defined in sub -rule (iii) of Rule 2 of the Rules of 1975. 
+
+The penalty proposed by the authorized officer did not commensurate with the gravity of the misconduct committed by the petitioners. 
+
+The RPO, being the competent authority, provided opportunity to the petitioners to defend themselves. 
+
+After adopting due process,
+
+============================================================
+PAGE 7
+============================================================
+
+7 CPs_1041_of_24_etc_final[1].docx the competent authority was justified in enhancing the penalty, from reduction in pay by one stage for a period of two years, recommended by the inquiry officer, to that of dismissal from their service. 
+
+Such departmental proceedings are necessary to uphold the rule of law and maintain public confidence in State’s institutions. 
+
+The learned counsel for the petitioners has not been able to point out any substantial question of law of public importance in the petitions, warrant ing interference. 
+
+Thus, in view of the above, leave is refused and the petitions are dismissed. 
+
+Judge Judge Judge Islamabad 21st August 2025 K. 
+
+Anees, Sani yaa Diyar, LC APPROVED FOR REPORTING
